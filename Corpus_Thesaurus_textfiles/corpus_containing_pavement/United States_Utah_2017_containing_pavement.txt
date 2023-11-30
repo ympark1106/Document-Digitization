@@ -1,0 +1,243 @@
+Surface Course One or more layers of a pavement structure designed to accommodate the traffic load the top layer that resists skidding traffic abrasion and the disintegrating effects of climate .
+Responsive Proposal A proposal conforming in all material respects to the requirements of the request for proposal. . Resources The labor equipment materials and incidentals necessary to perform work on a contract bid item or other element of work. . RightofWay A general term denoting land property or interest acquired for or devoted to transportation purposes. . Roadbed The graded portion of highway within top and side slopes prepared as a foundation for the pavement structure and shoulders. . Roadbed Material Material in cuts embankments and embankment foundations from the subgrade down that supports the pavement structure . .
+Structures Buildings bridges box culverts catch basins cribbings drop inlets headwalls manholes overhead sign supports retaining walls and other similar features. . Subgrade The top surface of a roadbed upon which the pavement structure shoulders and curbs are constructed. . Subgrade Treatment Stabilization of roadbed material. . Subcontractor An individual or legal entity to which a Contractor sublets part of the work .
+c. All safety features are installed and fully functional including but not limited to illumination signing pavement markings all coats of striping paint barrier guardrail impact attenuators delineators and all other safety appurtenances .
+Do not exceed legal gross weight limits on any public roads structures or on any component of the pavement structure excluding granular borrow .
+Provide temporary pavement markings and pavement marking removal . .
+Materials and procedures for installation of temporary pavement markings. . RELATED SECTIONS A .
+Provide plastic raised pavement markers that have reflective material with clear covers as needed for the particular application. . Supply marker body manufactured of polyurethane plastic in color specified for required type .
+Provide clear polyvinyl chloride covers attached to marker body with heavy duty staples. . Supply marker with a method of attaching to pavement surface .
+Apply temporary pavement markings along the entire length of any roadway surfaces opened to traffic . .
+Refer to Section and Utah MUTCD Section B .. . Use the same segment and cycle length of permanent markings for all temporary brokenline pavement markings .
+Use channelizing devices or other delineation as directed by the Engineer to indicate road user paths in work zones when it is not possible to provide a clear path with temporary pavement markings. . PAVEMENT MARKING PAINT AND GLASS BEADS A. Reapply pavement marking paint at two week intervals to maintain markings that provide a clear path during night and twilight periods and wet pavement conditions. . PAVEMENT MARKING TAPE A .
+Apply pavement marking tape according to manufacturers directions .
+Maintain or reapply pavement marking tape to maintain markings that provide a clear path during night and twilight periods and wet pavement conditions .
+C. Inspect and replace immediately any loose missing or damaged pavement markings .
+Attach raised pavement marker according to manufacturers directions .
+Space raised pavement markers as follows .
+Implementation Temporary Environmental Controls Page of January C. DropInlet Barrier A barrier placed around a storm drain inlet grate situated outside of roadway pavement condition that is designed to intercept and trap sedimentladen runoff before entering the storm drain system .
+E. Final Stabilization Procedures and controls completed as the final measure to protect disturbed areas of a construction site from erosion and sedimentation until vegetation regrowth occurs to provide ultimate erosion protection. . Includes work within areas to be vegetated such as establishing final grades placing topsoil incorporating seed roughening slopes by walking trackmounted equipment up and down slopes applying mulch erosion control blanket flexible channel liner and installing other landscape treatments to protect exposed soils from erosion. . Includes work within areas intended to remain unvegetated such as placing final pavement installing stone gravel and other stable material that will prevent erosion of underlying soil .
+F. GutterInlet Barrier A device designed and prefabricated to secure to the top envelop or hang below a storm drain inlet grate situated within roadway pavement condition that keeps sediment and debris from entering the storm drain system .
+Place cross section stakes at a maximum spacing of ft. Crosssection stakes reference physical points in the proposed crosssection such as edge of pavement or top back of curb b .
+Develop a method of horizontal and vertical survey control for the placement of concrete pavement. . Use laser wire or string line to maintain horizontal and vertical control . .
+Layout temporary and permanent pavement markings according to Section . . Place references for traffic striping no more than ft apart on tangents and ft on curves. . CLEANUP A .
+Do not damage the final pavement surface .
+Only use equipment with rubber tread on the final pavement surface .
+F. Provide a concrete collar extending at least inches outside the frame or flange and to a depth equal to the pavement but not less than inches .
+Place and compact untreated base course below the pavement structure .
+Place pavement to match the existing pavement surface .
+Materials may include recycled Portland Cement Concrete. . Do not include asphalt pavement materials. . MATERIALS A .
+Meet the pavement section material density requirement for pipes that encroach into the pavement section or use flowable fill. . Meet percent of the developed field density for material with more than percent retained on the ¾ inch sieve .
+C. Break and scarify all underlying concrete pavement surfaces so that pieces do not exceed ft before placing embankment over an existing concrete pavement surface that is outside the limits of removal or excavation shown . .
+Remove other pavement surfaces that are not Portland Cement Concrete .
+Place embankment at least ft outward from edge of approach roadway pavement when adjoining embankment is not an approach embankment .
+Install for pavement sections or other applications at locations shown .
+Materials and procedures for preparing asphalt pavement surface and installing asphalt paving fabric. . RELATED SECTIONS A .
+Move or demolish designated buildings including basements foundations sidewalks pavement slabs porches fences and outbuildings on each parcel .
+Cut existing pavement on the designated lines with straight vertical edges free from irregularities when joining new construction to existing pavement .
+Completely remove pavement down to the underlying base course or subgrade . .
+Break up pavement into pieces not larger than ft in area. . Scarify and cover broken concrete with at least ft of suitable backfill material .
+Saw cut the pavement at the front face of the castinplace barrier . .
+Remove barrier and underlying pavement . .
+D. Payment includes excavation removal transportation and disposal when existing pavement is included in Roadway Excavation plan quantity .
+C. Remove material in all cut sections to the depth shown. . Scarify to an inch depth and compact subgrade to at least percent of maximum laboratory density before placing pavement section .
+Cut existing pavement on the designated lines with straight vertical edges free from irregularities when joining new construction to existing pavement .
+B. Excavate all pavement as shown .
+C. Dispose of pavement using methods acceptable to the Engineer according to all applicable rules and regulations and as follows .
+Inspect pipes after installation of pipe placement of backfill and before placing pavement or finished grade according to Table and Table .
+Acceptance testing and determination of a minimum International Roughness Index IRI for pavement smoothness of Hot Mix Asphalt HMA Open Graded Surface Course OGSC Bonded Wearing Course BWC Stone Matrix Asphalt SMA and Portland Cement Concrete Pavement PCCP rehabilitation using a profiler approved and certified by the Department .
+Application of IncentiveDisincentive for pavement smoothness. . RELATED SECTIONS A .
+Newly constructed pavement surfaces having two or more opportunities for improving ride .
+Newly constructed pavement surfaces without two or more opportunities for improving ride .
+Each pavement section is laid out consecutively from the start of the project . .
+Sections include a. Bridges approach slabs and pavement within ft of the approach slab with final riding surfaces placed as part of the contract .
+Average of two wheel path IRIs taken from each pavement section .
+Profile deviations in a continuous ft pavement as identified using the ProVAL Smoothness Assurance analysis calculating IRI with a continuous short interval of ft . m and the mm filter applied. . SUBMITTALS A. Certifications for profilers and operators for information .
+Refer to AASHTO R . . Data files collected prior to beginning work for Category pavements. . Data files collected before corrective work. . Data files collected for final acceptance. . GENERAL REQUIREMENTS A. Certify operators and equipment according to UDOT Materials Manual of Instruction . . Use the prescribed filter settings from the certification for all measurements in this Section .
+Perform work necessary to prepare the pavement for testing including sweeping .
+Limit transverse pavement deviations to less than inch from the lower edge of a foot straightedge .
+Final pavement smoothness acceptance is based on the profile of the final surface of all Pavement Sections of the project .
+The Department applies IncentiveDisincentive for final smoothness to Category pavement surfaces longer than ft and structure sections .
+Refer to Section S. . Prorate incentivesdisincentives for partial pavement sections. . Not eligible for incentives a. Pavement Sections requiring corrective action at the time of acceptance testing .
+The minimum disincentive for these pavement sections is each .
+The Department applies IncentiveDisincentive for Category pavements according to Section S. .
+Profile existing roadway surface before beginning construction to determine MRIo for Category pavements. . PAVEMENT PROFILE CORRECTION A .
+Correct localized roughness defects across lanes medians and shoulders in widths terminating at a lane line edge of pavement or center of the lane either by grinding with a device approved by the Engineer or by surface replacement as approved by the Engineer .
+Notify the Engineer at least two working days before performing acceptance testing for pavement smoothness. . Clearly define each of the pavement sections to be evaluated .
+Submit a summary report within two working days that includes pavement section identification structure section identification profile results and bump locations showing localized roughness corrections by section. . PAVEMENT THICKNESS A .
+B. Retest other pavements for thickness after grinding as determined by the Engineer .
+Saw or cut existing pavements curb and gutter sidewalk and any appurtenances as required to provide a smooth surface to match .
+Does not apply to new Portland cement concrete pavement PCCP joint sawing .
+D. Apply a tack coat to the cut edge before placing hot mix asphalt pavement when appropriate .
+Production construction and compaction of UTBC used for pavements shoulders and incidental construction. . RELATED SECTIONS A .
+Products and procedures for mixing and spreading a properly proportioned homogeneous mixture of aggregate mineral filler additives polymermodified asphalt emulsion and water to an existing pavement providing a firm surface adhesion and smooth stable skid resistant texture. . RELATED SECTIONS A .
+The secondary strikeoff must have the same adjustments as the spreader box. . Ability to side shift the box to compensate for variations in the pavement geometry . .
+Do not apply microsurfacing if either the pavement or air temperature is below degrees F. C. Do not apply microsurfacing when the temperature is projected below degrees F within hours of placing microsurfacing .
+Clean the pavement surface of dirt sand dust oil and other objectionable material immediately before applying microsurfacing .
+APPLICATION A. Prewet the pavement surface as required due to local conditions by fogging ahead of the microsurfacing box. . Do not create standing water on the pavement in front of the micro surfacing box .
+D. Place microsurfacing adjacent to concrete pavements or concrete curb and gutter with a straight longitudinal edge. . Do not allow overlap in these areas .
+Option to incorporate Reclaimed Asphalt Pavement RAP materials into HMA pavement. . RELATED SECTIONS A .
+Crushed or milled asphalt materials that have been removed from pavements .
+Obtain cores from the mat and longitudinal joint within two contract days after the pavement is placed .
+Move transversely to a point ft from the edge of the pavement for inplace mat density if the random location for coring falls within ft of the edge of the overall pavement section outer part of shoulders .
+percent of Theoretical Maximum Specific Gravity except for thin overlay pavements .
+percent of Theoretical Maximum Specific Gravity for Thin overlay pavement projects .
+Do not take longitudinal joint cores for thin overlay pavement .
+The thickness requirement may be waived when matching up to existing pavement curb and gutter for Pavement in or next to intersections .
+e. Check thickness regularly with a depth probe and take corrective action as necessary for thin overlay pavement. . Longitudinal Joint a .
+Acceptance for mat density and longitudinal joint density may be based on establishing and maintaining a roller pattern to obtain maximum density without overstressing the pavement .
+C. Complete spot leveling before placing pavement courses. . Place spread and compact leveling mix on portions of the existing surface . .
+D. Apply tack coat to all paved surfaces before applying a leveling course or pavement lift as required in Section .
+Refer to Section and DD and TC Series Standard Drawings for pavement edge slope required to safely maintain traffic .
+Establish a rolling pattern to obtain maximum density without over stressing the pavement .
+Obtain cores within two contract days after the pavement is placed .
+Move transversely to a point ft from the edge of the pavement for inplace density if the random location for coring falls within ft of the edge of the overall pavement section outer part of shoulders .
+e. Thickness acceptance for thin overlay pavement consists of checking thickness regularly with a depth probe during placement and taking corrective action as necessary .
+Acceptance for density may be based on establishing and maintaining a roller pattern to obtain maximum density without overstressing the pavement .
+SECTION INCLUDES A. Asphalt materials binders emulsions and crack sealant for pavements. . RELATED SECTIONS Not Used .
+No formation of an oily ooze at the interface between the sealant and the asphalt pavement or softening or other harmful effects on the asphalt pavement .
+Add hydrated lime to all asphalt pavement mixes. . Add lime as determined in the approved mix design. . Base the amount of hydrated lime used on the dry weight of the virgin aggregate. . Use either Method A or B unless Method B is specified. . Use Method A only when the mix is produced by a Certified HotMix Asphalt Supplier .
+D. Tack coat Emulsified asphalt to the existing surface or new pavement surface and intermediate lifts. . SUBMITTALS A .
+Residual Asphalt binder content needed on the pavement .
+Remove spalled or delaminated concrete in the upper one third to one half of the pavement. . Clean maintain and prepare joints. . Furnish place and cure patch material. . RELATED SECTIONS A .
+Finish the patched surface to within ⅛ inch of the existing pavement .
+Failures due to cracking including any visible crack shrinkage including breaking of bond between patch and pavement or pop outs including pieces of pavement broken loose from surface greater than ½ inch diameter . .
+E. Fill overcuts flush to the pavement surface with an approved repair epoxy .
+Panel Area of pavement within a traffic lane or shoulder bound by two transverse joints. . SUBMITTALS A .
+Point of acceptance for air content is the inplace pavement. . Sampling and testing will be performed at the point of placement with necessary adjustments applied based on correlation testing .
+Perform air test on concrete placed in front of the paver and again from the same load in the finished pavement .
+The Engineer may accept pavement deficient by more than ¾ inch at percent pay or require removal and replacement .
+c. The Engineer graphs the deficient areas by plotting new cores and the original cores to define deficient areas assuming the following The graph represents the thickness of the pavement .
+The thickness varies linearly along the pavement length from core depth to core depth .
+The pavement is a constant depth in the transverse direction . .
+G. Quantity adjustment when overlaying existing pavement surfaces not constructed with the current project . .
+C. Provide basket assemblies for dowel bars in concrete pavement that meet the following requirements .
+Use a system that limits deviations in the pavement surface to ⅛ inch in feet and deviations in the vertical edge of the pavement to ¼ inch and maintains specified pavement thickness .
+Keep forms free from warps bends kinks and equal in depth to the specified pavement edge . .
+D. Profile grind existing adjacent pavement before concrete placement . .
+Profile grinding of existing pavement is measured and paid separately or as extra work. . BATCH AND MIX A .
+G. Provide protection for existing surfaces when placing concrete in an adjoining longitudinal section companion placement. . Do not place concrete for companion placement before existing concrete has achieved at least a compressive strength of psi determined by Maturity Method AASHTO T or cast cylinders. . Repair damage to existing pavement resulting from companion placement . .
+C. Fill honeycomb areas in the vertical edge of the pavement with mortar .
+D. Texture the pavement by burlap drag unless the final texture includes artificial turf drag. . Use at least three plies of wet burlap and drag parallel to the centerline without tearing . .
+Drag artificial turf along the pavement in the direction of paving. . Use plastic turf that is wide enough to cover the entire pavement width and produce a uniform texture with corrugations inch to ⅛ inch deep. . Use turf with a blade density of bladesft and each blade at least ¾ inch long . .
+Apply concrete curing compound to the entire pavement surface and exposed edges immediately after completing finishing operations . .
+Stop the paving operations until the problem is resolved if the concrete curing compound application behind the paving machine is delayed. . Use fogging to keep the pavement moist until the concrete curing compound application resumes .
+Prevent damage to the pavement surface texture. . PROTECTION A .
+Protect pavement against damage and marring. . Construct crossings to bridge the concrete when necessary as approved by the Engineer .
+Do not allow hauling equipment or traffic on the pavement until percent of the specified day minimum compressive strength has been achieved .
+Maturity method AASHTO T . Cast cylinders C. Do not permit hauling equipment or traffic on the pavement before all sawed joints are sealed . .
+Keep the joint faces at right angles to the top pavement surface with longitudinal joints parallel to the centerline and coinciding with the traffic lane lines .
+Match joints in adjacent lanes to form a continuous line across the pavement width including the concrete shoulders . .
+D. Strike off level with the pavement surface and texture .
+Repair or replace defective pavement panels . .
+F. Drill and epoxy tiebarsdowel bars as required into existing pavement .
+G. Match the profile and texture of existing pavement .
+Remove replace or repair any pavement damaged by rain or hail as determined by the Engineer .
+Remove full panel or partial panel of existing pavement .
+Drill holes middepth of the slab without causing damage to the remaining pavement section and meet bar placement tolerances .
+Maintain existing pavement joint layout. . Place a bond breaker approved by the Engineer on the existing pavement edges that compose existing joints either transverse or horizontal . .
+Correct patch profiles in excess of ⅛ inch higher than the existing pavement profile through surface grinding or removal and replacement . .
+Correct patch profiles in excess of ⅛ inch lower than the existing pavement profile through removal and replacement of the patch. . Make any necessary corrections to the patch finish .
+C. Texture the surface to match the existing pavement . .
+Cure the concrete pavement .
+Use jackhammers equal to or less than the nominal lb class to prevent damage to adjacent or underlying concrete pavement .
+Saw cut the dowel slot into pavement as shown in the PV Series Standard Drawings .
+Adjust the height of the foam core board by cutting so it does not extend above the pavement surface .
+Require a representative from the manufacturer of the patching material to be on site for the first days placement. . Retrofits can not be higher than ¼ inch in relation to existing pavement before grinding . .
+Finished dowel bar retrofits must be flush with pavement after grinding operations .
+P. Begin pavement grinding within working days of placing dowel bar retrofit patching materials. . Continue grinding operations without interruption until completed .
+SECTION INCLUDES A. Injection of a product to raise and support a failed section of concrete pavement back to grade for a suitable ride. . RELATED SECTIONS A. Pavement Cutting .
+Establish a finish target profile of pavement using elevation measuring device or string lines .
+Establish a control line using a dribbledrip line temporary pavement marking material or permanent application of pavement marking material according to Section in its permanent configuration and location before the installation of longitudinal rumble strip .
+C. Construct a ft long test section each production day to demonstrate that the equipment personnel and methods of operation are capable of producing acceptable results. . Do not proceed with work until it is demonstrated that the required dimensions alignment and smoothness can be achieved without tearing or otherwise damaging the pavement. . Do not proceed with work until it is demonstrated that the uniform application of asphalt flush coat or seal coat is being achieved at the specified application rate over the required area .
+c. Remove and replace longitudinal rumble strip greater than inches out of allowable tolerance by milling inches deep from final pavement surface and three times the rumble strip width .
+SECTION INCLUDES A. Furnish acrylic waterbased pavement marking paint .
+Apply to hot mix asphalt or portland cement concrete pavement as longitudinal lines transverse markings contrast lines and other related markings .
+C. Remove pavement markings. . RELATED SECTIONS Not Used .
+DEFINITIONS A. Longitudinal Markings pavement markings that are generally placed parallel and adjacent to the flow of traffic such as lane lines center lines edge lines channelizing lines and others .
+B. Transverse Markings pavement markings that are generally placed perpendicular and across the flow of traffic such as shoulder markings word symbol and arrow markings stop lines crosswalk lines speed measurement markings parking space markings and others .
+Accept pavement marking paint from qualified manufacturer supplied samples . .
+Price reductions for pavement markings installed below the specified wet mil thickness are outlined in Table .
+Repaint pavement markings at no cost to the Department .
+The Department will apply price reductions for applied pavement markings that do not meet the requirements of Table when the batch is sampled at the applicators yard for quality verification according to UDOT Quality Management Plan Pavement Marking Paint .
+The Department will require repainting for pavement markings more than five percentage points below total solids pigment or non volatile vehicle properties from Table when the project is sampled for quality verification according to Minimum Sampling and Testing Requirements .
+Repaint pavement markings at no cost to the Department .
+Repaint pavement markings at no cost to the Department .
+C. Refer to Table for price reduction of pavement markings that are less than required wet mils in thickness .
+D. No additional payment for pavement markings placed in excess of required wet mils in thickness or exceeding dimensional requirements outlined in this Section Article .
+paragraph B. E. Glass Sphere Beads Apply at least lbgal of paint the full length and width of line and pavement markings. . Calibrate bead guns and measure bead distribution according to UDOT Materials Manual of Instruction Procedure for Sampling and Accepting Pavement Marking Paint and Beads. . Do not apply glass beads to contrast lines black paint .
+Implementation Pavement Marking Paint Page of January G. Apply lines and pavement markings only when the air and pavement temperature are .
+Use equipment specifically designed for removal of pavement marking material .
+The guarantee covers percent of the pavement marking materials and installation costs . .
+Removal and replacement of the pavement marking for failed segment . .
+PAVEMENT MARKING TAPE A. Preformed adhesive tape with a raised profile for longitudinal lines on all pavement surfaces .
+B. Preformed adhesive tape with a flat or raised profile for legends and symbols on all pavement surfaces .
+Use percent lead free twocomponent resin and hardener epoxy system for longitudinal lines legends and symbols for all pavement surfaces .
+Use a twocomponent pavement marking system compliant with Federal and State VOC regulations used for longitudinal lines legends and symbols and for use on all pavement surfaces .
+Use for legends and symbols only on all pavement surfaces .
+B. Heatfused preformed and sprayed pavement marking materials .
+Use for longitudinal lines only on all pavement surfaces .
+Prepare pavement surface according to manufacturers recommendations . .
+Apply pavement marking materials according to manufacturers recommendations .
+b. Gutters. . Place joint filler between the sidewalk or median filler and the curb or adjacent pavement sidewalk driveway pavement or structure . .
+Adjust the spray bar height to provide uniform distribution of binder across the application width and triple lapping of the binder on the pavement surface .
+Use rotary brooms with nylon or steel bristles or pickup or vacuum brooms for pavement cleaning or brooming operations .
+Apply bituminous flush coat material when the air temperature in the shade is degrees F and rising and the pavement temperature is degrees F and rising. . Do not apply bituminous flush coat material during fog rain or other adverse conditions. . COVER MATERIAL STOCKPILE A. Construct on a clean base to minimize contamination .
+Apply raised pavement markers according to Section .
+Apply temporary pavement marking paint according to Section as determined by the Engineer. . ASPHALT MATERIALCOVER MATERIAL APPLICATION A .
+Allow at least calendar days after completing flush coat before applying permanent pavement markings .
+Place when the air temperature in the shade and the pavement surface temperature are above degrees F and rising .
+A BWC is a homogeneous wearing surface and pavement seal that can be opened to traffic immediately after cooling .
+B. PolymerModified Emulsion Membrane PMEM A warm modified emulsion applied to the pavement to seal the underlying pavement and provide a strong bond to the surface course .
+paragraph Q. . Clearly show placement of the longitudinal joints with respect to final pavement markings and meeting the requirements of this Section Article .
+Use a paver with a screed that is able to crown the pavement at the center and have vertically adjusted extensions to accommodate the desired pavement profile. . MATERIAL TRANSFER VEHICLE CHARACTERISTICS A .
+Deposit the BWC material directly from haul trucks into the MTV without contacting the pavement . .
+C. Remove symbols characters or other markings greater than ¼ inch above the existing pavement .
+E. Thoroughly clean the pavement surface to be overlaid of deleterious material giving specific attention to accumulated mud and debris. . Use pressurized water or vacuum systems if necessary to obtain a clean surface. . BWC PLACEMENT A .
+Place between May and September when both the air temperature in the shade and the pavement surface temperature are above degrees F and rising .
+Do not place if the Engineer determines excessive moisture is present in the pavement structure .
+D. Do not open the new pavement to traffic until the rolling operation is complete and the material has cooled below degrees F. .
+Do not apply slurry seal if either the pavement or air temperature is below degrees F and falling. . Slurry seal may be applied when both the pavement and air temperatures are above degrees F and rising .
+APPLICATION A. Prewet the entire surface by fogging ahead of the slurry box. . Do not over apply causing free water to sit on the pavement in front of the slurry box .
+Place slurry seal adjacent to concrete pavements or concrete curb and gutter with a straight longitudinal edge. . Do not allow overlap on these areas . .
+C. Use equipment capable of accommodating pavement to barrier reinforcing bars. . CASTINPLACE CONSTANT SLOPE CONCRETE BARRIER A. ElectricalATMS Conduits Junction Boxes and Pull Boxes .
+Flexible Work Zone Devices Include such devices as roll up signs cones tall cones and flags with retroreflective sheeting. . Work Zone Channelization Devices Include such devices as drums vertical panels barricades tubular markers and pavement marking tabs. . SUBMITTALS A .
+Use of standard orange acceptable. . Meet or exceed the minimum requirements of ASTM Type V for temporary raised pavement markers .
+F. Backfill holes with local material compact to the density of the surrounding area and cap with surrounding material. . Cap with concrete at least inch thick and finish to match surrounding grade if located in pavement. . CONSTRUCT POLE FOUNDATION A .
+Maximum trench width inches. . Use flowable fill to bottom of pavement or to within inches of the roadway surface when pavement is less than inches thick . .
+Match the composition density and elevation inch of the existing pavement section .
+B. Rotomill existing bituminous pavement surface to the width and depth shown not to exceed an additional ⅜ inch of plan depth measured from original surface to the top of the ridge .
+C. Rotomill existing bituminous pavement surface to a depth below final profile and cross slope grade as shown .
+Procedure for grinding existing concrete pavements. . RELATED SECTIONS A .
+Provide and operate equipment utilizing diamond blades mounted on a self propelled machine designed for grinding and texturing pavement .
+Begin and end grinding at lines normal to the pavement centerline .
+D. Do not cause damage to the underlying surface of the pavement .
+F. Provide uniform transverse slope of the pavement with no depressions or misalignment of slope greater than ¼ inch in ft when tested with a ft straightedge .
+Provide and operate equipment utilizing diamond blades mounted on a selfpropelled machine designed for grinding and texturing pavement .
+Both made of lowmodulus silicone specifically formulated to seal portland cement concrete pavement joints .
+Pass gradually from one side of the pavement to the other .
+B. Sleeper Slab A structural slab that is designed as a transition from the approach slab to the approach roadway pavement .
+C. Do not apply penetrating concrete sealer to portland cement concrete pavement PCCP or other roadway surface .
+Cut the compression joint seal length to the exact width of the pavement .
+c. Maintain the membrane in good condition until covered with pavement . .
+D. Use barriers during any blastcleaning operations to protect pedestrians and vehicles and to prevent spreading or falling of abrasive materials and debris on the traveled portions of the pavement .
+Remove any abrasive materials and debris on pavement shoulders or slope paving before reopening work areas to traffic .
+Prevent materials and debris from spreading or falling on the traveled portions of the pavement .
+D. Remove any abrasive material and debris deposited on the structure pavement shoulders or slope protection before reopening work areas to traffic. . CLEAN UP A .
+Use barriers during any blastcleaning operations to protect pedestrians and vehicles and to prevent spreading or falling of abrasive materials and debris on the traveled portions of the pavement .
+Remove any abrasive materials and debris on pavement shoulders or slope paving before reopening work areas to traffic .
+Minimum cover under pavement is ft and minimum cover under sidewalks is ft. .
+Minimum cover in highway rightofway greater than ft from the edge of the pavement is ft. .
+Minimum cover in highway rightofway within ft of the edge of the pavement is ft. .
+H. Encase open trench conduit in sand backfill covered by flowable fill within existing roadway proposed roadway and sidewalk pavement areas only. . Seal junction box wall around conduits using flowable fill or approved handmix grout. . Use inches of sand backfill covered with native material in all other areas . .
+Install red warning tape with black legend Caution Buried Electric in all other trenches. . Not required when flowable fill is directly overlaid with asphalt pavement or PCCP. . Not required when boring or plowing conduit .
+Install Tpatch over trenched area according to AT Series Standard Drawings. . Cut pavement from roadway surface to roadway base on both sides of trench to provide a clean straight wall for Tpatch before any backhoe use according to Section . .
+Use flowable fill to bottom of new pavement or sidewalk . .
+Match existing pavement thickness .
+New pavement thickness must be ½ inches minimum and inches maximum . .
+Restore sidewalk or decorative pavement to original condition or better after work is completed .
+Use sand backfill in trench sections outside of existing roadway proposed roadway and sidewalk pavement areas including exposed conduit locations when plowing or boring .
+Restore all areas including landscaping concrete pavement asphalt finished curbs and gutters box culverts sewers underground water mains sprinkler systems sidewalks concrete flatwork colored textured or decorative surfaces damaged during conduit and junction box installation .
+Place loops under new pavement ¾ inches below the surface of the base course and backfill with surrounding material .
+C. Pick up State furnished items at the following location Utah Department of Transportation Traffic Operations Center TOC South West Salt Lake City Utah D. Obtain approval for tower site location and pavement sensor placement if required before construction . .
+Match the composition density and elevation within inch of the existing pavement section .

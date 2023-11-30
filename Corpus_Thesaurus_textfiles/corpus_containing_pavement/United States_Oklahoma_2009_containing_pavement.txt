@@ -1,0 +1,339 @@
+Modification does not provide structural value to the pavement section. . Stabilization .
+Chemical treatment of Subgrade soils or aggregates by incorporating materials in order to provide structural value to the pavement section .
+The Department will not consider a VEP that changes the type or thickness of the pavement structure .
+For temporary pavements quality characteristics of materials and construction will be measured except for smoothness .
+The Department will withhold deductions for deficiencies the same as those for permanent pavements .
+Upon removal of temporary pavements if no significant failures occurred in these pavements during required use the Resident Engineer will release deductions withheld for deficiencies .
+The Contractor is responsible for maintenance and reconstruction of the temporary pavement during required use if necessary .
+If the Contract includes the placing material on or using a previously constructed subgrade base course pavement or structure the Contractor shall maintain the previously constructed work during construction operations .
+Substantial Completion Substantial completion is defined as follows All pavement markings and safety appurtenances have been installed Traffic has been placed in its final lane configuration and No further lane closures will be necessary to perform remaining Contract work .
+Remove existing pavement or reduce it to a maximum particle size of in mm however the Department will not allow existing pavement in the top in mm of fill below the subgrade elevation .
+DESCRIPTION This work consists of obliterating specified sections of abandoned road by removing and disposing of pavement surfaces structures and other items. . MATERIAL VACANT .
+CONSTRUCTION METHODS After the abandoned road is no longer needed for traffic break and remove pavement surfaces and base courses in accordance with Section Removal of Buildings Structures and Obstructions NESHAP Inspection .
+After removing the pavement surfaces structures and other items scarify or plow the abandoned subgrade material and round and smooth by blading .
+A. Subgrade Stabilization Incorporate chemical additives into the subgrade to increase the strength of the subgrade soils and to provide structural value for the pavement structure .
+DESCRIPTION This work consists of preparing the existing materials for the immediate construction of subbase base pavement or surface. . MATERIALS VACANT .
+Use butt or sawed longitudinal construction joints those between driving lanes shall match the longitudinal joint of overlying pavement .
+Place other longitudinal joints within ft m of the longitudinal joint of the overlying pavement and construct transverse joints as butt joints .
+Before placing the overlying pavement sweep the CTB surface .
+Limit construction traffic on the CTB to that necessary to apply asphalt cement fabric and overlying pavement .
+Place overlying pavement on the base after compressive strengths reach at least psi kPa in accordance with OHD L. Repair damage to the CTB at no additional cost to the Department .
+The Department will not allow construction traffic or the placement of overlying pavements on the econocrete base until the unconfined compressive strengths of test cylinders made during the base placement reach at least psi kPa .
+From hr to hr before placing reinforcing steel for the overlying pavement sweep the econocrete base and make a second application of curing agent at a rate of at least gal per ft² L per .
+Perform a hydraulic efficiency test hr before placing the overlying pavement .
+Do not place overlying pavement until achieving acceptable hydraulic efficiency defined as qt L of water absorbed into the base surface with no remaining standing water sec after pouring .
+Construction Traffic Do not allow construction traffic on the OGBB until the OGBB has cooled overnight and do not place overlying pavement on the OGBB until the curing period is complete .
+Ensure the day curing period is complete before placing pavement layers on top of the OGPCCB .
+DESCRIPTION This work consists of installing geosynthetic reinforcement material beneath the aggregate base layer in the pavement structure or beneath the roadway embankment .
+Ensure the distributor can apply material to vertical faces of asphalt pavement at the joints between paving operations .
+The Department will not allow equipment that crushes the aggregate in the bituminous material. . CONSTRUCTION METHODS A. Tolerances Provide the required surface construction in accordance with the following Surface Elevation and Smoothness Finish the surface elevations for new pavement construction and overlays within ½ in mm of the elevations shown on the Plans .
+C. Surface Protection Before starting paving operations submit to the Resident Engineer a plan to protect the pavement from damage by the paving operations .
+If paving operations spall crack chip rut or deface the pavement repair the pavement at no additional cost to the Department . .
+DESCRIPTION This work consists of applying microsurfacing or UltraThin Bonded Wearing Course to an existing pavement surface in layers not greater than in mm thick .
+Provide a machine with a screed that is capable of crowning the pavement at the center and adjusting the extensions vertically to accommodate the pavement profile. . CONSTRUCTION METHODS If constructing under traffic place equipment loading vehicles and supply trucks in the lane being paved .
+The Resident Engineer may allow paving on a damp pavement surface with aggregate voids free of standing water and a good weather forecast .
+The Resident Engineer may adjust the spray rate based on the pavement surface conditions and the recommendations of the material supplier .
+Apply UTBWC at the target rate shown on the Plans or as determined by the Resident Engineer to minimize fractures in the top size aggregate in the finished pavement surface and at the paving edges for tapering .
+The Resident Engineer will determine the acceptable extent of fracturing at the edge of the pavement due to rolling operations .
+Do not allow traffic on the new pavement until the rolling operation is complete and the material temperature is below F C. Ensure the compacted thickness of the finished UTBWC is at least ½ in mm for Type A ⅝ in mm for Type B and ¾ in mm for Type C. Acceptance A lot consists of one days run or a maximum of ton metric ton .
+Restrict traffic from the finished PFC pavement until the surface temperature is within F C of the ambient temperature or hr after the final rolling . .
+Restrict traffic from the finished OGFSC pavement until the surface temperature is within F C of the ambient temperature or hr after the final rolling .
+The amount of asphalt remaining on the pavement surface after all of the water both in the original emulsion and any additional water has evaporated. . MATERIALS Provide materials in accordance with Subsection .
+Alter the application rate as directed by the Resident Engineer based on the pavement surface texture .
+Alter the application rate as directed by the Resident Engineer based on the pavement surface texture .
+The amount of asphalt remaining on the pavement surface after the petroleum solvent evaporates .
+DESCRIPTION This work consists of applying reinforcement fabric for hot mix asphalt HMA pavement. . MATERIALS Provide materials in accordance with the following subsections Material Subsection Reinforcement Fabric .
+Broom the fabric to remove air bubbles and to maximize contact with the pavement .
+Use selfpropelled pneumatictired rollers to embed reinforcement fabric into the bituminous binder and bond it to the pavement .
+If excess binder bleeds through the fabric before placing pavement overlay blot the excess binder by spreading sand on the affected area as directed by the Resident Engineer .
+F. Pavement Overlay Place the pavement overlay immediately after placing the fabric unless directed otherwise by the Resident Engineer .
+Ensure the pavement overlay temperature does not exceed F C to prevent damage to the fabric .
+Provide an MTV to place the top two lifts of HMA for pavements designed minimum of million ESALs unless otherwise specified in the Contract .
+Establish the alignment along one pavement edge with a string or wire line .
+If making joints between old and new pavements or between successive days work create a continuous bond between the surfaces .
+At times and locations directed by the Resident Engineer saw or core samples from the pavement of at least in mm on the cut side or diameter .
+Compaction test strips consist of yd² m² of HMA pavement .
+HOT MIX ASPHALT Documentation If required by the Contract document HMA pavement work in accordance with Subsection .. Kb Layers Less Than ½ in mm Thick .
+L. Tolerances Surface Construct a finished pavement surface as shown on the Plans and in accordance with Subsection .. A Surface Elevation and Smoothness .
+Width and Thickness Construct a finished pavement structure in conformance to the widths and thicknesses of individual layers and the total thicknesses of HMA shown on the Plans or directed by the Resident Engineer .
+M.Opening to Traffic Do not allow traffic on the pavement until after final rolling and the pavement has cooled sufficiently to ensure traffic will not damage the pavement surface .
+Acceptance The Resident Engineer will accept and pay for or reject each lot of HMA pavement as defined in accordance with the following a Basis of Acceptance and Payment The Resident Engineer will consider asphalt cement content air voids and roadway density to determine acceptance and payment for HMA pavement .
+The Resident Engineer will apply calculated pay factors for asphalt cement content air voids and roadway density to all acceptable HMA pavement .
+The Resident Engineer will determine the total pay adjustment combined pay factor for HMA pavement with deviations using the following equation CPF RD AC AV where CPF Combined pay factor RD Pay factor for roadway density AC Pay factor for asphalt cement content and AV Pay factor for air voids .
+O. Patching Patch existing asphalt pavement as shown on the Plans or as directed by the Resident Engineer . .
+METHOD OF MEASUREMENT The Resident Engineer will measure HMA pavement as a combined mixture including the aggregate liquid asphalt and other materials required in accordance with the mix design . .
+The Department will consider the cost of startup operations to be included in the contract unit price for the relevant asphalt pavement pay item .
+DESCRIPTION This work consists of coldmilling and removing pavement surfaces to the specified depth and removing ridges ruts and imperfections. . MATERIALS VACANT .
+EQUIPMENT Provide a milling machine that Can plane at least ½ in mm deep in a single pass Is selfpropelled Has the power traction and stability to maintain accurate depth of cut and slope Automatically establishes profile grades along each side of the milling machine by referring to the existing pavement with a ski or matching shoe or by an independent grade control Automatically controls cross slope and Has an integral loading mechanism to remove the material cut from the pavement surface and discharge it into a truck in one operation. . CONSTRUCTION METHODS Mill the existing pavement to the line grade and cross section shown on the plans and provide a milled surface that has a uniform texture and a smooth riding surface for traffic .
+DESCRIPTION This work consists of constructing noisegenerating rumble strips in the hot mix asphalt HMA or portland cement concrete PCC pavement on driving lanes or the roadway shoulders .
+GROUP A cyclic pattern of rumble strips cut in HMA pavement for intersection safety improvements .
+EQUIPMENT Provide a machine that produces incised grooves to the specified pattern and dimensional tolerances shown on the Plans. . CONSTRUCTION METHODS After completing the pavement surface machinecut or rout the rumble strips .
+Apply fog seal to the rumble strips cut in HMA pavement in accordance with Section Fog Seal and Tack Coat . .
+BASIS OF PAYMENT The Department will pay for each pay item at the contract unit price per the specified pay unit as follows Pay Item Pay Unit A RUMBLE STRIPMETHOD HMACON Linear Foot Meter B RUMBLE STRIPMETHOD HMACYC GROUP Each Group C RUMBLE STRIPMETHOD PCCCON Linear Foot Meter D RUMBLE STRIPMETHOD PCCC GROUP Each Group The Department will consider the cost of the fog seal on rumble strips in hot mix asphalt pavement to be included in the contract unit price for Rumble Strip Method HMACON or Rumble Strip Method HMACYC GROUP .
+pavement for intersection safety improvements. . PORTLAND CEMENT CONCRETE PAVEMENT SECTION PORTLAND CEMENT CONCRETE PAVEMENT .
+DESCRIPTION This work consists of constructing the following types of portland cement concrete PCC pavement on a prepared base Plain jointed doweled or undoweled Continuously reinforced Bonded overlay over existing PCC or hot mix asphalt HMA pavements and Unbonded overlay over existing PCC or HMA pavements. . MATERIALS Provide materials in accordance with the following sections and subsections Materials Section or Subsection Portland Cement Concrete Fly Ash .
+The Department will allow the use of reclaimed PCC materials only on temporary pavement .
+Ensure the machine vibrates for the full width and depth of the pavement .
+Provide surface pantype vibrators for pavement thicknesses no greater than in mm or internaltype vibrators with immersed tubes or multiple spuds to consolidate the full width and depth of the pavement .
+To achieve thorough consolidation and uniformity of the pavement ensure the spudtype hand operated vibrators have a frequency rating of at least impulses per minute .
+Ensure a strip of fabric with a width of at least ft m is in contact with the full width of the pavement during texturing .
+Ensure the machine is selfpropelled and automatically lifts the roller or tine comb bar near the edge of the pavement .
+G. Hand Tools Provide work bridges ft m straightedges and other hand tools to complete the pavement as required by the Contract .
+Preparation of Existing Surface or Grade General After grading and compacting the roadbed trim the grade to the elevation shown on the Plans extending the work at least ft . m beyond the edges of the concrete pavement .
+Keep the grade smooth and compacted until pavement placement .
+Clean the pavement surface before placing the HMA .
+Notify the Resident Engineer if milling operations expose underlying concrete pavement .
+Identify the location of transverse joints on both sides of existing concrete pavements before cold milling or placing asphalt bond breakers .
+Place a transverse contraction joint at the interface of overlaying and new pavement sections .
+Bonded Concrete Overlays a Bonded Overlays on Concrete Pavement Before surface preparation and placement of the PCC overlay remove medium and high severity pavement cracking and replace as shown on the Plans .
+High severity pavement cracks are defined as shattered slabs Dcracks into the wheel paths broken slab corners into wheel paths and cracks wider than ½ in mm that are faulting spalled or scaled .
+Determine pavementpatching limits as approved by the Resident Engineer .
+Remove pavement markings raised pavement markers and adhesives .
+Prevent contamination of the cleaned pavement surface before placing the overlay .
+Joint Identification Identify the exact location of both sides of contraction expansion and longitudinal joints in the existing pavement for sawing locations .
+Remove pavement markings raised pavement markers and adhesives .
+Before allowing other equipment onto the pavement ensure that the concrete attains a strength in accordance with Subsection .. N Opening to Traffic .
+Saw the longitudinal contraction joint to the depth shown on the Plans without damaging the pavement or joint .
+Allow the joint sealant to cure before allowing construction equipment and other vehicles on the pavement .
+Provide lengths of joint filler equal to the width of the pavement or the width of one lane .
+Unless otherwise directed by the Resident Engineer use lengths equal to the width of the pavement .
+If placing two or more traffic lanes of pavement use premolded filler in sections equal to the width of one lane .
+Unless otherwise required b the Contract ensure the top edge is in mm below the surface of the pavement .
+After removing the side forms open the ends of the transverse joints at the edges of the pavement for the depth of the slab .
+Before opening the pavement to traffic seal or top out premolded joints with jointsealing filler required by the Contract .
+Leave a uniform strip of jointsealing filler slightly below the surface of the pavement .
+bContraction Joints Form transverse contraction joints by sawing to the depth shown on the Plans without damaging the pavement or joint .
+Ensure the curing period for joints is complete before allowing construction equipment and vehicles on the pavement .
+Use hand vibrators to consolidate pavement areas adjacent to the sides of transverse construction joints and refinish the surface .
+To ensure the edge of the pavement slab meets the elevations shown on the Plans test using a ft m straightedge perpendicular to the centerline of the roadway .
+Ensure the outer in mm of the pavement does not deviate more than ¼ in mm from the bottom of the straightedge .
+Ensure the machine consolidates the pavement and creates a uniform texture .
+Use a vibrator or other equipment to consolidate the pavement .
+Maintain the crown in the pavement .
+Texturing Use a texture drag before the pavement final finish to produce a uniform surface of gritty texture on the entire pavement surface .
+For pavement at least ft . m wide mount the drag on a bridge .
+Transverse Finish Construct transverse grooves perpendicular to the centerline of the pavement .
+Repeat the grooving pattern across the pavement .
+Ensure the machine automatically lifts the roller or tines near the edge of pavement .
+bEdging at Forms and Joints After the final finish but before the concrete sets round the edges of the pavement along the sides of the slab to the radius shown on the Plans .
+Cotton or Burlap Mats Cover the pavement surface with mats .
+Use mats long enough or wide enough to extend beyond the edges of the slab by at least twice the thickness of the pavement .
+Impervious Membrane Immediately after texturing operations and before the concrete sets uniformly spray the pavement with whitepigmented curing compound in accordance with Subsection .. C Liquid Membrane Curing Compounds .
+If the pavement is initially cured with cotton or burlap mats apply the curing compound after removing the mats .
+White Polyethylene Sheeting Cover the surface and sides of the pavement with polyethylene sheeting .
+Use sheeting long enough or wide enough to extend beyond the edges of the slab by at least twice the thickness of the pavement .
+K. Removing Forms Avoid damaging the pavement while removing forms .
+M.Protection of Pavement Protect the pavement from damage due to any traffic .
+If damage occurs to the pavement before the area is open to traffic repair or replace the damaged sections at no additional cost to the Department .
+N. Opening to Traffic Do not allow traffic on the pavement for at least days after concrete placement unless otherwise approved by the Resident Engineer .
+The Resident Engineer may approve opening the pavement to traffic when it reaches the strength requirement in accordance with Subsection .
+O. HighEarlyStrength Concrete Pavement Use high earlystrength concrete pavement in accordance with Section Portland Cement Concrete .
+Do not allow traffic on the pavement until it reaches the strength requirement in accordance with Subsection .
+Q. Tolerances Surface Construct a finished pavement surface as shown on the Plans and in accordance with Subsection .. A Surface Elevation and Smoothness .
+Width Construct a finished pavement width as shown on the Plans and in accordance with Subsection .. A Width. . PORTLAND CEMENT CONCRETE PAVEMENT Thickness After grinding operations determine the thickness of the pavement using the average of three caliper measurements of cores tested in accordance with AASHTO T . Thickness will be in accordance with Subsection .. R Acceptance of Pavement .
+P CUP and P Q include all other labor and materials required in the concrete pavement reinforcing steel dowels curing compound etc ..
+Furthermore the Department will extensively test sections of completed pavement that appear to be seriously inadequate based on visual observation or knowledge of other deficiencies .
+The Resident Engineer may reject pavement slabs with unsound concrete uncontrolled cracking malfunctioning sawed joints spalling honeycombing surface irregularities insufficient thickness or other deficiencies associated with poor quality pavements .
+e Thickness After grinding operations determine the thickness of the pavement using the average of cores at times and locations directed by the Engineer. . To determine the average thickness for a lot the Department will only consider the minimum thickness plus percent for core thicknesses greater than percent thicker than the minimum thickness e.g .
+bUnacceptable or Rejected Work Replace rejected slabs with new pavement at no additional cost to the Department .
+METHOD OF MEASUREMENT The Resident Engineer will measure PCC placement of the type shown on the Plans by the area of accepted and completeinplace pavement .
+The Resident Engineer will measure the volume of PCC used for new pavement construction except for detours and crossovers without regard to thickness type of cement or type of pavement based on the on the actual length paved multiplied by the theoretical cross section show on the Plans .
+The Resident Engineer will measure the volume of PCC used for overlaying existing pavement bonded or unbonded using the ticket count or other documentation approved by the Resident Engineer .
+RAILROAD APPROACH SLABS Square Yard Square Meter I TERMINAL JOINT Each J TERMINAL JOINT SLEEPER SLAB Square Yard Square Meter The Department will consider the cost of placing concrete pavements including relevant labor and material except the PCC and the cost of reinforcing steel load transfer devices joint fillers and joint sealants to be included in the contract unit price for the relevant Placement pay items .
+The Department considers the cost of filling core holes to be included in the contract unit price for the relevant portland cement concrete pavement pay items .
+The Department will pay adjusted prices for deficient units of pavement in accordance with Subsection .. Qd Payment Adjustment . .
+DESCRIPTION This work consists of sawing cleaning and sealing joints in existing portland cement concrete pavement. . MATERIALS Provide materials in accordance with Subsection .
+For surfaces of joint sealers that require tooling use an approved mechanical device to make a concave surface from ¼ in to ½ in mm to mm below the pavement surface .
+DESCRIPTION This work consists of restoring load transfer in existing portland cement concrete PCC pavement by installing epoxy coated dowel bars across transverse joints or cracks. . MATERIALS A. Dowel Bars Provide epoxycoated dowel bars in accordance with Subsection .
+CONSTRUCTION METHODS A. Slot Sawing Use a gang saw capable of sawing at least three slots in the pavement at one time .
+Center the slots over the cracks and transverse joints and align the slots so that the longitudinal axis of each dowel bar is parallel to the pavement centerline and the surface of the lower of the two panels .
+If this jackhammer damages the pavement discontinue its use and replace with a lighter jackhammer .
+Obtain the Resident Engineers approval before placing concrete in ambient temperatures below F C. G. Damage Repair damage to the existing pavement caused by Contractor operations at no additional cost to the Department .
+DESCRIPTION This work consists of grinding portland cement concrete PCC pavement to restore drainage and riding characteristics to the pavement surface. . MATERIALS VACANT .
+EQUIPMENT Provide powerdriven selfpropelled grinding equipment designed to smooth and texture PCC pavement with diamond blades .
+Provide a machine with an effective wheel base of at least ft . m. Ensure the front of the machine has a set of pivoting tandem bogey wheels and the rear wheels travel in the track of the cut pavement .
+Do not use equipment that causes excessive ravels aggregate fractures spalls or cracks or disturbs transverse and longitudinal joints. . CONSTRUCTION METHODS A. Grinding Pavement Grind the surface of pavement areas shown on the Plans .
+Grind longitudinally beginning and ending at lines transverse to the pavement centerline .
+Ensure the ground pavement surfaces of adjacent sides of transverse joints and cracks are on the same plane .
+The Department will allow less than percent grinding within specified areas if minor depressions occur in the pavement. . DIAMOND GRINDING CONCRETE PAVEMENT Make multiple passes as necessary to achieve acceptable results .
+Ensure the pavement surface grinding produces a uniform finished surface .
+For pavement grinding deeper than ¼ in mm feathergrind adjacent lanes or paved shoulders to maintain motorist safety and proper drainage .
+Surface Texture and Grooving Grind the pavement surface until it has a uniform appearance with a texture composed of longitudinal ridges and grooves .
+Conduct a final sweeping before opening the pavement to traffic .
+Ensure a pavement with a profile index of in mm or less per mile using a . in mm blanking width .
+After grinding individual high points perform additional grinding along lines parallel to the pavement edge to reduce the profile index to the specified values .
+METHOD OF MEASUREMENT The Resident Engineer will measure the diamond grinding of PCC pavement by the final approved textured surface area regardless of the number of passes necessary to achieve acceptable results including minor areas of untextured pavement within this area .
+The Department will not separately measure Diamond Grinding Concrete Pavement for pavement unless otherwise specified .
+DESCRIPTION This work consists of pumping a fly ash cement grout under portland cement concrete PCC pavement or hot mix asphalt HMA pavement to fill the voids beneath the pavement and form a hard insoluble mass. . MATERIALS Provide materials in accordance with Subsection .
+Pavement Monitoring Device Provide pavementmonitoring equipment that determines movement to prevent lifting pavement or overfilling cracks .
+B. Coring Equipment Provide coring equipment capable of cutting in mm diameter holes through the pavement .
+Prevent damage to the pavement from excessive down pressure on the core .
+Use an air compressor and rock drills or other devices capable of drilling the injection holes through the pavement .
+General Protect the pavement from breaking and cracking .
+Replace concrete slabs and pavement damaged during pressure grouting operations at no additional cost to the Department .
+Ensure a pavement temperature of at least F C during pressure grouting .
+C. Coring Holes For PCC pavements drill in mm diameter core holes through the pavement as shown on the Plans .
+For hot mix asphalt pavements drill core holes at an angle of towards the bottom of the crack deep enough to penetrate the cavity .
+For PCC pavement prevent the nozzle end from extending below the bottom of the concrete .
+For hot mix asphalt pavement continue injecting grout into the core holes until the cracks are filled .
+During pumping watch the pavement monitoring device to prevent excessive lifting of the pavement or rising of the adjacent shoulders .
+If lifted pavement joints create unsafe conditions for the traveling public close lanes and make repairs .
+For hot mix asphalt pavement drill new core holes and regrout cracks that may require additional filling as directed by the Resident Engineer .
+H. Clean Up Remove deposits of grout on the pavement or shoulder .
+Clean the pavement surface before allowing traffic on the completed sections .
+DESCRIPTION This work consists of rubblizing and seating existing portland cement concrete pavement PCCP. . MATERIALS VACANT .
+EQUIPMENT A. Pavement Breaker Use a selfcontained selfpropelled resonant frequency pavement rubblizing unit capable of fracturing the pavement .
+B. Roller Use a vibratory steel wheel roller weighing at least ton metric ton to compact the rubblized pavement .
+General Remove asphalt pavement overlay to the PCCP .
+Rubblize and seat PCCP across the panel width and to the full depth of the pavement .
+Except at restricted crossovers and ramp crossings ensure the overlay is complete before opening the pavement to traffic .
+Remove asphalt pavement patches with a surface area of at least yd² .
+The Resident Engineer will determine the extent of the breakage based on a visual inspection of the cracks on a dry pavement surface .
+Begin rubblizing at the edge of pavement and work toward the centerline of the roadway .
+If the pavement can not be rubblized remove the pavement subexcavate the base material to ft mm and replace the base material with compacted Aggregate Base Type A in accordance with Section Aggregate Base .
+Debond steel reinforcement from the pavement and leave it in place .
+Use the test section breakage results as a guide for breaking the pavement on the remainder of the project .
+E. Leveling Course Place a hot mix asphalt leveling or base course as shown on the Plans immediately following the pavement rubblizing and seating operations . .
+BASIS OF PAYMENT The Department will pay for each pay item at the contract unit price per the specified pay unit as follows Pay Item Pay Unit RUBBLIZING PAVEMENT Square Yard Square Meter The Department will pay for asphalt pavement patch removal and replacement with a trafficbound surface course Type E in accordance with Section TrafficBound Surface Course .
+If the pavement can not be rubbilized the Department will pay for removal of pavement and replacement with Aggregate Base Type A in accordance with Section Aggregate Base Type A .
+Provide protection for the following Falsework supports for members crossing over a roadway or railroad and Falsework supports where the horizontal distance from the traffic side of the falsework to either the pavement edge or a point ft m from the centerline of track is less than the total height of the falsework .
+After grooving clean slurry residue from the pavement or bridge deck .
+DESCRIPTION This work consists of preparing deck surfaces and placing overlays on bridge decks and the approach pavement to provide a smooth transition to the main line pavement .
+For asphalt membrane overlays include the following additional items in the work plan Type of membrane and tack that will be used Limitations of pavementdeck temperature and moisture content How the pavementdeck temperature and moisture content will be measured Length of time the membrane can be exposed before placing the asphalt overlay Maximum temperature for the asphalt concrete overlay material and How the curb line and deck drains will be sealed .
+Vibratory rollers are not to be used during pavement application .
+Except for concrete in bridge floors and pavements reduce the curing period if cylinders cured under the same conditions indicate that the concrete reaches at least percent of its Contract required strength .
+Lay the straightedge on the repaired pavement parallel to the centerline .
+Ensure the transverse slope of the pavement does not have depressions greater than ⅛ in mm when tested with the ft m straightedge extending from edge to edge in a traffic lane transverse to the centerline .
+Construct expansion and contraction joints at locations of joints in the adjacent pavement structure and in accordance with Subsection .
+For curb and gutter contraction joints used in conjunction with asphalt pavement saw in accordance with Subsection .. H Extruded Method and seal with the same material used for sealing expansion joints .
+Connect the old and new pavement with a sawed joint .
+Make adjustments to existing structures in pavement after placing the final surface course .
+The Department will consider the cost of adjusting valve boxes under pavement to be included in the contract unit price for Valve Boxes Adjust to Grade . .
+Excavate only as much trench for pavement edge drain conduit as can be set and backfilled in calendar day .
+Protect existing pavement from damage during excavation and placement of pavement edge drain .
+Break concrete pavement base course and other similar materials designated for removal into pieces no heavier than lb kg .
+If the Contract requires the removal of asphalt concrete or portland cement concrete pavement saw the joint to the line and depth as approved by the Resident Engineer to prevent underbreak or shatter of adjacent areas .
+Prepare areas for pavement or other construction over abandoned structures by backfilling and compacting in uniform layers not exceeding in mm deep in accordance with Subsection .
+For curves set posts a uniform distance from the edge of the pavement .
+Use Class A concrete for pavements and substructures pier caps columns abutments retaining walls and reinforced concrete not requiring Class AA concrete .
+Use Class AP concrete in shoulders merge areas and gore areas for portland cement concrete PCC pavements .
+Materials Covered This subsection covers fine aggregate quality and size for PCC pavements or bases highway bridges and incidental structures .
+mm. . COARSE AGGREGATE This subsection covers coarse aggregate quality and size for use in PCC pavements or bases highway bridges and incidental structures .
+C. Preformed Elastomeric Compression Joint Sealant This subsection covers preformed elastomeric compression joint sealants for PCC pavements and concrete bridge floors .
+Provide a backer rod that is compatible with the joint sealant and is in accordance with ASTM D . E. Low Modulus Silicone Joint Sealant NonSag This subsection covers nonsag low modulus silicone joint sealants and expanded polyethylene backer rod for sealing PCC pavement joints .
+Provide a backer rod in accordance with ASTM D . F. Low Modulus Silicone Joint Sealant SelfLeveling This subsection covers selfleveling low modulus silicone joint sealants and polyethylene backer rod for sealing PCC pavement joints PCC to asphalt concrete pavement joints or both .
+Mix the concrete to uniformly distribute the fiber. . DOWEL BAR RETROFIT MORTAR Provide a mortar for retrofitting portland cement concrete pavements with dowel bars in accordance with Table .
+Temporary concrete is any concrete that is to be installed and removed during the project and will not become part of any permanent structure or pavement .
+The Department will not allow reclaimed asphalt pavement RAP in UTBWC. . TOLERANCES Provide microsurfacing material in accordance with Subsection .
+C. Reclaimed Asphalt Pavement Unless otherwise shown on the Plans Superpave mixtures containing reclaimed asphalt pavement RAP will be accepted in accordance with Table if the mixture is not used in the surface layer and meets the Contract requirements for the type or grade .
+Table Reclaimed Asphalt Pavements Superpave with Binder Type Maximum RAP PG OK PG OK PG OK Regardless of the layer or binder type the Departments Materials Engineer will accept superpave mixtures with no greater than percent RAP for shoulders driveways layers serving as a bond breaker under PCC pavements and on roadways with less than .
+PLANT MIX BITUMINOUS BASES AND SURFACES as any material that will not become part of any permanent pavement .
+Design lifts below PCC pavements at the year flex ESAL level or a lower compaction level .
+μm sieve AASHTO T Specific gravity and absorption of fine aggregate AASHTO T Specific gravity and absorption of coarse aggregate AASHTO T Los Angeles abrasion AASHTO T Sand equivalent AASHTO T Aggregate durability index AASHTO T Uncompacted void content of fine aggregate AASHTO T Method A Aggregate degradation by MicroDeval apparatus AASHTO T Flat and elongated particles in coarse aggregate ASTM D Mud clay balls sand clusters sticks and roots retained on No. . mm sieve OHD L Fractured faces OHD L Insoluble residue OHD L Soft particles OHD L Bituminous Mixtures Mechanical analysis of extracted aggregate AASHTO T Sampling bituminous mixtures AASHTO T Maximum specific gravity of bituminous paving mixtures AASHTO T Bulk specific gravity using paraffincoating specimens AASHTO T Resistance to moisture damage a g AASHTO T Draindown characteristics of uncompacted asphalt samples AASHTO T Preparing specimens by superpave gyratory compactorb AASHTO T Reducing samples of HMA to testing size AASHTO T Superpave volumetric mix design AASHTO M Mixture conditioning of hotmix asphalt AASHTO R Superpave volumetric design for HMAc AASHTO R Bulk impregnated specific gravity of aggregatesd OHD L Specific gravity and unit weight of compressed bituminous mixtures OHD L Bitumen content OHD L Rutting susceptibility using the asphalt pavement analyzer OHD L Water permeability of compacted paving mixtures OHD L Specific gravity and unit weight using the CoreLok OHD L Asphalt Materials Samping bituminous materials AASHTO T Solubility of bituminous materials AASHTO T Flash and fire points by Cleveland Open Cup AASHTO T Penetration of bituminous materials AASHTO T Ductility of bituminous materials AASHTO T Softening point of bitumen ringandball apparatus AASHTO T Water in bituminous materials by distillation AASHTO T Standard test methods for emulsified asphalts AASHTO T Coating and retention testing for mixing grade emulsions AASHTO T Modified Saybolt viscosity AASHTO T Distillation of cutback asphaltic bituminous products AASHTO T Flash points with tag opencup apparatus AASHTO T PLANT MIX BITUMINOUS BASES AND SURFACES .
+Composition Uniformly distribute and firmly bond plastic materials pigments and glass beads on the top surface of retroreflective preformed pavement marking film .
+E. Conformability Provide preformed film that conforms to pavement contours breaks and faults at normal pavement temperatures .
+J. Pigmentation Thoroughly blend color pigments to provide a pavement marking film that maintains uniform color under day and night lighting conditions throughout the expected life of the film .
+Provide white pavement marking film similar to Federal Standard Color No . .
+Provide yellow pavement marking film similar to Federal Standard Color No. . K. Reflectance Provide white and yellow films with an initial reflectance value at observation angles of .
+Specific luminance mcdft²fc mcdm²lux L. Effective Performance Life Provide a film that leaves a neat durable marking that will not flow or distort due to temperature if the pavement surface remains stable .
+B. Conformability Provide thin flexible and formable striping material that conforms to the texture of the pavement surface after application .
+E. Storage Provide striping material that will not deteriorate when stored for year in temperatures no greater than F . C. F. Certification Submit to the Resident Engineer a Type D certification for the nonremovable temporary pavement marking tape in accordance with Subsection .
+General Provide removable pavement marking tape with a white or yellow allweather trafficresistant film on a reinforced conformable backing .
+B. Adhesive Provide removable preformed pavement marking film precoated with a pressuresensitive adhesive that is immediately ready for traffic after application .
+Provide adhesives that bond to pavement surfaces if applied at temperatures of at least F C without pickup or distortion by vehicular traffic .
+C. Color Provide removable pavement marking tape in white or yellow that conforms to the standard highway color requirements of MUTCD as required by the Contract .
+E. Removability Provide preformed pavement marking film that can be removed intact or in large strips from asphalt concrete and PCC surfaces .
+G. Certification Submit to the Resident Engineer a Type D certification for the removable pavement marking tape in accordance with Subsection .
+Coatings Provide standard and large glass beads with an adhesion coating to promote adhesion in thermoplastic pavement marking material .
+General This subsection covers fabrics for hot mix asphalt pavement reinforcement .
+Ensure the rolls provide full pavement coverage with minimal joint splices .
+General This subsection covers fabric for subgrade reinforcement under pavement structures .
+Description Provide a slurry type grout for stabilizing and undersealing portland cement concrete pavements using the pressure grouting method .
+Design and Shape Provide uniformly curved domeshaped traffic buttons for Class B nonreflective pavement markers .
+Design and Shape Provide pavement markers that are an iron casting to which replaceable prismatic reflectors are attached .
+The marker bonds to the roadway pavement with an approved adhesive anchored so traffic snowplows and highway maintenance equipment will not dislodge it .
+ADHESIVES FOR USE WITH PAVEMENT MARKERS A. Epoxy Resin Adhesives Provide epoxy resin adhesives for securing Class A Class B and Class C pavement markers to the roadway in accordance with Subsection .
+B. Bituminous Type HotMelt Adhesives Provide bituminous hotmelt adhesive to secure the Class A and Class B construction zone pavement markers and tube channelizers to the roadway surface .
+Pushed or Bored Conduit Use pushing or boring methods to place the conduit under pavement .
+Do not disturb the pavement without approval from the Resident Engineer .
+The Department will not allow the use of water for pushing or boring if the pavement structure may suffer damage .
+Remove pavement in accordance with Section Removal of Buildings Structures and Obstructions NESHAP Inspection .
+Detector Loop Wire Provide detector loop wire embedded in the pavement in accordance with Subsection .
+Provide connector PIN terminations in accordance with Table Table Connector PIN Terminations PIN Function A AC neutral B Reserved C V AC line D Reserved E V DC output F Reserved G Logic ground H Chassis ground I Reserved J Reserved F. Vehicle Loop Wire Sealant Provide and install loop wire sealant for installing vehicle detector loops in asphalt and concrete pavement as shown on the Plans .
+General Requirements Provide a onepart polyurethane sealant for asphalt and concrete pavement .
+CONSTRUCTION METHODS Clean the pavement area of foreign material to ensure maximum adhesion of paint .
+Apply the material to the pavement at a wet film thickness of mils .
+Do not apply the traffic stripe paint on wet pavement or at air temperatures below F C and falling .
+DESCRIPTION This work consists of providing and placing reflectorized plastic pavement markings on asphalt concrete AC and portland cement concrete PCC pavement surfaces. . MATERIALS Provide plastic pavement markings materials in accordance with Section Traffic Stripe except yellow thermoplastic material .
+Glass Beads for Traffic Paint Thermoplasticand Multipolymer. . EQUIPMENT A Extruded Application Thermoplastic Apply the material to the pavement using the extrusion method one side of the shaping die is the pavement surface and the other three sides are formed by equipment for heating and controlling the material flow .
+Prevent extrusion of the material above the pavement surface .
+Mechanical Application Preformed Plastic Tape Install preformed pavement line markings with a mechanical applicator that accurately and uniformly places pavement lines .
+Ensure the pavement surface is dry .
+For new PCC pavement sandblast the pavement surface at stripe locations to remove curing compound .
+Sandblast at least days after placing the new PCC pavement unless otherwise directed by the Resident Engineer .
+On AC and PCC surfaces older than months or with existing or removed pavement markings apply a blend of a twopart epoxy primer sealer to the area to be striped .
+Use a primer sealer compatible with the plastic striping material and the pavement surface .
+Use a seal coat compatible with the plastic striping material and the pavement surface .
+Correct pavement markings that are nonuniform or not visible as directed by the Resident Engineer at no additional cost to the Department .
+Obtain written approval from the Resident Engineer before placing plastic pavement markings over longitudinal joints .
+Use abrasive blasting or grinding to remove existing temporary or permanent traffic markings until at least percent of the underlying pavement is visible unless otherwise specified by the manufacturer .
+Minimize interference between temporary pavement markings and the permanent dualcomponent pavement marking materials .
+When applying dual component markings to new PCC pavement use a highpressure water jet sandblasting or other method approved by the Resident Engineer to remove existing curing compound .
+Application of Markings HotApplied Plastic Pavement Markings Use the extrusion method for hot applied pavement markings .
+In accordance with the manufacturer recommendations melt the compound and install at temperatures from F to F C to C measured at the pavement surface .
+Apply hot thermoplastic markings on clean dry pavement with a surface temperature of at least F C and rising and wind chill temperature of at least F C. The Department defines the drying time for pavement markings as the minimum elapsed time after application when the stripe retains its shape and reflectivity and traffic will not damage the stripe .
+Mix and apply thermoplastic pavement marking material to ensure that stripes retain the original characteristics of the bond to the surface resistance to distortions by traffic or climate and resistance to discoloration .
+ColdApplied Plastic Pavement Markings For preformed pavement markings of reflectorized plastic material coldapplied to the pavement surface coat with a factoryapplied pressuresensitive adhesive .
+Inlaid Installation of Preformed Plastic Tape For the inlaid method apply the markings on newlyplaced compacted AC pavement when the pavement temperature is from F to F C to C. Use a mechanical roller to inlay the markings into the AC surface .
+Place the markings in the finished surface of installed AC pavement before the end of each work day. . TRAFFIC STRIPE PLASTIC C. Application of Glass Beads Apply large glass beads at a coverage rate of at least lb per ft² .
+Within days of notification by the Resident Engineer remove and replace noncompliant pavement markings at no additional cost to the Department .
+BASIS OF PAYMENT The Department will pay for each pay item at the contract unit price per the specified pay unit as follows Pay Item Pay Unit A TRAFFIC STRIPE PLASTIC WIDE Linear Foot Meter A TRAFFIC STRIPE PLASTIC WIDE Linear Foot Meter A TRAFFIC STRIPE PLASTIC WIDE Linear Foot Meter A TRAFFIC STRIPE PLASTIC WIDE Linear Foot Meter B TRAFFIC STRIPE PLASTICArrows Each B TRAFFIC STRIPE PLASTICWords Each B TRAFFIC STRIPE PLASTICSymbols Each The Department considers the cost of preparing the pavement surface and retroreflectivity measurements including the measurement submittals to be included in the contract unit price for the relevant pay item .
+The Department will pay for the replacement of pavement markings damaged by snow and ice removal .
+DESCRIPTION This work consists of providing and placing reflectorized and nonreflectorized multipolymer pavement markings on asphalt concrete AC and portland cement concrete PCC pavement surfaces. . MATERIALS A .
+Formulate and test the materials to ensure performance as a pavement marking material with glass beads applied to the surface .
+Table MultiPolymer Traffic Stripe Properties Property Test Procedure Description Hardness ASTM D Ensure the multipolymer paint pavement markings material has a Shore D Hardness from to .
+Provide equipment with an automatic bead dispenser that continuously mixes and agitates the pavement marking material .
+Ensure the pavement surface is dry .
+Use abrasive blasting or grinding to remove existing temporary or permanent traffic markings until at least percent of the underlying pavement is visible unless otherwise specified by the manufacturer .
+Minimize interference between temporary pavement markings and the permanent dualcomponent pavement marking materials .
+When applying dual component markings to new PCC pavement use a highpressure water jet sandblasting or other method approved by the Resident Engineer to remove existing curing compound .
+B. Pavement Temperature and Condition Apply dual component pavement markings to new AC and PCC pavement surfaces at least calendar days after paving and under the following conditions On a dry roadway no standing water or significant dampness At a pavement surface temperature of at least F . C and rising and At wind chill temperature of at least F . C. . TRAFFIC STRIPE MULTIPOLYMER Measure the pavement surface temperatures min before beginning striping installation .
+If critical temperatures exist as determined by the Resident Engineer measure the pavement surface temperature every hr to hr or at shorter intervals as directed by the Resident Engineer until the end of the day .
+Measure the pavement surface temperature with a standard surface temperature or infrared noncontact thermometer .
+Within calendar days of notification by the Resident Engineer remove and replace noncompliant pavement markings at no additional cost to the Department .
+Minimum Retroreflectivity Ensure longitudinal markings on PCC pavement surfaces meet the minimum retroreflectivity values in accordance with Table Measurement Measure retroreflectivity of markings within calendar days of placement after removing loose beads .
+Each TRAFFIC STRIPE MULTIPOLYMER The Department will consider the cost of preparing the pavement surface and retroreflectivity measurements including the measurement submittals to be included in the contract unit price for the relevant pay item .
+The Department will pay for the replacement of pavement markings damaged by snow and ice removal .
+DESCRIPTION This work consists of providing and placing pavement markings on detours and roadways accessed by traffic during construction. . MATERIALS Provide paint removable pavement marking tape or other construction zone pavement marking material as shown on the Plans or as directed by the Resident Engineer .
+Provide traffic stripe materials in accordance with Section Traffic Stripe. . EQUIPMENT Apply pavement markings in accordance with the manufacturers recommendations .
+Use equipment for removing pavement markings that will not damage the pavement surface or pavement material texture. . CONSTRUCTION METHODS A .
+General Install removable pavement marking tape and pavement markings in accordance with the manufacturers recommendations or as approved by the Resident Engineer .
+At the time of marking application ensure a dry pavement surface an atmospheric temperature above F C and a wind chill factor above F C. Remove dirt debris loose particles curing compound and heavy oil residues from the road surface application areas immediately before installing pavement markings .
+CONSTRUCTION ZONE PAVEMENT MARKINGS Ensure uniform and visible removable pavement marking tape and pavement markers for traffic control .
+Correct pavement markings not uniform or clearly visible as approved by the Resident Engineer at no additional cost to the Department .
+B. Detours Complete pavement markings on detours including lane and edge lines before opening the detour to traffic .
+If the Resident Engineer directs maintenance restoration of pavement markers or restriping of detours begin these operations within hr of notification from the Resident Engineer weather permitting .
+C. Stage Construction When resurfacing roadways in successive stages place pavement markings before opening the new roadway stage to traffic as shown on the Plans or as directed by the Resident Engineer .
+D. Removal If detour or permanent pavement markings conflict with the permanent pavement markings of the next traffic control phase remove as approved by the Resident Engineer before switching traffic .
+Place temporary pavement markings before removing existing markings from roadways open to traffic .
+Remove temporary pavement markings before installing final striping .
+When additional pavement marking is necessary due to overlays redirection of traffic restoration or Resident Engineer direction start the striping operation within hr of notification from the Resident Engineer .
+Remove the removable pavement marking and adhesive as directed by the Resident Engineer .
+Install additional pavement markings according to traffic conditions as approved by the Resident Engineer .
+Immediately dispose of removed pavement marking tape and pavement markers .
+Remove pavement markings without damaging the pavement surface or pavement material texture .
+The Department will not allow painting over or blotting out the existing pavement markings .
+When the removal operation deposits sand or other material on the pavement remove as the work progresses .
+Repair pavement damage as directed by the Resident Engineer at no additional cost to the Department . .
+CONSTRUCTION ZONE PAVEMENT MARKINGS The Department will consider the cost of restoring pavement markers restriping and maintaining pavement markings to be included in the contract unit price for the relevant pay items .
+The Department will consider the cost of placement and removal of removable pavement marking tape and construction zone pavement markers to be included in the contract unit price for Removable Pavement Marking Tape and Construction Zone Pavement Markers .
+DESCRIPTION This work consists of providing and installing pavement markers. . MATERIALS Provide materials in accordance with Section Pavement Markers .
+Provide pavement markers in accordance with the color codes specified in Table Table Pavement Markers Color Code Class Color Code A CrystalCrystal B Amber C CrystalRed D AmberAmber For Class C markers provide reflector units affixed to the castings with an adhesive material molded to the reflective unit as an integral part .
+EQUIPMENT Use equipment to mix and apply epoxy resin adhesive in accordance with AASHTO M . . CONSTRUCTION METHODS Ensure the marker attachment areas on the highway surface are free of material that may affect the adhesion of the marker to the pavement surface .
+For markers on PCC pavement sand blast or wire buff the marker attachment area immediately before placing the maker .
+Correct pavement markers that are not uniform or clearly visible day or night as directed by the Resident Engineer at no additional cost to the Department .
+Place retroreflective pavement markers at the locations shown on the Plans .
+Repair pavement or facilities damaged by equipment operation at no additional cost to the Department . .
+The Resident Engineer will divide pavement markers into classes and types for measurement and payment in accordance with Table Table Pavement Marker Classes Class A Retroflective Class B NonRetroreflective Ceramic Class C Retroreflective All Weather Type Direction Type Type Direction Type Monodirectional Yellow Type Mono directional Type Bidirectional White Type Bidirectional .
+Paint the outline of the base of each module on the surface of the pavement or apron .
+To prevent modules on sloped surfaces greater than percent from moving or overturning attach a halfring block or other leveling device to the pavement or apron surface under the module .

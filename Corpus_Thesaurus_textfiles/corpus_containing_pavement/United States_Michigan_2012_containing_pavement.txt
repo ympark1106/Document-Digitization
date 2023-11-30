@@ -1,0 +1,593 @@
+The elevation of the completely graded roadway before placing the pavement structure .
+The layer of specified material placed on the subgrade as a part of the pavement structure .
+The portion of the earth grade upon which the pavement structure is placed .
+The top layer of a pavement structure .
+Signs signals lighting devices barricades delineators pavement markings traffic regulators and all other equipment for protecting and regulating traffic in accordance with the MMUTCD unless otherwise specified in the contract .
+Provide the Department with written certification that all property that was used or damaged during performance of the work including property outside of the project limits has been restored in accordance with applicable local state and federal requirements. . Clean paved roadbeds within working days before opening the pavement surface to traffic taking precautions so as not to produce airborne dust when cleaning roadbeds in residential and urban areas .
+The Engineer will consider allowing the Contractor to use construction equipment on pavements and structures within project limits after the Contractor performs the following .
+The Department will not allow construction equipment traveling on pavements to have tire loads greater than pounds per inch of nominal tire width .
+Permission to use construction equipment on pavements and structures will neither constitute a waiver of applicable provisions of subsection .
+The Contractor must place a temporary concrete or structural timber header on the pavement seat at each end of the structure .
+The Contractor must use a ¼inch wood divider two thicknesses of heavy building paper or mil polyethylene to separate a temporary concrete header from the pavement seat .
+The Department will consider loads on concrete pavements other than temporary concrete pavements that do not exceed legal limits by percent in accordance with Table .
+Table Required Pavement Strength Before Crossing New and Existing Pavements within Project Limits Flexural Strength all Mixes psi Maximum Load Type Allowed Slipform pavers and finishing equipment Load within legal limits Loads up to percent over legal limits for batch hauling and shoulder operations only Occasional loads up to percent over legal limits to complete construction activities The Engineer may allow occasional loads that exceed the legal limit by not more than percent on hot mix asphalt pavements after rolling is complete and the mat has cooled to ambient temperatures .
+The Contractor must protect pavement including edges to prevent damage to the pavement .
+cement concrete pavements at designated locations under the following conditions a .
+The Contractor places transverse joint saw cuts in the pavement and uses painted lines to define the crossing area approximately feet wide .
+The Contractor maintains traffic on the pavement during hauling and reconstruction as approved by the Engineer .
+c. After completing hauling with overloads the Contractor must remove the pavement between the two saw cuts and replace the pavement with new pavement of the same type and design as the original pavement .
+If traveling across existing or new hot mix asphalt pavements with loads that exceed the legal load limit by percent or more the Contractor must remove and replace the crossing area to the required surface tolerances as directed by the Engineer .
+If the Contractor crosses existing pavements while hauling material from sources other than Departmentdesignated sources the Contractor must perform repair and restoration work as consideration for permission to haul with overloaded wheels or axles at no additional cost to the Department .
+If the Contractor crosses existing pavements while hauling material from a Departmentdesignated borrow area the Department will pay for the removal and replacement of pavement if directed by the Engineer at the contract unit price for required items of work .
+The Engineer will core concrete pavements and concrete base courses to determine thickness of concrete .
+The Engineer may core to verify the thickness of concrete construction for other than pavement or structural concrete when evidence shows the thickness is not within the tolerances of the contract .
+For culvert pipes with a top elevation within feet of the top of pavement and requiring abandonment review the abandonment treatment with the Engineer .
+For sewer pipes with a top elevation within feet of the top of pavement and requiring abandonment review the abandonment treatment with the Engineer .
+Break down portions of existing miscellaneous structures not interfering with the new construction to feet below the pavement surface within the limits of the roadbed and to foot below the finished grade outside the limits of the roadbed. . Pavement Curb Sidewalk .
+Remove pavement curb gutter curb and gutter sidewalk downspout headers and similar structures to an existing joint or to a sawed joint .
+Do not use a crane and ball pavement breaker .
+The Department will pay separately for the removal of curb curb and gutter or gutter in conjunction with removing Hot Mix Asphalt HMA pavements or HMA driveways .
+The Engineer will measure the removal of concrete and masonry pavements and concrete driveways as Pavt Rem .
+If concrete or masonry pavements are encountered under the pavement being removed the Engineer will measure each type of additionally encountered pavement at the unit price for Pavt Rem .
+The Department will consider a concrete overlay a separate pavement .
+The Engineer will measure the removal of curb curb and gutter or gutter in conjunction with removing concrete or masonry pavement or concrete driveways as Pavt Rem .
+The Engineer will measure Curb Rem Gutter Rem and Curb and Gutter Rem if included as separate pay items and not removed in conjunction with pavement or driveway removal along the base of the curb face or along the flowline of the gutter .
+The Engineer will measure removal of pavement from between the rails and on either side of the track as Pavt Rem in accordance with subsection .. B. G. Utility Pole Removal .
+Obtain the Engineers approval of swamp backfill and complete peat excavation and spreading before placing the pavement structure .
+If an existing or temporary roadway is no longer needed for traffic remove the HMA or concrete pavement and fill ditches and obliterate the roadway using grading operations .
+If approved by the Engineer the Contractor may obliterate the roadway by breaking the pavement to provide drainage and covering to at least inches deep with Departmentapproved material provided by the Contractor .
+The Engineer will measure the removal of concrete pavement as Pavt Rem in accordance with subsection ..
+Compact each layer of aggregate base to at least percent of the maximum unit weight at a moisture content no greater than optimum for aggregate base under hot mix asphalt pavement .
+Compact each layer of aggregate base to at least percent of the maximum unit weight at a moisture content no greater than optimum for aggregate base under concrete pavement . .
+This work consists of preparing shattering compacting reinforced or nonreinforced Portland Cement Concrete PCC pavement to provide a rubblized base and disposing of excess and deleterious material in accordance with subsection .. P. .. Materials .
+Use an Engineerapproved water system to suppress dust generated from pavement shattering operations .
+For rubblizing pavement use one of the following types of selfcontained selfpropelled pavement breaking equipment .
+Ensure the weights of individual hammers do not destroy the integrity of layers within inches below the rubblized pavement .
+Before beginning pavement rubblizing complete the following .
+Saw cut a relief joint full depth where rubblizing abuts concrete pavement required to remain or will be rubblized in a later stage . .
+Match the elevation of pavement widening or shoulders to the adjacent pavement requiring rubblizing . .
+Complete construction of drainage systems for the new pavement structures including outlet endings .
+Remove pavement shown on the plans or directed by the Engineer over utilities or pipes with less than inches of granular material cover as measured from the bottom of the pavement to the top of the utility or pipe .
+Extend the limits for pavement removal feet beyond each side of utility or pipe .
+Perform the following field checks and provide same day documentation of field checks to the Engineer. . At the start and during rubblizing operations establish demonstrate and document equipment capabilities including the speed and impact frequency. . At least once per lane and every feet inspect the rubblized pavement to determine if the rubblizing operation has debonded the reinforcement from the concrete and is achieving the particle size specified in subsection .. F. Mechanically excavate an area of square feet through the full depth of the pavement taking care not to further rubblize .
+Ensure the completed rubblized surface has a uniform appearance with no unbroken strips of pavement exposed reinforcement or visible joint filler and Hot Mix Asphalt HMA patching material .
+Before placing the HMA mixture compact the rubblized pavement with vibratory steelwheeled and pneumatictired rollers in the following sequence .
+Do not allow vehicular traffic on the rubblized pavement before HMA placement unless otherwise required for construction and maintenance of traffic as approved by the Engineer .
+Maintain the compaction of portions of the rubblized pavement with no exposed reinforcement for crossroad or ramp traffic .
+In partwidth construction areas rubblize the pavement to the limits of the required overlay for that stage .
+PCC pavement shattered to fulldepth .
+Nonreinforced PCC pavement and concrete pavement patches reduced to unbound particles with a nominal diameter less than inches .
+Reinforced PCC pavement and concrete pavement patches above the reinforcement reduced to unbound particles with a nominal diameter from inches to inches .
+Reinforced PCC pavement and concrete pavement patches below reinforcement exhibit sporadic particles greater than inches provided the Engineer verifies debonding of reinforcement near the particle .
+No oversized particles at the surface for PCC pavements .
+Debonding of reinforced pavement achieved if the required particle size is met .
+Breaking down or removing and disposing of oversized pavement pieces .
+Maintaining the condition of the rubblized pavement until placement of the HMA pavement .
+The unit price for Filler Aggregate includes the cost of producing delivering placing leveling and compacting the aggregate in rubblized pavement .
+The unit price for Saw Cut Rubblize includes the cost of cutting a relief joint full depth where the rubblizing abuts concrete pavement required to remain or removed for other purposes and cutting the longitudinal joint where necessary .
+The Department will pay for concrete pavement removal separately as Pavt Rem in accordance with section . .
+This work consists of constructing new aggregate base from existing flexible pavement .
+Provide a selfpropelled rotary reduction crushing machine capable of crushing the pavement to the size required by the contract documents and mixing the crushed material with the underlying aggregate base to the required depth .
+Use a water sprinkling system approved by the Engineer to suppress dust generated from pavement crushing operations .
+Unless otherwise required reference the longitudinal crushed grade from the existing pavement surface or the new HMA pavement surface .
+The Contractor may blade the existing shoulder bituminous or seal coat material onto the mainline pavement before crushing .
+Uniformly crush existing bituminous pavement including inch to inches of the aggregate base to the required width and depth .
+Do not crush HMA pavement if anticipated precipitation may destabilize the prepared base .
+Bring shoulder material flush with existing pavement the next calendar day .
+The Engineer will measure Trenching along each pavement edge .
+Cover including the pavement structure is the height of fill above the top of the pipe .
+Class E culvert applies if the culvert is beneath the influence of proposed pavement and the depth of cover is ft or less .
+At least ft cover if the culvert is outside the influence of proposed pavement measured from top of pipe to final grade k. Allowed only for in to in diameter CPE pipes .
+l. Class A culvert applies if the culvert is outside the influence of proposed pavement or is beneath the influence of proposed pavement and the depth of cover is from ft to ft. . .. Construction .
+Conduct mandrel testing from five to ten working days before pavement surfacing or completion of final grade unless otherwise approved by the Engineer .
+Cover including the pavement structure is defined as the height of fill above the top of the pipe measured to final grade .
+Class E Sewer applies when the sewer is beneath the influence of proposed pavement and the depth of cover is no greater than ft. c. Roman numerals refer to class of reinforced concrete pipe AASHTO M . d. Arabic numerals refer to the class of nonreinforced concrete pipe AASHTO M . e. Allowed for in to in spiral ribbed and in to in helically corrugated ⅔ in ½ in aluminum alloy pipe only .
+j. CPV must conform to AASHTO M . k. Class A sewer applies when the sewer is outside the influence of proposed pavement or is beneath the influence of proposed pavement and the depth of cover is greater than ft but less than or equal to ft. l. Special design is required for depths of cover greater than ft. . .. Construction .
+Unless otherwise approved by the Engineer perform the mandrel test from to working days before pavement surfacing or completion of final grade .
+After backfilling and compacting the trench and from to working days before pavement surfacing or completion of final grade conduct the inspection of sewers under pavement unless otherwise approved by the Engineer. . For sewers not under pavement conduct the inspection as close to project completion as possible but allow time for corrective action determined by the video inspection and directed by the Engineer. . Traffic Control .
+Lower drainage structures before milling the pavement .
+Immediately before placing the HMA top course or overlay make final adjustments to drainage structure covers within the HMA pavement section if only applying one course .
+Remove and replace the adjacent pavement curb or curb and gutter to match the existing grades or the required new elevations .
+Sawcutting existing pavement curb and curb and gutter .
+Removing and replacing pavement adjacent to the adjusted cover .
+The Department will only pay for Dr Structure Cover Adj Case for structure adjustments located outside existing pavement curb and curb and gutter .
+The unit price for Dr Structure Cover Adjust Case includes the cost of removing pavement to lower the structure .
+If the contract documents require PDS as part of pavement rehabilitation install PDS underdrain adjacent to the edge of the pavement .
+Begin compaction along the shoulder side of the underdrain and progress toward the pavement .
+The Department will perform video inspections of opengraded underdrains after the mainline pavement placement is complete but before shoulder paving .
+A shiny or reflective condition tacky to the touch appearing on the HMA surface when asphalt binder collects in the voids at high pavement temperatures .
+Areas of HMA pavement exhibiting nonuniform distribution of coarse and fine aggregate particles visually or otherwise identifiable .
+The extremity boundaries of the pavement .
+Provide equipment in accordance with section capable of producing pavement that meets the requirements of this section. . ColdMilling Machines .
+Provide smooth roller wheels free of openings or projections that will mar the pavement surface .
+Equip the rollers with wheel scrapers and skirting to enclose the wheels to within inches of the pavement surface .
+Use a release agent to prevent material from sticking to the tires and being deposited on the top course pavement during rolling .
+If a compressed air system is required for cleaning pavement equip the air compressor with a moisture separator to remove oil and water from the air supply .
+Prepare the existing surface as required to construct HMA pavements shoulders and approaches. . Drainage Structures Monument Boxes and Water Shutoffs .
+Using methods approved by the Engineer clean dirt and debris from the pavement surface and paved shoulders before placing HMA .
+The Department will pay for removal of material by hand or mechanical methods in accordance with subsection .. E. Do not place HMA until the Engineer inspects and approves the condition of the existing pavement . .
+For required removal of HMA shoulder material or no greater than foot width of HMA pavement cut the HMA material full depth along the pavement edge or removal line to prevent tearing the pavement surface .
+Before milling existing pavement obtain a Departmentapproved mix design in accordance with subsection .. A and ensure the availability of HMA mix quantites to cover milled surfaces .
+If the contract documents require hand patching fill holes depressions joints and cracks in the existing pavement and replace existing patches .
+Compact the hand patching material in no greater than inch layers to the adjacent pavement surface grade using a machine vibrator or Departmentapproved roller .
+Do not leave pools of bond coat on the surface and do not spray the bond coat on adjacent pavement surfaces .
+Apply the bond coat to each HMA layer and to the vertical edge of the adjacent pavement before placing subsequent layers .
+Provide a pavement as shown on the plans .
+If the application rate for an HMA pavement exceeds the maximum rates specified in Table and the edges are not confined construct the pavement in at least two layers. . Table HMA Application Rates Mix Number Course Application Application Rate lbyd² minimummaximum a Base Base Leveling Leveling Top Top LVSP Leveling Top LVSP Base a .
+Construct a vertical joint to conform to the pavement cross section .
+If Contractor operations or traffic disturbs the area between the pavement .
+The Engineer will accept the pavement within these timeframes unless corrective action is required .
+If the Engineer determines that corrective action is required inspection acceptance and paving of overlying courses will not occur until after the Contractor completes corrective action and the Engineer has determined that the pavement is in conformance with the contract .
+c. The appropriate corrective action is dependent on the extent and severity of the factor and on the intended service life of the pavement .
+The unit price for Cold Milling HMA Surface includes the cost of removing loading hauling weighing and disposing of the cold milled material and cleaning the cold milled pavement .
+If the Engineer directs additional hand or mechanical methods to clean the pavement the Department will pay for this work as Joint and Crack Cleanout if the contract documents include the pay item .
+If the pavement joint and crack repair exceeds inches in width the Engineer will measure each inch wide segment or portion thereof separately for payment .
+Treat visible working cracks no greater than ¼ inches wide in the pavement surface using the saw or rout and seal process .
+Place sealant flush or no greater than ⅛ inch below the pavement surface. . Overband .
+Place temporary pavement markings before opening the road to traffic if overband material obliterates existing pavement markings .
+If no other surface treatment is required on the pavement fill visible cracks in the road less than ¼ inch wide .
+If preparing the pavement for a microsurface overlay fill visible cracks in the road less than ¼ inch wide .
+If preparing the pavement surface for a single or double chip seal fill cracks greater than ⅛ inch wide or feet long .
+If preparing the pavement for a paver placed surface seal fill cracks with widths from ¼ inch to ¼ inch .
+If preparing the pavement for an HMA ultrathin overlay fill visible cracks less than ¼ inch wide .
+Repair treated pavement areas damaged by traffic at no additional cost to the Department .
+Separately detail projects with multiple pavement sections . .
+This work consists of providing and placing paver placed surface seal PPSS including preparing existing pavement and constructing PPSS uniform in texture density and smoothness with no measurable segregation .
+Place PPSS on dry pavement .
+The Engineer will allow a field adjustment of the emulsion application rate for changes in existing pavement surface conditions or limitations of the HMA mix design .
+Before PPSS placement the Department will determine the ride quality of the original pavement except shoulders using the International Roughness Index IRI .
+Ensure the pavement ride quality does not diminish after applying PPSS .
+The Engineer may accept the finished pavement surface without measuring the new roadway profile if in the Engineers opinion the final ride quality at least equals the original pavement . .
+If the Contractor disputes the diminished ride quality assessment the Department will remeasure the pavement profile and compare the IRI values for the finished pavement surface to the original IRI values .
+Correct reductions in the ride quality as directed by the Engineer to produce a finished pavement surface with an IRI at least equal to that of the original pavement .
+The unit price for Paver Placed Surface Seal of the type required includes the cost of preparing the surface placing temporary pavement markings and placing a membrane and HMA surface course for full width coverage . .
+This work consists of providing traffic control preparing existing pavement and providing and placing a microsurfacing mixture .
+Water including aggregate moisture percent minimum and maximum c. Mix set additive percent d. Modified emulsion in mix percent e. Residual asphalt content of modified emulsion percent and f. Residual asphalt content in mix percent. . ADT for the pavement sections where placing mix and .
+Apply water to dampen the existing pavement surface without causing free flowing water in front of the spreader box .
+Immediately before surfacing operations remove pavement markings using an abrasion method .
+Apply at least one course of FA mix to the pavement surface at an average application rate of at least pounds per square yard excluding shoulders as required .
+Apply FA mix to pavement surface course and shoulders at a rate of at least pounds per square yard .
+Apply at least two courses of FA mix to the pavement surface at an average combined application rate of at least pounds per square yard excluding shoulders as required .
+Apply FA mix to pavement surface course and shoulders at a rate of at least pounds per square yard .
+Apply a single course using FA mix at an average minimum application rate of pounds per square yard pounds per square yard by weight of dry aggregate to the pavement surface including shoulders if required .
+To prevent water from collecting on the pavement surface place successive passes on the upslope side of the overlap .
+For standard microsurface restore the driving lane cross section to within ⅛ inch of the planned elevation measured transversely across the pavement with a foot straight edge except pavement segments designed with a quarter crown cross slope or areas of the segment within inches of the edge line lane line or centerline. . Ride Quality .
+Before construction the Department will determine the ride quality of the pavement surface except shoulders using the International Roughness Index IRI .
+Ensure the ride quality of the pavement does not diminish after applying microsurfacing .
+The Engineer may initially accept the finished pavement surface without measuring the new roadway profile if in the Engineers opinion of the Engineer the final ride quality at least equals that of the original pavement .
+If the Contractor disputes a diminished ride quality determination the Department will remeasure the pavement profile and compare the IRI values for the finished pavement surface to the original IRI values .
+Correct reductions in the ride quality as directed by the Engineer to produce a finished pavement surface with an IRI at least equal to the original pavement IRI. . F. Cure Time and Repair .
+Place the mixture when the air and pavement temperatures reach at least F. Do not place mixture in rain inclement weather or when the air temperature is forecast to be below F within hours of work completion . .
+c. A detailed description of how field crews will determine pavement rut depths and locations .
+Detail each section of multiple pavement sections separately .
+The unit prices for MicroSurface regardless of the type required include the cost of providing traffic control including traffic control to complete corrective action cleaning existing pavement applying a bond coat temporary pavement markings stationing and corrective action .
+The unit price for MicroSurface Std includes the cost of preparing the surface placing temporary pavement markings placing the microsurfacing mixture applying a rut filling course a leveling course a surface course or all for full width coverage .
+pavement markings placing the microsurfacing mix and applying a single course of mixture for full width coverage .
+The Department will pay separately for removing pavement markings in accordance with subsection .. .
+This work consists of preparing the pavement surface and providing and placing a single chip seal double chip seal or shoulder chip seal .
+Place the chip seal when pavement and ambient temperatures are at least F. Do not place chip seal if air temperatures are forecast below F within hours of completing placement .
+Do not apply chip seals in foggy or rainy weather or if the existing pavement temperature is equal to or greater than F. .
+Prepare the pavement surface to receive the chip seal .
+Clean pavements requiring treatment with a motorized power broom to remove loose material .
+Before beginning the chip seal operation protect utility castings and raised pavement markers using tarpaper or other Department approved materials .
+Conduct sweeping so loose aggregate does not migrate back onto the pavement .
+Notify the Engineer immediately if the coarse aggregate gradation or existing pavement surface conditions necessitate an adjustment to the JMF target rate .
+Sampling and testing methods to determine compliance with material specifications c. Equipment d. Calibration method to determine compliance with the application rates e. Procedures for pavement cleaning and preparation f. Controls implemented to ensure the chip seal material cures or sets up before opening to traffic g. Proposed procedure for monitoring initial acceptance requirements h. Dust control i .
+Determine the actual application rate by placing a tarp over square yard of pavement applying coarse aggregate to the pavement in a production run retrieving the .
+The unit price for Seal Single Chip includes the cost of placing a single application of asphalt emulsion and coarse aggregate to a pavement and the accompanying shoulders and material sampling and testing surface preparation brooming and documentation .
+The unit price for Seal Double Chip includes the cost of placing a double application of asphalt emulsion and coarse aggregate to a pavement and the accompanying shoulders and material sampling and testing surface preparation brooming and documentation .
+Place the slurry seal when pavement and ambient air temperatures are at least F and are rising .
+Pay Item Pay Unit Seal Slurry Square Yard The unit price for Seal Slurry includes the cost of cleaning existing pavement surface applying a bond coat placing the mix and traffic control including traffic control to complete corrective action .
+For concrete pavements if the mean daily air temperature is forecast to remain below F during the curing period the Engineer may allow or require the use of additional cement or a nonchloride accelerating admixture .
+Unless otherwise required supply concrete pavement mixtures meeting the requirements of Table .
+Ensure that the strength of pavement and structure concrete meets the requirements of subsection .. B for opening to construction traffic or vehicular traffic removing shoring or forms or similar operations .
+Cure the specimens in environmental conditions similar to those in which the pavement or structure will cure. . NonDestructive Tests .
+The cost of portland cement concrete pavement mixtures is included in unit prices for related pay items. . Table Concrete Pavement Mixtures Minimum Class Design Strength a Flexural Strength psi Compressive Strength psi Cement Content dh Concrete Grade b c g Section Number Reference i lbcyd sacks days days days days days days days days PNC .
+Use coarse aggregate A AA or AAA for Grades PNC P P and M. Use Class AAA coarse aggregate exclusively for mainline and ramp concrete pavement if the directional ADT is greater than or equal to vehicles per day .
+This work consists of constructing a jointed portland cement concrete pavement unbonded concrete overlay base course or shoulder with or without reinforcement .
+The term pavement as used in these specifications may include the following Concrete Pavement .
+Concrete placed for mainline pavement multiple lane ramps and collectordistributor roadways .
+Concrete pavement placed on an existing pavement section .
+Concrete placed for single lane ramps acceleration deceleration lanes approaches and intersections and pavement gaps .
+Concrete pavements constructed for temporary duration .
+Concrete pavement that will be surfaced with hot mix asphalt HMA or concrete overlay .
+Concrete pavements placed as shoulders .
+Provide materials in accordance with the following Concrete Grades P PM P Curing Materials Epoxy Coated Lane Ties Steel Reinforcement Bond Breaker Material Joint Materials Provide Grade P or Grade PM for concrete pavement miscellaneous concrete pavement concrete overlay and miscellaneous concrete overlay . .
+Provide Grade P Grade PM or Grade P for concrete base course concrete shoulders and temporary concrete pavement .
+Where concrete shoulders are cast monolithically with concrete pavement provide the grade required for the concrete pavement .
+White or transparent curing compound for temporary concrete pavement and C. White curing compound for other pavement shoulders and curb surfaces .
+If paving with fixed forms use backup rails attached to the forms to raise equipment wheel flanges clear of previously cast pavement .
+Use flexible or standard steel forms with flexible liners where the radius of the curve is less than feet except where temporary concrete pavement is required. . Compactor .
+Use mechanical compactors for constructing aggregate base under the concrete pavement . .
+For reinforcement not placed on chairs or mechanically lifted off the grade transfer the reinforcement from the hauling equipment to a movable bridge that spans the newly cast pavement .
+Shape screed and float the concrete to form a dense homogeneous pavement requiring only minimum hand finishing .
+Provide handles with a length that will allow finishing half the width of the newly placed pavement .
+The Contractor may use a roller screed or other manual or semi automated finishing equipment for one lanewidth pavements .
+The Engineer may approve the use of a roller screed for wider pavements if the Contractor demonstrates methods and equipment are in accordance with subsection .. A. and subsection .. A .. . Straightedges for Testing Surface Smoothness .
+Provide a template device for imprinting the pavement .
+Provide at least one moveable bridge for use in finishing the pavement installing monument boxes performing wet checks and crossing the pavement .
+Use mechanical equipment to apply curing compound to exposed pavement surfaces .
+Provide fully atomizing selfcontained spray equipment that is selfsupported on wheels or tracks located outside the newly placed pavement .
+The Engineer may approve hand spraying equipment for small and irregular shapes of new concrete pavement .
+Construct and maintain the base to the required line grade and cross section in accordance with subsection .. A subsection .. B and subsection .. C before pavement placement .
+Ensure that the paving equipment will maintain the grade tolerance specified for the pavement .
+The Engineer will allow the boxingout method for concrete base course and temporary concrete pavement .
+Before placing an adjoining pavement inspect the opengraded base for contamination from fines or debris .
+Where pavement is constructed on a base that could sustain damage from hauling units mechanically transfer the concrete from the hauling units to the grade .
+supported with wheels or tracks located outside the base for the concrete pavement .
+Where using the slip form method vibrate concrete for the full width and depth of the pavement .
+For unavoidable interruptions of concrete placement for longer than minutes place a transverse endofpour joint Symbol H. Operate equipment to prevent damage to pavements and bridge decks and to maintain the required grade in transitioning from the pavement to the deck .
+Do not allow vehicles or equipment other than joint saws or ride quality measurement equipment on new pavement or portions of new pavement until the concrete reaches a strength in accordance with subsection .. Keep existing pavements clean of materials that may interfere with finishing operations or cause damage to the concrete surface .
+Where placing slip form pavement in two layers the first layer may be cast from inches to inches narrower on each side than the width of the proposed pavement slab .
+Cast full depth pavement at the edges with the second layer . .
+To maintain crosstraffic provide gaps in the concrete pavement or place temporary bridges or pavement crossings in accordance with section and as approved by the Engineer .
+Install lane tie bars except in temporary concrete pavement using Departmentapproved chairs or mechanical devices .
+The Engineers will not require installation of lane tie bars and the sawing of joints for temporary concrete pavement unless otherwise required by the contract .
+Install epoxy coated bent bars parallel to the surface of the pavement and at right angles to the edge of the pavement .
+Straighten tie bars to run parallel to the surface of the pavement and perpendicular to the edge of the pavement .
+Do not place adjacent pavement until the Engineer tests the additional lane ties .
+Saw transverse contraction and expansion joints in accordance with subsection .. N. Construct transverse planeofweakness joints in pavements without load transfer bars as shown on the plans .
+Where placing pavement in partialwidth slabs place transverse joints in line with like joints in the adjacent slab .
+Where widening existing pavements place transverse joints in line with like joints in the existing pavement and in line with working cracks that function as joints if directed by the Engineer .
+Permanently mark dowel bar locations on the vertical face of the plastic concrete pavement to accurately identify and locate joints for subsequent sawing .
+Place the bottom edge of the premolded filler in contact with the base and the top edge at the required depth below the surface of the pavement .
+Place the expansion joint filler perpendicular to the surface and the centerline of the pavement .
+Place and consolidate the pavement fulldepth before inserting the dowel bars .
+Permanently mark dowel bar locations on the vertical face of the plastic concrete pavement for accurate identification and location of joints for subsequent sawing .
+Saw the joint fulldepth and remove for inspection of the dowel bar placement before restarting the concrete pavement operation .
+Screed and consolidate concrete pavement to achieve the final cross section shown on the plans .
+The Engineer may allow the use of manual methods for concrete pavement gaps less than feet long and no greater than one lane width wide or if the pavement is entirely concrete base course .
+Correct high or low spots in pavements that exceed the tolerances and obtain the Engineers approval before resuming paving operation .
+Do not leave overhanging projections on pavement edges except on temporary concrete pavement .
+When the pavement sets and will maintain a texture drag the surface longitudinally using one or two layers of Department approved damp fabric material .
+Immediately after dragging groove pavement surfaces other than concrete base courses and shoulders .
+Do not texture the pavement surface within ½ inches of longitudinal joints .
+inch in accordance with ASTM E . For miscellaneous pavement the Engineer will allow use of a manual texturing device with a texture rake at least the same width as the plastic concrete pavement .
+If texturing is not complete before placing curing compound or if the pavement is not textured as required complete the surface texturing of the hardened concrete at no additional cost to the Department after the pavement achieves the minimum required class design strength .
+Correct pavement surfaces by grooving the hardened concrete .
+After texturing stencil survey station numbers into the pavement surface .
+Stencil station numbers inches from the edge of the pavement .
+Stencil the month day and year into the concrete pavement at the beginning and end of each days pavement operation near the edge of the slab opposite the edge used for stationing .
+Place the date so it can be read if facing in the direction of pavement placement .
+Do not stencil concrete base courses and temporary pavements .
+Curing operation will take precedence over texturing in accordance with subsection .. K. Cure the concrete as soon as the free water leaves the surface of the pavement .
+Coat and seal the pavement surface and sides of slip formed pavement with a uniform layer of membrane curing compound .
+For miscellaneous concrete pavement more than one lane wide apply the compound from a foot bridge if using a manually operated pressure type sprayer .
+If fixedforms are removed within the seven day curing period coat the sides of the pavement with curing compound immediately after removing the forms .
+The Engineer will allow the use of a concrete saw on the pavement to saw the joints .
+pavement until the pavement has attained the strength specified in subsection ..
+Start sawing operation after the concrete pavement hardens but before random cracks develop in the concrete pavement. . Transverse Contraction and Expansion Joints .
+Make the relief cut after the concrete hardens and will not excessively ravel or spall but before random cracks develop in the concrete pavement .
+Adjust the groove width to compensate for change in the relief cut due to pavement contraction .
+Give second stage sawing of expansion joints priority over second stage contraction joint sawing if higher pavement temperatures are forecast .
+The Engineer will not allow spalling raveling and random cracks in the concrete pavement. . Repair raveling or spalling in accordance with subsection .. P. Remove and replace random cracked panels as directed by the Engineer .
+The standard plans will specify the location of the transverse joint in the pavement shoulder curb and gutter valley gutter or base course if the joint requires a load transfer assembly expansion joint filler or both and the type of sealant or seal required .
+The Engineer will allow coring of the pavement for information on the day following casting but will not test informationonly cores .
+Prevent damage to the pavement by using portable lightweight equipment .
+The Engineer will allow no more than six cores per mile one per slab to monitor pavement thickness and steel location .
+Reapply the curing compound on the pavement to corehole locations .
+Repair joints in concrete base course and temporary concrete pavement for intermediate and major spalls. . Minor Spalls .
+Minor spalls or voids are less than square inches length multiplied by width beyond joint face and exceed the following limits a. Spalls that extend more than ¼ inch from the joint face and over ½ inch below the surface of the pavement b. Spalls that extend more than ¼ inch from the joint face and are at least inches long regardless of the depth or c. Void areas with a diameter greater than ½ inch in the upper inch of the joint face or greater than inch diameter in any location .
+Immediately after priming place the epoxy mortar in the spalled area and finish to the shape of the original pavement surface .
+Extend below the reinforcement in reinforced pavement or b .
+Greater than inches deep in nonreinforced pavement .
+Use a Type R mortar with a stiff consistency tamp into the primed repair area and finish flush with the pavement surface .
+Extend below the reinforcement in reinforced pavement or b .
+Are greater than inches deep in nonreinforced pavement .
+Patch spalls that occur between adjacent lanes of concrete pavement in accordance with subsection .. P .. Where a concrete pavement abuts an HMA surface patch spalls that extend more than ¾ inch from the joint face and more than ¾ inch below the surface of the pavement .
+If the cumulative total of spall lengths exceeds feet per mile of pavement joint patch spalls less than ¾ inch from the joint face and more than ¾ inch below the surface of the pavement . .
+Remove and replace the pavement if directed by the Engineer and at no additional cost to the Department .
+Clean joints including the surface of the pavement next to the joint groove with appropriate tools and equipment to remove slurry stones or other loose material .
+Remove sealant from the surface of the pavement .
+Protect the concrete pavement from damage by rain. . Protection from Cold Weather .
+Protect the concrete pavement from freezing until it attains a compressive strength of at least psi .
+Do not place concrete pavement until the ambient temperature away from artificial heat is at least F . and rising unless otherwise approved by the Engineer .
+Do not place concrete pavement if portions of the base subbase or subgrade layer are frozen or if the grade exhibits poor stability from excessive moisture . .
+Include specific provisions in the quality control plan for protecting concrete pavement during hot weather .
+Protect the concrete pavement if the rate of evaporation is equal to or greater than .
+Provide equipment approved by the Engineer for determining the relative humidity and wind velocity at the concrete pavement site . .
+The Engineer will measure and the Department will pay for concrete pavement and base course by area based on plan quantities in accordance with subsection ..
+pavement installed the pavement thickness required and whether reinforcement is required .
+The Engineer will measure concrete pavement with integral curb by area including the curbs .
+The Engineer will measure transition areas between concrete valley gutter and concrete curb and gutter and concrete valley gutter cast integrally with concrete pavement at the apex of gore areas by dividing the area in half and measuring each half using the units of adjacent pay items .
+The unit prices for other pavement and base course pay items include the cost concrete headers abutting bridges and track crossings constructed by thickening the pavement .
+The unit prices for Conc Pavt Misc Reinf and Conc Pavt Misc Nonreinf of the thicknesses required include the cost of additional concrete additives if concrete pavement for pavement gapping requires additives to meet minimum openingtotraffic strength requirements .
+If the Contractor uses concrete for the shoulder the unit price for Shoulder Freeway includes the cost of the transverse joints in the shoulder and the external longitudinal pavement joints .
+The Engineer will measure and the Department will pay for Conc Pavt Ovly Furnishing and Placing on concrete pavements and shoulders including providing and placing the concrete mixture by volume .
+The unit price for Conc Pavt Ovly Finishing and Curing includes the cost of finishing and curing concrete pavements and .
+The Engineer will measure and the Department will pay for constructing transverse joints in accordance with subsection .. E and for repairing and removing the existing pavement in accordance with subsection .. B. .
+The Engineer will measure each individual lane of gapped concrete pavement separately .
+The Engineer will core the concrete pavement before final acceptance to determine the thickness of the concrete pavement and if required the depth of reinforcement below the pavement surface .
+The Engineer will only measure the top layer of steel for depth of concrete cover for concrete pavements with two layers of required reinforcement .
+Temporary concrete pavement .
+The Engineer will determine concrete pavement units core locations and evaluate cores in accordance with MTM .
+The Department will adjust the contract unit price for areas of concrete pavement where thicknesses or reinforcement locations exceed required tolerances .
+Use Table to classify cores and determine price adjustments according to concrete pavement thickness .
+The Department will apply these adjustments cumulatively to the evaluated pavement unit . .
+If the Engineer classifies an initial core from a concrete pavement unit as Type AX indicating both thickness and steel depth are within .
+If the Engineer does not classify an initial core from a concrete pavement unit as Type AX the Engineer will take additional cores .
+The Engineer will decide whether to accept the work make a price adjustment of up to percent or direct the Contractor to remove and replace concrete pavement based on the initial and additional cores. . Price Adjustment for Thickness .
+The Engineer will not take additional cores to measure thickness and the Department will not apply a price adjustment to the concrete pavement unit .
+The Engineer will calculate the average thickness for the concrete pavement unit .
+In determining the average thickness the Engineer will record measurements of individual cores that exceed the required pavement thickness by more than ¼ inch as the required thickness plus ¼ inch .
+The Engineer will establish a new initial core for the concrete pavement unit excluding the deficient area and repeat the evaluation and calculation for the concrete pavement thickness .
+The Department will consider two variables when considering price adjustments for steel depth the steel location relative to the pavement surface and the deviation of the steel location from the allowable depth range .
+The Department considers a Core Type X to have reinforcement placed within the required tolerances for depth from surface of pavement .
+The Engineer will not take additional cores and the Department will not make a price adjustment to the concrete pavement unit for reinforcement placement .
+The Engineer will take two additional cores and measure the depth of steel from concrete pavement surface for each core .
+The Engineer will use the average reinforcement depth and Table A to determine the price adjustment based on the location of the steel from the concrete pavement surface .
+The Engineer will establish a new initial core for the concrete pavement unit excluding the deficient area and repeat the evaluation and calculation of depth of steel .
+The Department will consider defective areas separately from the remainder of the concrete pavement unit .
+The Contractor will remove an area of pavement at least feet long for the full panel width .
+If the area designated for removal is within feet of a transverse joint the Contractor will remove the defective concrete pavement area to the joint .
+The Engineer will core and evaluate the replaced areas in accordance with subsection .. G. If the concrete pavement is within the tolerances specified in Table Table A and Table B the Department will pay for the replaced concrete pavement at the contract unit price .
+B . . C . a a. Corrective action up to and including remove and replace pavement. . Table A Price Adjustment for Depth of Steel from Pavement Surface Tolerance on Depth of Reinforcement per Uniform Plan Thickness in a c e Core Type . . . . . . . .
+If the contract requires a pavement reinforced with two layers of reinforcement the Engineer will only measure the depth of the top layer of steel .
+To determine pavement thicknesses use the same depth range as the pavement the shoulder is tied to .
+If the contract requires a pavement reinforced with two layers of reinforcement the Engineer will only measure the depth of the top layer of steel .
+To determine pavement thicknesses use the same depth range as the pavement the shoulder is tied to .
+This work consists of restoring concrete pavement including the following A .
+Removing and repairing portions of a concrete pavement one lane wide and feet long or less with reinforced and nonreinforced portland cement concrete with the type of joint required B. Diamond grinding portland cement concrete pavement C. Resawing and sealing existing longitudinal pavement joints D. Sawing cleaning and sealing cracks in concrete pavements E. Removing sections of concrete pavement one lane wide and greater than feet long in accordance with section or subsection .. B. as determined by the Engineer F. Replacing sections of concrete pavement one lane wide and greater than feet long in accordance with section Refer to Standard Plan R Series R Series and the contract for details .
+Provide material in accordance with the following Concrete Grades P PM Concrete Grades PMS PNC Base Course Aggregate AA A Curing Materials for Pavements Insulating Blankets HMA Mixtures for Restoring Shoulders Steel Reinforcement Epoxy Coated Dowel Bars and Deformed Tie Bars Joint Materials For concrete pavement repairs the Engineer will determine the required concrete grade based on the required opening of repairs to traffic in accordance with Table .
+The Engineer will not require day compressive strength test cylinders for concrete pavement repairs .
+Provide a drilling machine and use methods to drill holes in the existing pavement vertical surfaces in accordance with the following a .
+Drill the holes to the required diameter and depth ½ inch midway between the top and bottom surfaces of the concrete pavement b .
+Drill holes parallel to the pavement surface and parallel to the longitudinal joint within a tolerance of ⅛ inch c. When positioned against the face of the existing pavement drill holes parallel to the longitudinal joint d. Support the drill on rails that rest on the pavement surface at both ends of an foot long repair or by other alignment methods approved by the Engineer to ensure holes meet the requirements of subsection .. A .. b e. Provide a drill that uses mechanically applied pressure for forward and reverse travel .
+Provide a steelshod vibratory screed with the weight and vibrating frequency required to screed concrete flush with the existing pavement in a single pass .
+Provide a roller screed with the weight and speed required to screed the concrete surface flush with the existing pavement in two or more passes .
+Provide screeds at least inches longer than the width of the concrete pavement repair. . Diamond Grinding Equipment .
+Provide diamond blades spaced as required for the application and mounted on a selfpropelled machine designed for grinding and texturing pavement .
+Use equipment that will not cause damage to the underlying surface of the pavement .
+Do not use grinding equipment that ravels or spalls the concrete pavement fractures aggregate or damages the transverse or longitudinal joints .
+To remove residue and excess water provide vacuum equipment that extracts the slurry material from the pavement and prevents dust from escaping into the air. . Equipment for Sawing and Sealing Cracks .
+Construct concrete pavement repairs feet long or less in accordance with section except as modified by this subsection .
+To make repairs remove existing concrete pavement in sections at least feet long .
+If the repair area is less than feet from an existing joint remove the existing concrete pavement to at least one foot beyond the joint .
+If the repair area is less than feet from the next repair area remove the concrete pavement between the two areas .
+The Engineer will not allow the use of removal equipment that damages the concrete pavement required to remain in place .
+Repair remaining concrete pavement damaged during removal operations at no additional cost to the Department .
+Remove partdepth or fulldepth hot mix asphalt HMA patches included in the portion of pavement being removed as removal of concrete without regard to additional effort that may be involved in the removal of dissimilar materials .
+If the plans show repair areas that include concrete shoulders perform shoulder removal using the same method as concrete pavement removal .
+Do not extend the joint created by the concrete pavement repair into the curb .
+Do not begin sawing more than two weeks before concrete pavement removal .
+Make straight transverse saw cuts at right angles to the centerline of the concrete pavement within a tolerance of inch per lane width .
+Use water immediately after sawing to flush slurry off the surface of the pavement .
+Place concrete repairs the same day as the removal of existing concrete pavement .
+Remove concrete pavement between narrowly spaced saw cuts at the end of a slab with air hammers and hand tools .
+Drill the faces of the existing concrete pavement to allow the insertion of dowel bars or deformed tie bars .
+For expansion joints Erg drill or punch the fiber filler to match the location of the holes in the existing pavement .
+After grouting the dowel bars in place install the filler and position it against the existing pavement .
+Extend the fiber filler the full depth of the repair and install flush with the existing pavement surface .
+Place fiber filler in one continuous length across the joint except for pavements wider than the nominal lane width the Engineer will allow a short piece of filler .
+Coat the portions of dowel bars that extend beyond the face of the existing pavement or the fiber filler with an approved bondbreaking coating .
+If the existing base is inches or less below the required grade or lower than the required grade as the result of concrete pavement removal operations fill the area with concrete during repair construction .
+Make the depth of the longitudinal joint ⅓ the thickness of the pavement .
+Do not construct an external longitudinal joint between concrete pavement repairs and concrete curbing or shoulders .
+Immediately before concrete placement wet the faces of the existing pavement and the surface of the aggregate base with water .
+Strike off the surface flush with the existing pavement surface at least twice with a vibratory or roller screed .
+While the concrete is still plastic check that the edges of the repair surface are flush with the edges of the existing concrete pavement and test to ensure the repaired surface meets the required line and grade .
+For repairs feet long or less place the straightedge parallel to the pavement centerline with the ends resting on the existing pavement and draw the straightedge across the repair .
+Ensure the straightedge remains in contact with the existing pavement while drawing it across the repair .
+Make the first and the last measurement with half the straightedge resting on the existing pavement .
+Make the second and the next to last measurement with inches to inches of the straightedge resting on the existing pavement .
+Texture the surface of the repair to match texturing on the adjacent concrete pavement. . Stenciling .
+Apply curing compound immediately after free water evaporates from the concrete pavement surface .
+Do not delay curing compound application for other work during concrete pavement placing and finishing operations .
+Stop concrete pavement placement if the curing compound application process fails to meet the requirements specified in this subsection .
+Fog mist the pavement without damaging the concrete pavement surface .
+Place insulated blankets to meet opentotraffic requirements and protect the concrete pavement from weather damage .
+For all other joints and saw cuts in concrete pavements shoulders or gutters caused by overcutting clean and seal using hotpoured joint sealant .
+Before sealing joints with fiber filler remove the joint fiber filler at the concrete pavement surface by sawing inch wide and ½ inches deep .
+Saw joint grooves for C joints and E joints after the concrete pavement attains the strength required to prevent excess raveling or spalling but before random cracks develop .
+After completion of concrete pavement repairs spall repairs and pavement texturing seal transverse and longitudinal concrete pavement joints with hotpoured sealant in accordance with subsection .. S. Resaw the transverse and longitudinal joints over the existing joint groove to produce a finished joint with two freshly sawed faces .
+Seal the joint groove to no greater than ⅛ inch after cooling below the concrete pavement surface. . HMA Shoulder Replacement .
+Ensure the concrete pavement attains the required minimum flexural strength and ensure joints are sawed in accordance with subsection .. B. before opening to traffic .
+Diamond grind concrete pavement in the longitudinal direction beginning and ending at lines perpendicular to the pavement centerline .
+Taper grinding to the existing pavement surface within inches of the RPM .
+Texture at least percent of the pavement surface unless otherwise directed by the Engineer .
+The Engineer will determine the transitions from ground to unground pavement surfaces .
+Saw or resaw clean and seal longitudinal and transverse concrete pavement joints in accordance with subsection .. S and the following .
+Ensure the joint faces and pavement surface are dry before sealing joints .
+Seal the joint groove to no greater than ⅛ inch after cooling below the surface of the pavement .
+Ensure the joint faces and pavement surface are dry before sealing joints .
+Seal the crack to no greater than ⅛ inch after cooling below the surface of the pavement .
+The Engineer will determine the final concrete pavement repair thickness in accordance with subsection .. C. The Department may core the concrete pavement repairs and will adjust the unit prices for repairs that do not meet the required depth or the required reinforcement location in accordance with subsection .. B. Pavement Repair Removal .
+The Department considers Pavt Repr Rem the removal of pavement sections without disturbing the base as shown on the plans .
+The Department will include the pay item Saw Cut Intermediate for sections of pavement on which the plans show Pavt Repr Rem .
+The Department will not include the pay item Saw Cut Intermediate for sections of pavement on which the plans show Pavt Rem .
+The Department will pay for intermediate saw cuts for concrete pavement repairs over feet long but less than feet long to allow loading onto hauling units as Saw Cut Intermediate .
+The Department will establish a concrete pavement thickness for repairs as shown on the plans based on the original plan thickness of the existing concrete pavement plus inch .
+The minimum thickness of the concrete pavement repair may vary by no greater than inch from the thickness shown on the plans .
+The Engineer will measure Pavt Repr Reinf Conc and Pavt Repr Nonreinf Conc of the thickness specified longitudinally along the pavement surface and will use the transverse dimension shown on the plans .
+Removing saw slurry from the pavement surface and sawed faces b .
+The Engineer will measure repairs for concrete shoulders curbs and curb and gutter as Pavt Repr Nonreinf Conc at the same thickness as adjacent concrete pavement repairs .
+Removing the saw slurry from the pavement surface and sawed faces c. Drilling and cleaning the holes for the dowel bars and deformed bars .
+The unit prices for other concrete pavement repair pay items include the cost of transverse planeofweakness joints U. H. Lane Tie Epoxy Anchored .
+The Department will not deduct minor areas of untextured pavement if the minor areas total no greater than percent of the area shown on the plans .
+The Department defines minimum under clearance as the minimum vertical distance from any point on the pavement including inches either side of the pavement to the structure .
+Do not use mechanical or adhesive methods which will be exposed in the completed structure to secure forms to concrete bridge decks or pavements .
+Use a machine built specifically for grooving pavements with blades .
+Orient grooves along the initial grooving at right angles to the centerline of the pavement or skewed no greater than the maximum skew of the bridge .
+Provide blast cleaning equipment with dry abrasive or highpressure water to remove laitance deleterious material including old curing material and pavement marking paint .
+The unit price for End Header Replacement includes the cost of removing and replacing end headers decks backwalls and approach pavements as shown on the plans. . H. Structural Crack Repair .
+Direct or indirect blasting of vehicles water vessels and pedestrians b. Abrasive material and debris falling on the traveled portions of the pavement or into waterways and c. Abrasive material and debris spreading into areas where it may create a traffic hazard .
+Deposit the concrete to the required depth and spade or vibrate to ensure consolidation. . For concrete curbing constructed as an integral part of the concrete pavements except at night headers place concrete curbing within minutes of placing the concrete for the pavement .
+Construct transitions between concrete valley gutter and concrete curb and gutter as miscellaneous pavement in accordance with section .
+The Engineer will measure Curb and Gutter Conc Det Valley Gutter Conc and Curb and Gutter Bridge Approach in place along the joint of the curbing with the pavement .
+If the Contractor chooses to construct curb as an integral part of the pavement the Engineer will measure the curb separately .
+The Department will not consider payment for extras or increases in pay quantities due to the Contractors choice to cast curbing integral with the pavement .
+Provide materials in accordance with the following HMA Mixture Bond Coat SSh CSSh Asphalt Cement Construct the HMA curb with the same HMA mixture required to construct the leveling and top courses of pavement .
+The Contractor may use a spreader to place HMA shared use paths adjacent to paved shoulders or curb if the spreader can place shared use path pavement meeting the required tolerances .
+Construct concrete shared use paths using slip form paving equipment or fixed forms with a Departmentapproved screed that can place shared use path pavement that meets surface tolerances .
+Place concrete pavement mixtures to produce a smooth dense surface free of irregularities .
+This work consists of providing and applying retroreflective permanent pavement markings in accordance with the Michigan Manual on Uniform Traffic Control Devices .
+Provide samples of permanent pavement marking materials on Department request .
+Apply longitudinal lines with certified selfpropelled pavement marking equipment .
+The Engineer may approve other equipment for special markings or areas inaccessible to selfpropelled pavement marking equipment .
+Use a selfpropelled pavement marker capable of marking pavement in either direction on a roadway .
+Allow time for the Engineer to inspect traffic control devices as shown in the pavement marking convoy typicals .
+If applying markings on a roadway closed to traffic the traffic control devices specified in the pavement marking convoy typicals are not required unless otherwise directed by the Engineer .
+The Department will not provide storage buildings or space for permanent pavement marking equipment or materials .
+If specified on the plans layout the permanent pavement markings .
+Otherwise witness log and lay out permanent pavement markings to replace in kind .
+When layout is complete contact the Engineer to review the layout work before applying permanent pavement markings .
+Before applying pavement markings ensure the pavement surface is clean and dry .
+Air blast to remove material that prevents pavement markings from adhering to the pavement surface .
+When applying centerline and lane lines on new construction retrace at least five existing adjacent skips to match the existing pavement marking cycle .
+Retrace existing pavement markings using lines equal to the width and length of the original markings .
+Uniformly apply pavement marking material at the rates shown in Table . . Table Pavement Marking Material Application Rates per Mile a b Line Type Broken Solid Binder Type Thickness mil Binder volume Bead weight in in in in in in in in Binder gal Waterborne Bead lb Binder gal Low Temperature Waterborne Bead lb Binder gal Regular Dry Bead lb Binder lb Thermoplastic Bead lb Binder lb Sprayable Thermoplastic c Bead lb Binder gal Polyurea Bead lb As directed by the manufacturer a. Binder yield indicates the amount to produce the required mil thickness without drop on beads .
+Load pavement marking materials on the pavement marking machine without interfering with or delaying traffic .
+The Department does not require glass beads for waterborne pavement marking material if marking rest areas roadside parks and car pool lots .
+Ensure pavement marking lines are straight or of uniform curvature .
+Remove pavement markings outside the required tolerances and reapply in the correct locations .
+Re apply unprotected pavement markings damaged by traffic and remove tracked lines at no additional cost to the Department .
+If required remove existing longitudinal pavement markings on old pavement or curing compound on new concrete in accordance with subsection .. F. If removing special markings including legends symbols arrows crosswalks and stop bars install the new markings within working days .
+The Contractor may place waterborne pavement markings immediately on new Hot Mix Asphalt HMA pavement. . Low Temperature Waterborne .
+Wait at least days after placing the pavement surface before applying low temperature waterborne pavement markings to new HMA wearing surface .
+Wait at least days after placing the pavement surface before applying regular dry pavement markings to new HMA wearing surface .
+Prepare the pavement surface and apply the cold plastic tape in accordance with the manufacturers specifications .
+For pavements with two or more layers of existing overlay cold plastic marking material or any other non compatible materials remove the existing marking material before installing the new cold plastic markings .
+Ensure dry weather for at least hours and a dry pavement surface before applying the primerless cold plastic tape marking .
+Clean the pavement surface using an air compressor with at least cfm air flow and psi .
+On all pavement surfaces prevent damage to transverse and longitudinal joint sealers .
+Ensure dry weather for at least hours and a dry pavement surface before applying the primerless cold plastic tape marking .
+Clean the pavement surface using an air compressor with at least cfm air flow and psi .
+On all pavement surfaces prevent damage to transverse and longitudinal joint sealers .
+Ensure the pavement is free of excess surface and subsurface moisture that may affect bonding .
+Ensure the pavement is free of excess surface and subsurface moisture that may affect bonding .
+Ensure the pavement is free of excess surface and subsurface moisture that may affect bonding .
+Surface preparation requirements for special and longitudinal polyurea pavement markings depend on surface conditions .
+Prepare new PCC surfaces and PCC surfaces free of oil drips residue and debris temporary or permanent markings by removing the curing compound from the area required for pavement markings .
+Clean the marking area with compressed air if markings are replaced every years and no visible oil drip areas or visible chipping or spalling of the existing marking exist b. Scarify the marking area using nonmilling grinding teeth or shot blast if markings are replaced every years and visible oil drip areas chipping or spalling of the existing markings exist or c. Completely remove existing pavement markings if markings are replaced every years. . Table Minimum Material Placement Temperature and Seasonal Restrictions a Material Minimum Air Temperature F b Minimum Pavement Temperature F c Start Date End Date Waterborne May Oct. Low Temperature Waterborne Oct. May Regular Dry Oct. May Cold Plastic Tape with Contact Cement May Oct .
+If the contract requires a second application of permanent pavement markings complete two applications regardless of initial pavement marking conditions .
+The Engineer will provide a list of locations and limits for call back pavement marking painting and will direct the order that the Contractor may paint the locations .
+During removal do not disturb pavement more than inches below the surface or more than inches from the perimeter of the marker casting .
+The Engineer will stop marker removal if damage to the pavement exceeds these limits .
+Use leveling mix to patch concrete and HMA pavement that require HMA overlay .
+Use a prepackaged hydraulic fastset material for patching structural concrete from the Qualified Products List for patching concrete pavement not requiring overlay .
+Patch concrete pavement not requiring overlay in accordance with the patch material manufacturers specifications .
+Patch HMA pavement not requiring overlay with the epoxy adhesive used to attach raised pavement markers to the pavement .
+The cost of traffic control and mobilization is included in the unit prices for other pavement marking placement pay items .
+The cost of collecting and disposing of residue generated by the removal of cold plastic pavement markings and curing compound is included in the unit prices for other removal pay items .
+The cost of glass beads is included in the unit prices for other pavement marking material .
+The Department will not pay for corrective action required for delayed acceptance including removal and replacement of failed pavement markings .
+The Department will delay final acceptance of completed pavement marking work for days .
+The Department will not accept pavement markings if less than percent of the original marking remains and will require the Contractor to replace the markings immediately .
+The Department will not consider pavement markings damaged by snowplow operations as failed .
+Provide the Department with a maintenance bond equal to percent of the value of the pavement marking work performed so the Department can accept the project for final payment before the end of the day delayed acceptance period .
+If full removal of pavement markings is required the unit prices for Rem Spec Mrkg or Pavt Mrkg Longit inch or Less Width Rem and Pavt Mrkg Longit Greater than inch Width Rem include the cost of the removal in accordance with subsection .. N. If the Contractor removes multiple layers of pavement marking materials the Department will not pay separately for material removed beyond the first layer .
+The Engineer will compute the quantity of pavement marking material and glass beads applied per unit of .
+The Department will reduce the unit price for pavement marking material for material shortages in direct proportion to the deficient material quantity up to percent .
+If the daily deficiency of pavement marking material or beads is greater than percent the Department will consider the days work unsatisfactory and will direct the Contractor to reapply the days markings to the thickness required by the contract at no additional cost to the Department . .
+Mount signs at a bottom height of at least feet above the near edge of pavement and at least feet above ground .
+The Department will allow the nighttime use of inch channelizing devices in the tangent area only on CPM pavement marking of any duration where the use of plastic drums restricts proposed lane widths to less than feet including shy distance .
+If placing temporary concrete barrier sections on the pavement clean the pavement of any material that .
+would reduce the friction between the barrier section and the underlying pavement .
+Ensure the color of the reflector matches the color of the edgeline pavement marking in that location .
+If using temporary anchors in new or existing pavement remove anchors to at least inch below final pavement grade and backfill with an epoxy material approved by the Engineer .
+temporary anchors in temporary pavement remove temporary anchors flush with the paved surface .
+The requirements for placing temporary pavement markings differ depending on the situation involved .
+Place foot dashes spaced feet apart from centertocenter of the markings when temporary pavement markings are placed in the configuration of permanent markings and traffic is driving in its normal lanes .
+When temporary pavement markings are used to facilitate traffic shifts or when used to delineate traffic in other than its normal lanes or both place markings in the same configuration as permanent markings in accordance with section However the Contractor may substitute inch wide markings where inch wide markings are called for and inch wide markings where inch wide markings are called for .
+Temporary Pavement Marking Type R. Use temporary pavement marking Type R removable tape when temporary pavement markings must be placed on finished pavements and are not in the exact location as future permanent markings or at the discretion of the Engineer when temporary markings must be removed during the life of a project .
+When Type R tape is used as a foot dash to temporarily mark finished pavement prior to the placement of permanent markings offset it one foot from the permanent marking so that the permanent markings can be placed prior to the removal of the foot dashes .
+Between April and November place Type R tape not used as a foot dash according to the manufacturers specifications for existing temperature and pavement condition .
+Use temporary pavement marking Type NR when temporary pavement marking must be placed between November and April or if the removal of the temporary marking will occur after December .
+Use temporary pavement marking Type NR tape or paint when temporary pavement markings must be placed on pavement to be removed or replaced during construction or when temporary markings line up exactly with the placement of permanent markings and the temporary pavement marking material is compatible with the material specified for the permanent markings .
+Place Type NR markings in accordance with section . . Place Type NR markings used as a foot dash to temporarily mark finished pavement prior to the placement of permanent markings in the exact location as the permanent marking such that its removal is not necessary .
+Only use Type NR markings compatible with the permanent pavement marking material specified on the project as a foot dash .
+Select temporary raised pavement markers TRPM from the Qualified Products List .
+Remove TRPM before applying subsequent layers of HMA or if they are no longer in the proper configuration for the associated pavement markings in use .
+Install TRPM Type in accordance with the manufacturers specifications to supplement Type R or Type NR temporary pavement marking as directed by the Engineer on the following i. Tangent sections ii .
+Provide and install temporary pavement marking cover Type R preformed black or gray tape to cover existing pavement markings as shown on the plans or directed by the Engineer .
+Use black pavement marking cover on HMA pavement and gray pavement marking cover on portland cement concrete PCC pavement in accordance with manufacturers specifications .
+Do not use heat solvents or other additional adhesive to install pavement marking cover .
+Replace pavement marking covers that come loose or that do not meet contract requirements as directed by the Engineer and at no additional cost to the Department . .
+Replacing MMUTCD required static signing or pavement markings b .
+Remove pavement markings that conflict with proposed temporary traffic markings before making any changes in the traffic pattern .
+Place temporary pavement markings when removing or obscuring pavement markings for more than hours before a change in the traffic pattern .
+Do not use paint or bituminous bond coat to cover existing and inappropriate pavement markings .
+Obtain the Engineers approval for one of the following removal methods and minimize damage to the surface texture of the pavement during removal .
+The Department will not require continuous vacuuming equipment for pavement marking removal of less than feet per stage . .
+Remove pavement markings using selfpropelled truck mounted removal equipment .
+Obtain the Engineers approval for one of the following removal methods and minimize damage to the surface texture of the pavement during removal a .
+Use selfpropelled truck mounted removal equipment except do not use water blasting for marking removal on asphalt pavement b .
+If partwidth construction is required construct the new pavement on half an intersection at a time .
+Provide railroad crossings for local traffic in accordance with subsection .. Use pavement gaps or other means approved by the Engineer to maintain twoway traffic across intersections .
+The Engineer may vary the pavement gap lengths based on the types of vehicles passing through the intersection .
+At least feet from the pavement edge on roadways with shoulders or mountable curbs .
+Keep traffic off new HMA pavement by installing cones or drums on the tangent in addition to the traffic control devices specified in the MMUTCD .
+After completing compaction if the air temperature is below F open the pavement to traffic .
+If the air temperature is from F to F keep traffic off the pavement for an additional hour .
+If the air temperature is greater than F keep traffic off the pavement for hours. . Staggered Lane Endings with Vertical Longitudinal Joints .
+The center lanes of twoway pavements with an odd number of lanes are excluded from this requirement .
+If the points of ending of adjacent lanes are less than feet apart install lighted drums at foot intervals along the length of each side of the affected pavement and place W Road Work Ahead signs ahead of the pavement area. . Tapered Overlapping Longitudinal Joints .
+The Department will pay for removing special markings as Rem Spec Mrkg in accordance with subsection .. D. The Engineer will measure temporary pavement markings of the type required as the actual length of equivalent inch line placed .
+The unit price for the relevant Pavt Mrkg Temp NR pay items include the cost of providing and placing temporary pavement markings. . Removable Type R Pavement Markings .
+The unit prices for Pavt Mrkg Type R in color Temp and Pavt Mrkg Cover Type R color include the cost of providing placing removing and disposing of temporary pavement marking . .
+The unit prices for Raised Pavt Marker Temp pay items include the cost of providing installing maintaining removing and disposing of raised pavement markers .
+If using broken pavement place in two layers with staggered joints and fill voids with smaller pieces of broken pavement as approved by the Engineer .
+Round the edges and joints of the pavement to a ¼inch radius with a Departmentapproved finishing tool .
+Extend conduit not terminating in structures such as manholes handholes or foundations feet beyond pavement limit unless otherwise required .
+Locate equipment and supplies a minimum distance from the edge of pavement as directed by the Engineer .
+If the highway is superelevated start the bore from the lower side of the pavement . .
+Install direct burial cable parallel to the edge of pavement along the shoulder edge clear of guardrail locations .
+Ensure handholes are flush with the pavement surface and inch above grade outside paved areas .
+Erect bracket arms at right angles to the edge of pavement .
+Join conduit pipe fittings and bends with an Engineerapproved PVC conduit cement. . To repair conduit under pavement sidewalks or earth locate the conduit break replace and sleeve a new conduit section .
+Cut slots in the pavement in accordance with subsection .. Use highpressure water and air to clean and dry slots before placing traffic loop wire .
+Remove dirt dust debris and standing water from the adjacent pavement to avoid contaminating the slot during loop installation .
+Place the loop wires at least ½ inch below the surface of the slots in the pavement and fill the slots with sealant .
+Do not use solvents to clean sealant off pavement .
+Ensure the Engineer approves materials and method for replacing pavement .
+Sawing the slots in the pavement .
+The Engineer will measure and the Department will pay for pavement removal and replacement in accordance with the standard specifications and pay items for that work .
+Provide and install a monument to mark the location of a replaced Plat Block Corner or Plat Corner not located in pavement or other hard surfaces .
+Use coring after completion of paving operations to place new monument boxes in pavement areas .
+Install monument boxes so neither the box nor the cover extends above the pavement surface and so no part is more than .
+foot below the pavement surface .
+Clean the shoulder and pavement at the end of each day using an Engineerapproved method .
+Remove portions of gate boxes to at least feet below the pavement surface under the road and to at least inches below the planned grade outside the road .
+Place valve boxes plumb over the operating nut of the valve with the box cover flush with the pavement or as approved by the Engineer .
+If the Engineer approves leaving the auxiliary gate valve and box in place remove to at least feet below the pavement surface under the road or at least inches below planned grade outside the road .
+Case refers to structures located in hard surfaced travel areas and unit prices includes saw cutting removing and replacing existing pavement curb or curb and gutter and adjusting the water shutoff or gate box to final grade. . b .
+Case refers to structures located outside existing pavement curb or curb and gutter and unit prices includes restoring disturbed vegetated or sidewalk areas . .
+Case refers to structures located in hard surfaced travel areas and in addition to costs shown in subsection .. B .. a unit prices include saw cutting removing and replacing existing pavement curb or curb and gutter and adjusting the water shutoff or gate box to final grade .
+c. Case refers to structures located outside existing pavement curb or curb and gutter and in addition to costs shown in subsection .. B .. a unit prices include restoring disturbed vegetated or sidewalk areas. . Gate Box Adj Temp Case __ or Water Shutoff Adj Temp Case __ will be measured and paid for if temporarily lowering the water shutoff or gate box .
+Removing pavement .
+Replacing pavement .
+After placing and rough grading the subbase provide pavement stakes as follows .
+In addition to yield stakes set stakes to determine wedging limits for hot mix asphalt pavement .
+Use pavement grade stakes for finish grading of the subbase base course and pavement .
+Densegraded aggregate saved or manufactured from Department project sources that may consist of natural aggregate blast furnace slag crushed concrete or reclaimed asphalt pavement with particle sizes no greater than inches and no visible organic or foreign matter .
+The Contractor may use crushed concrete coarse aggregate in the following concrete mixtures curb and gutter valley gutter sidewalk concrete barriers driveways temporary pavement interchange ramps with a commercial ADT less than and concrete shoulders .
+Do not use crushed concrete coarse aggregate in the following mainline pavements or ramps with a commercial ADT greater than or equal to concrete base course bridges box or slab culverts headwalls retaining walls prestressed concrete or other heavily reinforced concrete .
+If using aggregate produced from concrete pavement with only one type of aggregate but repaired with concrete patches with a different aggregate type .
+Class AAA will be used exclusively for all mainline and ramp concrete pavement when the directional commercial ADT is greater than or equal to vehicles per day .
+Steel reinforcement for use in concrete structures and pavements must meet the requirements of this section and subsection .. ..
+Bar reinforcement for pavement tie bars and bars for use as dowels for load transfer in pavement expansion joints and contraction joints must meet the requirements of section .
+Fabric for concrete pavement reinforcement must meet the requirements of ASTM A and fabricated as required .
+mm for pavement and foundation underdrains and .
+For concrete pavements cut fiber joint filler into a rectangular shape and to the widths shown on the plans .
+Punch holes in the fiber joint filler for loadtransfer bars in new concrete pavements as shown on the plans .
+For concrete pavements cut recycled rubber joint filler into a rectangular shape and to the widths shown on the plans .
+Punch holes in the recycled rubber joint filler for loadtransfer bars in new concrete pavements as shown on the plans .
+Straight tie bars for longitudinal pavement joints must consist of at least No .
+Do not use crushed Hot Mix Asphalt HMA pavement or broken brick as erosion and sedimentation control material .
+Select pavement marking materials from the Qualified Product List .
+If installing traffic loop in existing pavement before placing a final asphalt wearing course provide sealant compatible with the asphalt wearing course .
+Provides complete encapsulation of the detector loop wires in a rubberlike environment and provides protection against moisture wire and thermal pavement movements and damage under normal roadway conditions .
+Temporary pavement markings consist of painted lines pavement marking tape and temporary raised pavement markers TRPMs .
+Select paint preformed tape and temporary raised pavement markers from the Qualified Products List. . Pavement Marking Type R. The contract documents require Type R markings if the markings applied during the project require removal during the life of the contract .
+Provide Type R temporary pavement marking as preformed tape .
+The tape must remain flexible and conform to the texture of the pavement surface during use. . Pavement Marking Type NR .
+Provide Type NR temporary pavement markings as preformed tape or paint reflectorized with glass beads as required .
+The tape must remain flexible and conform to the texture of the pavement surface during use .
+Provide temporary raised pavement markers reflectorized on one or both sides depending on exposure to oneway or twoway traffic .
+TRPM Type consists of a flexible retroreflective strip with a protective removable plastic shield that the Contractor may use as a temporary pavement marking on a hotmix asphalt HMA pavement surface before applying chip seal. . TRPM Type .
+TRPM Type consists of a flexible retroreflective strip that the Contractor may use as a temporary pavement marking on interim HMA layers or concrete surfaces .
+TRPM Type consists of a solid plastic device with a retroreflective face surface that the Contractor may use as a durable temporary pavement marking .
+Preformed polymer tape pavement marking covers must have a black or gray nonreflective matte finish .
+In addition to the requirements of subsection .. A. pavement marking cover tape must meet the following requirements and characteristics .
+Ensure the tape when applied in accordance with the manufacturers recommendations provides a neat durable masking that does not flow or distort on a stable pavement surface due to high temperature .
+PTS system must have with traffic actuation capabilities that include microwave motion sensors video detection and inpavement loops .

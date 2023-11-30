@@ -1,0 +1,551 @@
+RoadbedThe grade portion of a highway within top and side slopes prepared as a foundation for the pavement structure and shoulders .
+SubgradeThe upper portion of a roadbed upon which the pavement structure and shoulders are constructed .
+No loads will be permitted on a concrete pavement base or structure before the expiration of the curing period .
+.ACCEPTANCE .. Partial Acceptance If at any time during the prosecution of the project the Contractor completes a unit or portion of the project such as a structure an interchange or a section of road or pavement the Contractor may request the Engineer to make final inspection of that unit .
+TABLE OF MATERIALS TO BE ADJUSTED AND COST ADJUSTMENT FACTORS FOR DIESEL FUEL USAGE UNITS FACTOR Class Excavation under Sections and Gallons per cubic yard Liters per cubic meter . . Class Crushed aggregate under Sections and Gallons per ton Liters per megagram . . Class Bituminous concrete under Sections and Gallons per ton Liters per megagram . . Class Rigid concrete pavement under Sections and Gallons per cubic yard Liters per cubic meter . . Where the pay item for aggregate is in cubic yards meters conversion to tons megagrams for the purpose of diesel fuel price adjustment will be made on the basis that one cubic yard meter equals .
+Branches of trees extending over the area occupied by the roadbed shall be trimmed to give a clear height of ft. meters above the road and shoulder pavement surface .
+Fullscale laboratory testing and inground testing of pavement structures reinforced with the specific geogrid which quantifies the structural contribution of the geogrid to the pavement structure .
+When embankments of less than ft. meter in depth are to be placed upon old concrete pavements or pavements with concrete base the pavements or base shall be removed and disposed of unless otherwise directed by the Engineer .
+When embankments of ft. meter or more in depth are to be placed on old concrete pavements the pavements shall be broken up in pieces not to exceed one square foot square mm and may be left under the new embankments unless otherwise directed by the Engineer .
+When embankments are to be placed upon other than rigid types of pavement the pavements shall first be scarified to their full depth and recompacted .
+.FINISHING EARTH ROADS When no pavement or surfacing is included in the Contract the roadway shall be finished as a graded earth road .
+When the construction of a base pavement or surface is included in the Contract or is so provided on the Plans the profile grade of the subgrade shall be such that the specified thickness of the base course pavement and surface will be obtained within limits of final surface grade .
+.SHOULDERS Before any base or pavement may be placed upon the subgrade the shoulders along and adjacent thereto shall be built to the dimensions shown on the cross section .
+When concrete base or pavement is being constructed or where the shoulders are to be built of stabilized material these requirements may be waived by the Engineer .
+Upon completion of the base pavement or surfacing the shoulders shall be finally shaped dressed and compacted to conform to the dimensions shown on the Plans .
+.DRAINAGE When grading subgrading constructing shoulders or placing base or pavement is suspended because of unsuitable weather or any other reason suitable provisions shall be made to drain the grade subgrade or shoulders by means of the construction of adequate side ditches and drains .
+Upon completion of the subgrade or shoulders and before any base on pavement is placed subgrade drains or weeps shall be placed as shown on the Plans or as directed by the Engineer in accordance with .
+.PROTECTION OF CURTAIN WALLS All bridges which will be used for permissible haulage but which do not have the approach slabs constructed shall have the pavement notch of the curtain walls built up to final grade by the use of timber to eliminate the possibility of damage to the curtain walls .
+Excavation below grade including undercutting as shown on the Plans or as directed by the Engineer ditches to divert water from the slopes of cuts inlet and outlet ditches for drainage structures other ditches as authorized be the Engineer removal of topsoil sod old pavement boulders walls and other unsuitable material within the areas upon which the embankment is to be placed benching and all other excavation authorized but not shown by the cross sections will be measured separately and included for payment .
+Where stone base or concrete pavements have been scarified or broken but not removed or slopes other than rock upon which embankments are to be made are plowed or scarified and the loose soil has been manipulated and compacted but not removed such work and all the work of placing and compacting all embankments widenings or waste pits placing and consolidating rockfills will be considered as a necessary part of manipulation the cost of which is included in the price bid per cubic yard meter for Unclassified Excavation .
+The testing of backfill compaction at piers or other structures which will not become part of an embankment or highway pavement or shoulder area will be waived .
+The character and operation of the equipment shall be such that the pavement will not be damaged .
+When the Division performs the testing in the evaluation of reworked lots the testing will be at the expense of the Contractor at the unit cost specified in Compaction of shoulder aggregate on resurfacing projects adjacent to asphalt or concrete pavement shall be based on visual inspection to assure that the surface of the shoulder has been compacted to the level of the finished pavement surface .
+Pending resolution of the matter additional lifts of base or pavement shall not be placed over the nonconforming material .
+.. Reclaimed Asphalt Pavement Reclaimed Asphalt Pavement RAP may be substituted for Class Shoulder Stone material on roadways where edge line pavement markings exist or are installed .
+Aggregate for shoulders on resurfacing projects shall be spread over the prepared surface to a width as specified in the Plans and to a depth sufficient to bring the uncompacted surface to a height of at least inch mm above the finished pavement edge elevation .
+For compacted shoulder thicknesses exceeding inches mm the differential from the pavement edge elevation must be increased to assure that the loose aggregate thickness is approximately equal to times the compacted thickness .
+Shoulder aggregate adjacent to concrete or asphalt pavement shall be compacted by pneumatic tire rollers when the drum roller is wider than the shoulder width or as directed by the engineer .
+Surface Tolerance The completed surface shall not vary more than inch mm above or below Plan grade nor more than inch mm from a straightedge ft. m long applied parallel to the centerline of the pavement .
+Shoulder surfaces on resurfacing projects adjacent to concrete or asphalt pavement do not need to be checked with a straightedge .
+In the case of the asphalt stabilized aggregate the purpose of the rolling is to compact the base sufficiently to support the weight of the equipment that will place the next layer or pavement .
+until the next layer of the pavement is placed .
+The Contractor shall also maintain the final surface of the base course true to specified line grade and cross section until such time that the pavement is placed .
+.COMPOSITION OF MIXTURES .. General The aggregate for use in the designated mixture shall consist of a mixture of aggregate coarse fine reclaimed asphalt pavement RAP if desired or mixture thereof and mineral filler if required .
+In addition all references to the minimum compaction temperatures in Sections .. and .. of this specification and in MP .. Compaction Testing of HMA Pavements may be waived if it can be established that additional density can be obtained at lower temperatures without damaging the pavement .
+Also if the intermingling occurs on a project where the density of the pavement is being controlled by the rollerpass compaction method then a new test section shall be established on the new material beginning at the point where the WMA and HMA meet .
+Additionally a certified Asphalt Field and Compaction Technician with certification to perform nuclear density testing of asphalt pavements shall perform all testing necessary to assure compaction of the asphalt meets specification requirements .
+For Superpave mixes the acceptance sampling and testing requirements for the mixture shall be as set forth in MP .. Surface Tolerance It is the intent of these specifications that projects with a total new pavement thickness of inches mm or more and minimum length of two lots ft. m shall be constructed to provide a smooth riding surface .
+On urban projects with numerous side streets where traffic must cross through the paving operation the Engineer shall determine if it is practical to evaluate the pavement for smoothness .
+The pavement will be divided into sampling Lots of onetenth .
+.. Compaction Acceptance testing for compaction shall be performed in accordance with either the LotbyLot method described in Section or the rollerpass procedure described in MP .. based the following criteria Roadway Type Compaction Method Interstate and Expressways Lot By Lot APD Routes Lot By Lot NHS Routes Lot By Lot All other routes and roadways Determined by Table A Patchingandleveling and scratch courses shall not be included in determining the total new pavement thickness .
+of MP TABLE .. B Other Compaction Situations Procedure Construction Situation Compaction Method Shoulders New Construction LotbyLot Overlay Projects Rollerpass Shoulders with RolledIn Rumble Strips Surface Course Only See Section Trench Paving All Rollerpass or Satisfaction of the Engineer Pavement Widening All Rollerpass or Satisfaction of the Engineer Pavement Repairs All Rollerpass or Satisfaction of the Engineer LotbyLot Testing Randomly located nuclear density tests will be performed in accordance with the LotbyLot test procedure described in MP The pavement shall be divided into Lots not exceeding feet meters of paving lane .
+.. Thickness When a uniform thickness of three inches mm or more is specified excluding resurfacing cores shall be taken to verify the thickness of the compacted pavement .
+The Division may elect to waive coring for short projects of less than feet meters in length or for projects where a paving mat of uniform thickness can not be expected for example tapered paving mats or pavement widening projects .
+The Division may also elect to take additional cores when needed to resolve problems related to pavement thickness .
+.. Patching and Leveling and Scratch Courses Patching and Leveling A tack coat shall be applied to the existing pavement prior to placing patching and leveling .
+Patching and leveling shall be placed at various locations throughout the project to remove irregularities in the existing pavement such as dips or to raise the outside edge of the existing pavement to provide a uniform template prior to placing a base or wearing course .
+Scratch Course A tack coat shall be applied to the existing pavement prior to placing a scratch course .
+The paving machine screed shall be set to drag on the high areas of the existing pavement only depositing material in ruts and other depressions .
+.. Spreading and Finishing Before spreading any material the contact surfaces of curbs gutters manholes and of adjacent Portland cement concrete pavement edges shall be painted or sealed with asphalt material .
+Exact edge of pavement except on concrete shall be established by a string or chalk line for a distance of not less than feet ahead of the spreading operation .
+The required density shall be obtained prior to the mat temperature reaching F C. The Contractor shall be allowed to lower this temperature to F C if they can demonstrate during the first day of placement of each lift on each project that additional densification can be achieved without causing any pavement distress .
+.. Joints The longitudinal joint in any layer shall offset that in the layer immediately below by approximately six inches however the joint in the top layer shall be at the centerline of the pavement if the roadway comprises two lanes of the width or at lane lines if the roadway is more than two lanes in width .
+All transverse joints between existing and new pavement shall be heeledin to the existing surface at the beginning and at the end of the project and at all other locations where the new pavement terminates against an existing pavement .
+Joints adjacent to curbs gutters or adjoining pavement shall be formed by transporting back sufficient hot material to fill any space left uncovered by the paver .
+When the construction of asphalt surfaces is undertaken on projects under public traffic and the road surface is feet wide or greater and the ADT is or greater the Contractor shall place no passing signs Interim pavement markings and Temporary pavement markings to delineate the edge line centerline andor lane line of the roadway as required herein and in the project plans .
+.. When a Lot of asphalt pavement is represented by a smoothness value larger than that shown in Tables .. E or .. M the unit price of the Lot surface course only shall be determined as follows ENGLISH VERSION Reduced Unit Price Unit Bid Price X .
+.. When a Lot of asphalt pavement does not meet the density requirements of .. the Price shall be adjusted as follows FORMULA Projects requiring only mat density testing Lot Price Adjustment Mat only unit price X Lot quantity X mat density price adjustment from Table .. A TABLE .. A Adjustment of Contract Price for Pavement Density not Within Tolerance of Density Percent of Density Percent of Contract Price to be Paid Greater than Note to to Less than Note Note Mat density slightly above is normally only a problem if it leads to asphalt flushing on the surface of the mat or rutting due to an unstable mix .
+The Division will make a special evaluation of the material and determine the appropriate action Note When the density is less than the mat will be more susceptible to accelerated deterioration and a decrease in the expected service life of the pavement .
+.. When a Lot of asphalt pavement is determined to be statistically nonconforming in accordance with criteria B of Section .. the Division will review the plans and project records to determine if there is an acceptable explanation for this deficiency .
+The total flat and elongated particles measured at a ratio shall not exceed ten percent by weight for all pavements where the estimated traffic level is greater than or equal to .
+Pending resolution of the matter additional lifts of base or pavement shall not be placed over the nonconforming material .
+The time required for breaking will depend on the type and grade of the emulsion the application rate the temperature of the existing pavement surface and environmental conditions .
+Tack coat set refers to the final stage of the process when water has completely evaporated from the emulsion leaving a thin film of asphalt binder on the pavement .
+shall be used as guide to assure the proper amount of asphalt is distributed over the pavement surface under various pavement conditions .
+When an SS or CSS grade emulsion is diluted with water at the allowable ratio the residual asphalt content the amount of asphalt remaining on the pavement surface after all water has evaporated from the emulsion will be cut in half .
+These rates are provided for guidance and may be adjusted as directed by the Engineer to assure a uniform application that covers the entire pavement and to assure that excessive asphalt does not cause a slippage plane between two pavement courses .
+.COMPOSITION OF MIXTURES .. General The aggregate for use in the designated mixture shall consist of a mixture of aggregate coarse fine reclaimed asphalt pavement RAP if desired or mixture thereof and mineral filler if required .
+In addition all references to the minimum compaction temperatures in Sections .. and .. of this specification may be waived if it can be established that additional density can be obtained at lower temperatures without damaging the pavement .
+Determination of Percent Within Limits .CONTRACTORS QUALITY CONTROL .. Quality Control Testing Quality control of the asphalt pavement is the responsibility of the Contractor .
+Additionally a certified Asphalt Field and Compaction Technician with certification to perform nuclear density testing of asphalt pavements shall perform all testing necessary to assure compaction of the asphalt meets specification requirements .
+The joint density requirement shall only apply to the surface lift of the pavement structure .
+Acceptance for joint density shall be as per Patchingandleveling and scratch courses shall not be included in determining the total new pavement thickness to be tested for compaction .
+The core measurements which represent the thickness of the sampling units shall be analyzed to determine the average value of the pavement thickness .
+Pavement Thickness T shall include all of the pavement layers as specified excluding any patch and level course and scratch courses .
+Additionally Bond Tests will be performed for all surface layers beginning with the Existing Pavement layer and then all intermediate pavement layers called for in the Proposal and Plans .
+However if a scratch course is called for in the plans then a bond test will be performed at the scratch course layer and the first new surface pavement layer not between the existing pavement layer and the scratch course layer .
+The Division will address pattern segregation as follows Evaluating Pattern Segregation If the Engineer observes pattern segregation that may result in defective pavement then i .
+As a minimum and in the presence of the Engineer and the Contractors Representative Division personnel shall determine the average depth of pavement surface macrotexture according to MP .. in areas with the pattern segregation and in areas with nonsegregated pavement .
+The pattern segregation is unacceptable if the difference in average pavement texture depth between the non segregated and segregated areas exceeds the following a For .
+The Engineer will determine if the pavement is defective as specified in Section Test Section If the macrotexture tests identify unacceptable pattern segregation then i .
+Determine if the pattern segregation resulted in defective pavement as specified in Section iii .
+Defective Pavement At locations selected by the Engineer and with the Engineer present drill three inch diameter cores from the area of pattern segregation and three cores from the pavement representing a nonsegregated area .
+Measuring Pavement Macrotexture Depth can be used to further evaluate the pavement .
+An area of pattern segregation contains defective pavement if a the summation of absolute deviations from any two sieves is or more from the JMF b the core density is defective the mixture is defective in asphalt content c or the mixture is defective for percent passing the μm No .
+Construct replacement pavement conforming to the appropriate surface tolerances .
+Flushing is continuous or repeated areas of excessive asphalt on the pavement surface .
+In the presence of the Engineer determine the average depth of pavement surface macrotexture according to MP .. in areas of suspected flushing .
+mm then the pavement will be considered to be flushed and is defective .
+.PAVING OPERATIONS .. Spreading and Finishing Before spreading any material the contact surfaces of curbs gutters manholes and of adjacent Portland cement concrete pavement edges shall be painted or sealed with asphalt material .
+Exact edge of pavement except on concrete shall be established by a string or chalk line for a distance of not less than feet ahead of the spreading operation .
+For projects where the existing pavement was milled prior to the placement of new asphalt the edge of pavement shall be the edge of milled section .
+When the construction of asphalt surfaces is undertaken on projects under public traffic and the road surface is feet wide or greater and the ADT is or greater the Contractor shall place no passing signs Interim pavement markings and Temporary pavement markings to delineate the edge line centerline andor lane line of the roadway as required herein and in the project plans .
+.. When a Lot of asphalt material is found not in compliance with the tolerance requirements for asphalt content and gradation as shown in MP .. it shall be subject to a price adjustment in accordance with the criteria for Determination of Percent Within Limits established in MP .. and pay factors in Table .. BLANK .. The unit price for each Lot of asphalt pavement Mat shall be adjusted as follows in Table in accordance with MP TABLE Percentage of Material Within Specification Limits PWL Lot Pay Factor Percent of Contract Unit Price Note Note .PWL Note .PWL Note Payment of for mat density shall be subject to additional requirement of the average compaction for the lot being evaluated to be a minimum of density .
+.. Thickness Adjustments No payment will be made for pavement areas deficient in thickness by more than T. Pavement which is deficient in thickness by more than T is considered to be inadequate to perform satisfactorily and shall be removed and replaced at no added cost to the Division .
+If any individual values or when the average value of the pavement thickness per lot is less than the specified total thickness the quantity of pavement represented by this average thickness will be paid by a direct calculation as defined as follows Price Adjustment t T x Where T Total Plan Thickness t avg .
+.PAY ITEM ITEM DESCRIPTION UNIT Winter Grade Bituminous Patching Mixture Ton Megagram Sequence number Type of Aggregate SECTION THROUGH SECTION BLANK SECTION MILLING OF ASPHALT PAVEMENT SURFACES .DESCRIPTION This item shall govern for the milling of existing andor new asphalt pavement at locations shown on the plans or as directed by the engineer in accordance with the requirements herein and MP The work shall provide a skid resistant surface that meets smoothness requirements and provides a constant cross slope or be used as surface preparation prior to placement of a final surface course .
+.. Standard Milling Item shall be used as the default milling of asphalt pavements .
+It should be used when the Division plans to remove existing asphalt pavement in preparation for an asphalt overlay or other process .
+.. Micromilling Item shall be used for in an effort to recover skid resistance on existing pavement or smoothness correction bump andor grade corrections on existing or newly paved surfaces where called for in the plans .
+.CONSTRUCTION .. General The plans will designate the area of pavement surfaces to be milled .
+.. Equipment The equipment for removing the existing pavement shall be a power operated planing machine or grinder .
+The equipment shall be capable of accurately establishing profile grades along each edge of the machine within plus or minus inch mm by referencing from the existing pavement and able to maintain accurate depth of cut and crossslope .
+At the end of each working day all equipment shall be removed to a location where it does not present a hazard to traffic the pavement shall be cleaned by sweeping or flushing .
+.. Millings The removed pavement material shall become the property of the Contractor .
+.. Milled Surface Opened to Traffic If the ground area is opened to traffic the following shall apply Any transverse vertical face shall be sloped so as not to present a hazard to traffic Any longitudinal vertical face shall not exceed inches mm The pavement surface shall be cleaned by sweeping or flushing .
+The operation shall result in pavement that conforms to the typical crosssection and the requirements specified for the final surface finish .
+To accomplish the smoothness required milling may not be required on percent of the pavement surface .
+If directed by the Engineer any spalling or dislodged unsound pavement due to milling shall be corrected by the Contractor via section ..
+.. Surface Finish The milling process shall produce a smooth riding pavement surface that is true to the established line grade and cross section with the milled area consisting of a longitudinal corduroytype texture .
+The transverse slope of the pavement shall be uniform to a degree that no depressions of misalignment of slope greater inch mm in ft. . m are present when tested with a straightedge placed perpendicular to the centerline .
+The finished milled pavement surface shall be evaluated using MP .. except that the volume of glass beads to be used for each test shall be ml in and only one such test shall be required at each individual test location .
+.METHOD OF MEASUREMENT Pavement milling will be measured by the square yard square meter of pavement milled and accepted .
+The quantity of pavement milling will be determined by multiplying the width specified on the plans by the total length of the finished pavement surface .
+.BASIS OF PAYMENT The contract price per square yard square meter for Standard Fine Milling or Micromilling shall be full compensation for furnishing all labor materials tool equipment and incidentals and for doing all work involved in milling the existing pavement removing residue cleaning the pavement and testing per MP .. in accordance with these specifications and as shown on the plans .
+.PAY ITEMS ITEM DESCRIPTION UNIT Standard Milling Square Yard Meter Fine Milling Square Yard Meter Micromilling Square Yard Meter Sequence number DIVISION RIGID PAVEMENT SECTION PORTLAND CEMENT CONCRETE PAVEMENT .DESCRIPTION This work shall consist of a pavement or an unbonded overlay pavement composed of Portland cement concrete with or without reinforcement as shown on the Plans constructed on a prepared subgrade base course or existing pavement in accordance with these Specifications and in reasonably close conformity with the lines grades thicknesses and typical cross sections shown on the Plans or established by the Engineer .
+.. Recycled Pavement for use as Coarse Aggregate for Concrete The existing portland cement concrete pavement may be removed and crushed when called for on the Plans .
+Any existing reinforcing steel encountered shall be removed from the existing pavement prior to or during the crushing operation and shall be disposed of by the Contractor .
+The Contractor shall remove the pavement in a manner which excludes subgrade and base material to the maximum extent practical .
+The pavement material shall be crushed to pass the ½ in. . mm sieve .
+The combined grading of the coarse aggregate fine aggregate and cement used in the pavement concrete shall conform to the design mix Ā plus or minus the tolerance specified in the following table for the coarse aggregate size used Coarse Aggregate Size No .
+MATERIAL QUANTITY Fly Ash bag Ground Granulated Blast Furnace Slag bags Microsilica bag MP .. shall be used to control the cement factor in pavement concrete if the Contractor has a suitable means of verifying the minimum day design strength and providing a copy of the plan for verifying the strength is submitted to the Engineer .
+When MP .. is used to control the cement factor in portland cement concrete pavements then column two in Table .. will be considered to contain a target cement factor instead of a minimum cement factor .
+CONSISTENCY Type Optimum Consistency Inches mm Of Slump a For pavements when concrete is permitted to be placed using a slip form paver where a low slump is required to maintain the prescribed geometry .
+mm b For pavements supplied by travel mixers of central mixers where the concrete is struck off and consolidated entirely by mechanical equipment .
+mm c For pavements and approaches supplied by travel central or transit mixtures where the concrete is struck off and consolidated partially by hand labor .
+Evaluation of a pavement may include evaluation of the freezethaw durability including scaling characteristics abrasion resistance density and such other factors as the Division deems appropriate to the pavement .
+The three sets of specimens shall be treated in the following manner to determine when the pavement represented may be put into service under the provisions of .
+In lieu of the cylinders outlined in the previous paragraph the Contractor may use the Maturity Method for the estimation of concrete strength as outlined in MP .. for determining when the pavement may be opened to traffic .
+If the test value complies with the Specification the portion of pavement which is aged four days may be put into service .
+If the test value complies with the specifications the portion of pavement which is aged six days may be put into service .
+If the test value complies with the Specification the portion of pavement that has aged eight days may be put into service .
+The line may be projected to age days and if the projection indicates specification design strength compliance prior to age days then the pavement may be put into service at the age at which specification compliance is indicated .
+All of this equipment shall be on the job both before and continuously during concrete pavement .
+.. Forms Straight side forms shall be of adequate design to support the paving train and to provide the proper pavement section without horizontal joints .
+.PREPARATION OF GRADE SETTING FORMS AND CONDITIONING OF SUBGRADE OR BASE .. Preparation of Grade After the roadbed has been graded and compacted as provided in or the grade shall be trimmed approximately to correct elevation extending the work at least ft. beyond each edge of the proposed concrete pavement to provide support for the fixedforms or the slipform paver tracks .
+.. Conditioning of Subgrade or Base The base shall be brought to the proper cross section and plan grade within the tolerances specified for the final course underlying the pavement .
+The finished grade shall be maintained in a smooth and compacted condition until the pavement is placed .
+Remove all loose materials from the existing pavement prior to placing the asphalt .
+The Engineer shall be notified if milling operations expose underlying concrete pavement .
+All areas where the underlying concrete pavement is exposed shall be repaired regardless of size .
+When any change occurs in size of the batch the operating process conditions affecting mixing or hauling the ingredients of the concrete or other conditions which will affect the quality of the concrete incorporated in the pavement an additional seven production batches of concrete shall be tested .
+The pavement shall be constructed by placing two longitudinal traffic lanes full width in one operation unless otherwise indicated in the Contract .
+When the Contract permits laneatatime construction and concrete is to be placed adjoining a previously constructed lane of pavement and mechanical equipment other than finishing equipment will be operated upon the existing lane that lane shall first meet the requirements of ..
+When using a slipform paver or combination of pavers they shall be designed to spread consolidate screed and floatfinish the freshly placed concrete in one complete pass of the paving train in such manner that a minimum of hand finishing will be necessary to provide a dense and homogenous pavement in conformance with the Plans and Specifications .
+The equipment shall vibrate the concrete for the full width and depth of the strip of pavement being placed .
+.STRIKEOFF OF CONCRETE AND PLACEMENT OF REINFORCEMENT Following placing the concrete shall be struck off to conform to the cross section shown on the Plans and to an elevation such that when the concrete is properly consolidated and finished the surface of the pavement will be at the elevation shown on the Plans .
+When reinforced concrete pavement is placed in two layers the entire width of the bottom layer shall be struck off to such length and depth that the sheet of fabric or bar mat may be laid full length on the concrete in its final position without further manipulation .
+When reinforced concrete pavement is placed in one layer the reinforcement may be positioned in advance of concrete placement or it may be placed in the plastic concrete after spreading by mechanical or vibratory means .
+When reinforcement is specified it shall be placed in the center portion of the pavement .
+Variation in the depth of reinforcement is permitted but the minimum concrete cover shall be onethird of the plan depth of the pavement .
+The Street Jointing Criteria Ten Rules of Practice suggested by the PCA are paraphrased and revised for the West Virginia Division of Highways needs as follows i Joints are used in concrete pavement to aid construction and to minimize random cracking .
+Avoid oddshaped areas of pavement .
+viii Make minor adjustments in joint locations to meet all structures projecting through into or against the pavement .
+ix Deleted x Manhole and inlet frames as well as any other metal structure projecting through into or against the pavement shall be isolated in accordance with The Contractor shall submit a Joint Layout Plan for each intersection on the Project to the Engineer for approval a minimum of working days before ordering materials .
+All longitudinal joints shall be sawed normal to the surface of the pavement with a suitable concrete saw .
+Construction of longitudinal joints shall be in accordance with the appropriate requirements as follows i When the longitudinal joint separates adjacent pavement lanes or slabs that are poured at the same time fullwidth construction Type D joint sawing of longitudinal joints shall be performed between and hours after the pavement is placed and before any equipment and vehicles are allowed on the pavement .
+The saw cut shall be to a minimum depth of onethird of the plan depth of pavement the width shall be in .
+ii When the longitudinal joint separates adjacent pavement lanes or slabs that are poured separately laneatatime construction Type D or E joint the longitudinal joint shall be sawed .
+mm below the surface of the pavement .
+mm in the horizontal alignment from a straight line at right angles to the centerline of the pavement .
+.. Transverse Contraction Joints Transverse contraction Type A joints shall consist of planes of weakness created by sawing or forming grooves normal to the grade in the surface of the pavement as shown on the approved Joint Layout Plans .
+Dowels shall be located at middepth of the pavement with a tolerance of placement within plus or minus in .
+Dowels shall be aligned parallel to the centerline and surface of the pavement with a tolerance for such alignments within plus or minus .
+Dowels shall be held in position in the pavement by means of metal supports that remain in the pavement except as noted .
+The longitudinal misalignment of one end of a dowel assembly with respect to the other end in achieving a perpendicular alignment with the centerline of the pavement longitudinal side shift shall not exceed inches mm when inch mm long dowel bars are used .
+The mechanical implanting method of placing dowel bars is permitted if the Contractor can show by the method outlined below or other approved methods that the dowel bars can be placed within the required tolerance with no adverse effects to the finished concrete pavement .
+.. Expansion Joints around Structures Expansion joints shall be formed by placing premolded expansion joint material about all structures and features projecting through into or against the pavement .
+If any random or uncontrolled crack occurs outside inches mm from a doweled joint the entire pavement within the lane where such crack occurs shall be removed for the entire ft panel between joints .
+.. Finishing at Joints The concrete adjacent to joints shall be consolidated or firmly placed without voids or segregation against the joint material under and around all load transfer devices joint assemblies and other features designed to extend into the pavement .
+Vibrators for full width vibration of concrete paving slab shall meet the requirements of If uniform and satisfactory density of the concrete is not obtained by the vibratory method at joints along forms at structures and throughout the pavement the Contractor will be required to furnish equipment and methods which will produce pavement conforming to the Specifications .
+If necessary following one of the methods of floating described longhandled floats may be used to smooth and fill in open textured areas in the pavement .
+Care shall be taken not to work the crown out of the pavement during the operation .
+At the beginning of each days operation the float shall be checked and adjusted to the design crown of the pavement .
+The float shall pass over each area of pavement sufficient number of times until the surface shows no variation from straightedge requirements but excessive operation over a given area will not be permitted .
+The float shall be worked with a sawing motion while held in a floating position parallel to the road centerline and passing gradually from one side of the pavement to the other .
+Movement ahead along the centerline of the pavement shall be in successive advances of not more than onehalf the length of the float .
+.. Final Finish The surface of the mainline pavement acceleration and deceleration lanes ramps and all traveled ways shall be given a final groove finish .
+.. Edging at Forms and Joints Before the concrete has taken its initial set the edges of the pavement along each side of the slab and on each side of all formed joints except joints initially formed that will be later widened by secondstep sawing shall be rounded .
+.. Station Numbers The Contractor shall impress station numbers into the pavement before it takes its final set .
+Where equalities in alignment occur they shall be marked in the pavement in the same manner as they are shown on the Plans .
+The station numbers shall be placed parallel to the transverse joints approximately to inches to mm from the outside edge of the pavement .
+Such protective materials shall consist of metal forms or wood planks having a nominal thickness of not less than inches mm and nominal width of not less than the thickness of the pavement at its edge for protection of the pavement edges and covering material such as burlap or cotton mats curing paper or plastic sheeting for protection of the surface .
+When rain appears imminent all paving operations shall stop and all available personnel shall begin placing forms against the sides of the pavement and covering the surface of the unhardened concrete with the protective covering .
+.. Sampling Units The pavement will be divided into sampling Lots of .
+.. Grinding Requirements When the pavement requires corrective action as noted above the diamond grinding operations shall be in accordance with section except that the final pavement smoothness requirements shall be in accordance with section .
+.. Burlap Mats The surface of the pavement shall be entirely covered with the mats .
+The mats shall be of such length that they will extend at least twice the thickness of the pavement beyond the edges of the slab .
+.. Waterproof Paper The top surface and sides of the pavement shall be entirely covered with waterproof paper .
+Each unit as laid shall extend at least twice the thickness of the pavement beyond the edges of the slab .
+.. Straw Curing When this type of curing is used the pavement shall be cured initially with burlap or cotton mats as specified above until after final set of the concrete or in any case for hours after placing the concrete .
+As soon as the mats are removed the surface and sides of the pavement shall be thoroughly wetted and covered with at least inches mm of straw or hay thickness to be measured after wetting .
+The straw or hay shall not be burned on or adjacent to the pavement .
+.. White Pigmented Impervious Membrane The entire surface of the pavement shall be sprayed uniformly with white pigmented curing compound immediately after the finishing operation and before initial set has taken place or if the pavement is initially cured with burlap or cotton mats it may be applied upon removal of the mats .
+.. White Polyethylene Sheeting or Polyethylene Coated Burlap The top surface and sides of the pavement shall be entirely covered with polyethylene sheeting or polyethylene coated burlap .
+The covering shall extend at least twice the thickness of the pavement beyond the edges of the slab .
+.SEALING JOINTS All transverse contraction and construction joints to be sealed shall have the preformed elastomeric seal installed or shall be filled with silicone sealer before the pavement is opened to traffic including construction traffic and as soon after completion of curing as is feasible .
+Immediately following placement of the sealant and before a skin forms the sealant shall be tooled to force it against the joint faces and to provide a slightly concave surface with a depth of approximately ¼ inch mm at the center of the joint below the pavement surface .
+.PROTECTION OF PAVEMENT The Contractor shall protect the pavement and its appurtenances against both public traffic and the traffic caused by their own employees and agents .
+This protection shall include watchmen to direct traffic and the erection and maintenance of warning signs lights barricades pavement bridges crossovers etc .
+All damage to the pavement occurring prior to final acceptance shall be repaired or the pavement replaced as the Engineer may direct .
+.OPENING PAVEMENT TO TRAFFIC If approved by the Engineer the Contractor may open the pavement to traffic prior to days after placement of concrete provided tests conducted in accordance with .. indicate the pavement has attained the day design strength .
+If the Contractor wishes to open pavement to traffic prior to age days then all provisions for making test specimens and conducting and reporting the tests shall be handled by the Contractor at their expense .
+However the Engineer may require that the pavement not be opened to traffic for a period of days or longer after placement of concrete if conditions make it advisable to extend this time .
+.TOLERANCE IN PAVEMENT THICKNESS It is the intent of these Specifications that the pavement shall be constructed in substantial conformity with the specified thickness .
+For the purpose of establishing an adjusted unit price for pavement areas deficient in thickness the thickness characteristics will be determined in accordance with the criteria specified .
+.. Sampling Units and Sampling Requirements The pavement thickness characteristics will be determined from an analysis of measurements made by nondestructive methods in accordance with MP These measurements will be made by the Division with a frequency of one measurement from each sampling unit as defined .
+That thickness measurement shall represent the thickness of the pavement in that unit .
+When a sampling unit is represented by a measurement which is less than the specified pavement thickness T minus .T T .T .T the sampling unit will be evaluated as set forth in When a thickness measurement which represents a sampling unit has a value of .T or less the area of deficient thickness in that sampling unit will be delineated by taking exploratory cores at approximately ft. m intervals parallel to the centerline in each direction from the measurement taken in .. until a core is obtained in both directions which is greater than .T in thickness length .
+.PAVEMENT WIDENING When called for on the Plans or directed by the Engineer to widen an existing pavement by means of strips of portland cement concrete on one or both sides the construction methods and materials shall be as specified for regular portland cement concrete pavement except as modified .
+Any time the air temperature is expected to reach the freezing point during the day of placement or the following night the material so provided shall be spread over the pavement to a sufficient thickness to prevent freezing of the concrete .
+In no event shall concrete be placed when its temperature in the plastic state at the completion of mixing exceeds F C. .METHOD OF MEASUREMENT The quantity of concrete pavement to be paid for will be the number of square yards meters complete in place and accepted .
+The width for measurement will be the width of the pavement shown on the typical cross section of the Plans and additional widening where called for or as otherwise directed in writing by the Engineer .
+The width for measurement will be the width of the pavement or overlay shown on the typical cross section of the Plans and additional widening where called for or as otherwise directed in writing by the Engineer .
+In contracts where only widening is called for the square yards meters of pavement widening will be determined from the length of strips measured along the edges and upon the surface times the width as measured at regular intervals plus the area of any widening on curves turnouts or intersections authorized and measured separately .
+No extra payment will be made for removing and crushing the existing pavement for use as coarse aggregate for concrete .
+The core measurements which represent the thickness of the sampling units shall be analyzed to determine the average value of the pavement thickness .
+No payment will be made for pavement areas deficient in thickness by more than .T the area being defined in the manner set forth in Pavement which is deficient in thickness by more than .
+The balance of the item the portion of the item not treated in the manner set forth above will be treated in the manner set forth in or When the average value of the pavement thickness is equal to or greater than the specified thickness the quantity of pavement represented by this average thickness will be paid at the contract unit price .
+When the average value of the pavement thickness is less than the specified thickness the fraction of pavement having a thickness greater than .T will be paid for at a unit price as set forth in the following schedule and no payment will be made for the remainder of the pavement being considered .
+.JOINTS Approach slabs shall have longitudinal joints in line with the longitudinal joints of the adjacent pavement .
+.PAY ITEM ITEM DESCRIPTION UNIT thickness Portland Cement Concrete Approach Slab Square Yard Meter Sequence number thickness in inches SECTION SEALING CRACKS IN CONCRETE PAVEMENT .DESCRIPTION This work shall consist of the cleaning and sealing of cracks in concrete pavement in the manner and subject to the conditions and regulation prescribed .
+The use of any tool which results in damage to the pavement is prohibited .
+The crack shall be sealed to within to ¼ inch to mm below the pavement surface .
+Sealant shall not be placed in the cracks unless the temperature of the pavement is F C or higher unless approved by the Engineer .
+.PAY ITEM ITEM DESCRIPTION UNIT Sealing Cracks in Concrete Pavement Linear Foot Meter Sequence number SECTION BITUMINOUS UNDERSEAL FOR CONCRETE PAVEMENT .DESCRIPTION This work shall consist of drilling holes in portland cement concrete pavement at the locations shown on the Plans or where directed by the Engineer pumping bituminous material through the holes and sealing the holes with cement grout .
+mm diameter shall be drilled through the concrete pavement at the locations shown on the Plans or as directed by the Engineer .
+Bituminous material shall then be pumped through the holes and under the pavement by means of an approved type of pump .
+Prior to pumping the surface of the concrete pavement around the previously drilled holes shall be thoroughly sprinkled with water or shall be covered with sand earth or other suitable material in order to prevent any bitumen that may be spilled on the pavement from adhering to the surface .
+Bituminous material shall be pumped through the holes and under the pavement until the voids under the pavement are completely filled or the concrete pavement has been raised to the grade of existing adjacent pavement or to such grade as directed by the Engineer .
+At the time the bituminous material is pumped under the pavement it shall have a temperature of not less than F C. The Contractor shall provide all necessary facilities for determining the temperature of the bituminous material in all heating equipment and distributors .
+After completion of the pumping in each hole all bituminous material shall be cleaned from the pavement surface and the drilled hole shall be filled with grout to an elevation flush with the pavement surface .
+After the completion of subsealing operations the pavement surface shall be left in a clean and neat condition satisfactory to the Engineer .
+.PAY ITEMS ITEM DESCRIPTION UNIT Bituminous Underseal Material Gallon Liter Drilling Holes In Concrete Pavement Each Sequence number SECTION BLANK SECTION CONCRETE PAVEMENT REPAIR .DESCRIPTION This work consists of the removal and replacement of deteriorated concrete pavement and patches and replacing subbase material where required at locations as shown on plans or as specified by the Engineer .
+The following is a description of each patch type i. Jointed Concrete Pavement Patch Type I Patching shall consist of full depth full lane width concrete pavement repairs equal to or greater than feet .
+Jointed Concrete Pavement Patch Type II Patching shall consist of partial depth concrete pavement repairs that extend a minimum of inches mm and no deeper than onehalf the slab thickness at cracks or no more than onethird the slab thickness at doweled joints .
+Jointed Concrete Pavement Patch Type III Patching shall consist of a repair along the edge of a transverse crack or joint that extends from the bottom of a partial depth repair Type II to potentially the full depth of the slab and isolated within of either the longitudinal joint or pavement edge .
+Cement meeting the requirements of ASTM C Type III may be used in the concrete mixes for concrete pavement repair .
+.PROPORTIONING Portland cement concrete for patching concrete pavement shall meet the requirements of Section or Class B or Modified Class B as specified in Section except that it shall be shown by compressive strength tests that the concrete mix shall attain psi .
+Mpa prior to the time at which the pavement will be opened to traffic and an AASHTO number coarse aggregate shall be required in Type II repairs with a depth of inches mm or less .
+In lieu of six field cured cylinders required above the Contractor may use the Maturity Method for the Estimation of concrete strength as outlined in MP .. for determining when the pavement may be opened to traffic .
+.CONSTRUCTION METHODS .. Removal of Existing Pavement Designated defective pavement shall be removed full depth and undisturbed portions of the existing pavement adjacent to the area to be patched shall be left with straight vertical sides .
+The existing pavement to be removed shall be sawed full depth along the transverse and longitudinal boundaries including the lane and shoulderlane joints as shown on the plans or as directed by the Engineer .
+During the removal operations utmost care shall be exercised to minimize disturbance and damage to the base material and the adjacent pavement and shoulder .
+The Contractor shall replace the removed subbase material with concrete integral to pavement replacement up to a maximum inch mm depth .
+Existing pavements shall not be removed if such removal will result in concrete being placed when the ambient air temperature is below F unless approved by the Engineer .
+Maximum effort will be used to ensure that the area beneath the existing concrete pavement is completely filled .
+of the Specifications except that the final concrete surface shall be textured similar to that of the adjoining pavement .
+.. Repair of Adjacent Shoulders Within hours after completion of a patch area any adjacent shoulders damaged during pavement repair operations shall be reconstructed in accordance with the requirements of the applicable section of the specifications to match the finished shoulder grade and to the satisfaction of the Engineer .
+Spalls greater than ¼ inch mm wide and inches mm long and more than ½ inch mm deep below the pavement surface shall be repaired using an approved epoxy mortar .
+The patch boundary shall be extended by resawing the limits of the patch beyond the spalled area when spalls greater than inch mm wide and inches mm long and more than ½ inch mm deep below the pavement surface are created by the pavement removal operation .
+The dowels shall be carefully aligned within ¼ inch mm with the direction of the pavement and parallel to the plane of the surface .
+All transverse and longitudinal joints at pavement repair locations shall be sealed in accordance with manufacturers recommendations unless otherwise approved by the Engineer .
+Edge spalls greater than ¼ inch mm wide and inches mm long and more than ½ inch mm deep below the pavement surface shall be repaired using an approved epoxy mortar .
+The patch boundary shall be extended by resawing the limits of the patch beyond the spalled area when spalls greater than inch mm wide and inches mm long and more than ½ inch mm deep below the pavement surface are created by the pavement removal operation .
+The area of failure shall be removed by equipment that will not damage the adjacent sound pavement .
+Type III Repairs Turned Down Edge repairs at transverse joints and cracks shall extend no more than inches mm into the slab from the edge of pavement whether at the outside or along an interior longitudinal joint .
+The area of failure shall be removed by equipment that will not damage the adjacent sound pavement .
+The bar should be bent prior to insertion into the grouted hole such that the exposed portion of the bar within the area being repaired shall be parallel with the pavement surface .
+.RIDE ACCEPTANCE As soon as the concrete has hardened sufficiently the pavement surface shall be tested with a foot m straightedge .
+.METHOD OF MEASUREMENT The quantity of concrete pavement repair to be paid for will be the number of square yards meters complete in place and accepted for all Type I and Type II repairs .
+.BASIS OF PAYMENT The quantity of concrete pavement repair determined as provided above will be paid for at the contract unit price and shall constitute full compensation for the furnishing hauling and placing of all materials saw cutting pavement to the required depth the removal and disposal of old concrete preparing of sublayer furnishing and installing steel dowels furnishing and installing reinforcing steel as specified furnishing placing finishing and curing the concrete cleaning and sealing joints patch area protection and for all other materials labor tools equipment and incidentals necessary to complete the item .
+.PAY ITEMS ITEM DESCRIPTION UNIT Concrete Pavement Repair Type I thickness Square Yard Meter Concrete Pavement Repair Type II Square Yard Meter Concrete Pavement Repair Type III Each Replace Existing Aggregate Base Course Ton Megagram Sequence number thickness shall be in inches SECTION CRACK AND POTHOLE REPAIR .DESCRIPTION This work shall consist of repairing an existing concrete pavement surface prior to resurfacing with hotlaid asphalt concrete in accordance with these specifications .
+.PAY ITEM ITEM DESCRIPTION UNIT Crack And Pothole Repair Ton Megagram Sequence number SECTION DIAMOND GRINDING .DESCRIPTION This work consists of diamond grinding portland cement concrete pavement and roadway surfaces of structures to provide good riding characteristics a surface texture and proper drainage .
+.EQUIPMENT Grinding shall be done utilizing diamond blades mounted on a selfpropelled machine designed for grinding and texturing pavement .
+The equipment shall have a positive means of vacuuming the grinding residue from the pavement surface and will leave the pavement in a clean condition .
+The cross slope of the pavement shall be as shown on the plans and shall have no depressions or misalignment of slope greater than inch mm in feet .
+Areas that display a ridge in excess of inch mm at the pavement shoulder interface shall be diamond ground a minimum width of feet .
+Grinding shall begin and end at lines normal to the pavement centerline at the project limits .
+.FINAL SURFACE FINISH The grinding process shall produce a pavement surface which is true to grade and uniform in appearance with a longitudinal linetype texture .
+The linetype texture shall contain corrugations parallel to the outside pavement edge which present a narrow ridge corduroy type appearance .
+Type of aggregate used in the pavement Limestone Gravel Blade segment thickness minimum .
+mm Based on an average of a minimum of five measurements per lane mile meters of pavement ground .
+At a minimum of the pavement surface shall be textured .
+Depressed pavement areas due to subsidence or other localized causes will be excluded from this requirement when approved by the engineer .
+.SLURRY REMOVAL All residue from the pavement surface shall become the responsibility of the Contractor and shall be removed and disposed of legally in a manner and at a location which satisfies environmental regulations .
+Solid residue shall be removed from the pavement surface before any residue is blown by traffic action or wind .
+.SMOOTHNESS REQUIREMENTS An initial profile index of representative portions of the pavement will be available through the Engineer upon written request .
+This information is provided to give the Contractor an idea of the condition of the pavement in regard to smoothness when bidding on this work .
+For speeds mph kph or less and pavements that do not warrant the increased level of smoothness inmile .
+mm in m. Depressed pavement areas due to subsidence or other localized causes and areas where the maximum cut at mid panel or a fault restricts further grinding will be excluded from testing when approved by the Engineer .
+.METHOD OF MEASUREMENT Grinding of pavement will be measured by the square yard meter .
+Minor areas of untextured pavement within the designated areas to be textured will be included in the measurement .
+Joints shall be cleaned by sandblasting each vertical face with the nozzle held at an angle to the joint face and within or inches to mm of the pavement .
+mm at the center of the joint below the pavement surface is required unless otherwise directed by the sealant manufacturer .
+When not tooled the joint groove shall be sealed flush to within to ¼ inch to mm below the pavement surface .
+Sealant shall not be placed in the joints unless the temperature of the pavement is F C or higher unless approved by the Engineer .
+.METHOD OF MEASUREMENT The quantity of resealing concrete pavement joints to be paid for will be the number of linear foot meters complete in place and accepted .
+.BASIS OF PAYMENT Resealing concrete pavement joints will be paid for at the contract unit price per linear foot meter .
+.PAY ITEMS ITEM DESCRIPTION UNIT ReSealing Transverse Concrete Pavement Joints Linear Foot Meter ReSealing Longitudinal Concrete Pavement Joints Linear Foot Meter Sequence number SECTION DOWEL BAR RETROFIT .DESCRIPTION Dowel bar retrofit consists of installing epoxycoated round steel dowels into existing concrete pavement across transverse joints andor cracks .
+Do not apply bond breaker while the dowel bars are in place within the pavement section .
+.CONSTRUCTION METHODS Install dowel bars in the existing portland cement concrete pavement at locations as shown in the plans .
+.. Saw Cutting Make two saw cuts in the pavement to outline the longitudinal sides of each dowel bar slot .
+Saw to a depth and length that allows the center of the dowel to be placed at middepth in the pavement slab .
+Pick up and remove water and residue from the pavement surface immediately by means of a vacuum attachment on the sawing machine .
+If the concrete removal operations cause damage to the pavement that is to remain discontinue concrete removal operations and only resume after taking corrective measures .
+Repair or replace pavement damaged during concrete removal operations at no additional expense to the owner and to the satisfaction of the Engineer .
+Place a foam core insert at the middle of the dowel bar and inches mm below the surface of pavement .
+.. Diamond Grinding Diamond grinding shall conform to the requirements of Section if the pavement section is to be diamond ground following the dowel retrofit operations .
+Diamond grind the entire width of the pavement lane from longitudinal joint to longitudinal joint .
+.OPENING TO TRAFFIC Unless otherwise permitted in writing by the Engineer do not permit traffic on dowel retrofitted pavement until the backfill attains a compressive strength of psi MPa or greater as verified by specimens fabricated and tested in accordance with Section .DOWEL BAR ALIGNMENT ASSURANCE The Contractor shall use one of the two methods below to assure dowel bar alignment .
+Clean and fill the core holes in the concrete pavement using the same requirements for the backfill materials as specified earlier in this document .
+Finish the core hole backfill material after placement to match the adjacent pavement surface .
+The backfill shall not evidence any depressions or surplus material above the level surface of the existing pavement .
+.PAY ITEMS ITEM DESCRIPTION UNIT Installation Of Dowel Bar Each Installation Of Dowel Bar At Existing Doweled Joint Each Sequence number SECTION CONCRETE SLAB STABILIZATION .DESCRIPTION This item of work shall consist of drilling holes in Portland cement concrete pavement as directed pumping a portland cementfly ash grout through the holes to fill voids under the pavement and filling the drilled holes with mortar .
+Rock drills or other devices capable of drilling the grout injection holes through the pavement and base material will be permitted .
+The Contractor shall supply equipment capable of detecting the lift of the pavement near the hole being grouted .
+Of these two leave panel holes one hole shall be feet m from the fissure and feet m from the pavement edge and the other hole shall be feet m from the fissure and feet m from the centerline .
+m from the full depth repair and feet m from the pavement edge and centerline respectively .
+Grout holes shall be filled fulldepth and flush with the surface of the pavement with a stiff mortar consisting of one part portland cement to three parts of fine aggregate .
+This work shall include drilling and filling holes with grout full compensation for furnishing all labor materials tools equipment and incidentals and for doing all work involved in grout subsealing of existing concrete pavement in place complete and accepted .
+.PAY ITEMS ITEM DESCRIPTION UNIT Holes Drilled For Concrete Slab Stabilization Each Grout Used For Subsealing Of Slabs Tons Megagram Sequence number SECTION CONCRETE PAVEMENT CROSS STITCHING .DESCRIPTION Concrete pavement cross stitching consists of drilling holes and anchoring deformed reinforcing bars diagonally across longitudinal cracks .
+Rest and reference the drill rig frame on and to the pavement surface such that the drilled holes are cylindrical and repeatable in terms of position and alignment on the surface being drilled .
+Drill such that the i. Holes are oriented at a angle to the pavement surface .
+inches mm below the pavement surface and the center of the bar is at the crack .
+Trowel the anchoring material smooth to the pavement surface filling any chipped areas .
+mm Typical Cross Stitching Repair Details .OPENING TO TRAFFIC No traffic will be permitted on the crossstitched pavement until the anchoring material can be expected as shown by test data supplied by the anchoring material Manufacturer from an Independent Approved Laboratory to have a compressive strength of at least psi Mpa unless otherwise approved by the Engineer .
+.METHOD OF MEASUREMENT Concrete pavement cross stitching is measured by each deformed bar installed and accepted .
+No payment will be made for items required by the Engineer to repair damage to the adjacent pavement incurred during drilling .
+If permitted by the Engineer it is acceptable to place and leave the Test Section in place as part of the completed pavement if it meets all of the above required testing and acceptance criteria .
+RCC pavement at an age of or days may be put into service if the average compressive strength test result of the set of cylinders at the corresponding age is at least psi Mpa .
+inches mm Less than Specified Thickness Remove and Replace .EQUIPMENT AND TOOLS Construct roller compacted concrete with any combination of equipment that will produce a completed pavement meeting the requirements for mixing transporting placing compacting finishing and curing as provided in this specification .
+Use only plants capable of producing an RCC pavement mixture in the proportions defined by the final approved mix design and within the specified tolerances .
+Use only pavers equipped with compacting devices capable of producing an RCC pavement with a minimum of percent of the maximum density in accordance with AASHTO T Method D prior to any additional compaction .
+.. Transportation Transport the RCC pavement material from the plant to the areas to be paved in dump trucks equipped with retractable protective covers for protection from rain or excessive evaporation .
+Keep the surface of the newly placed RCC pavement continuously moist .
+In no event shall RCC be placed when its temperature at any time after the completion of mixing exceeds F C. Rain Limitations Conduct no placement of RCC pavement during rain conditions sufficient to be detrimental to the finished product .
+Placement may continue during light rain or mists provided the surface of the RCC pavement is not eroded or damaged in any way .
+Surface Condition Ensure that the surface of the RCC pavement is smooth uniform and continuous without excessive tears ridges or aggregate segregation once it leaves the paver .
+For edges cut after hours sawcut to the full depth of the pavement .
+.. Control Joints Construct transverse contraction joints in the RCC pavement by sawing .
+Conventional cut saws must be used as soon as the sawing operation will not result in raveling or other damage to the RCC pavement but not more than hours after RCC placement .
+Cut all joints to the depth of the RCC pavement to a single saw blade width .
+Joints should be spaced at intervals not to exceed times the nominal pavement thickness unless otherwise indicated on the Plans or directed by the WVDOH .
+For example for an inch RCC pavement cut joints at foot intervals ..
+In areas where RCC is placed adjacent to existing concrete pavement such as in shoulder areas the Contractor shall adjust the joint spacing to align with the joints in the existing adjacent concrete pavement .
+In these areas in order to work out a joint spacing which aligns with the joints in the existing pavement the joints in the RCC may be spaced at intervals up to times the nominal RCC pavement thickness plus percent of that distance .
+For example for an inch RCC pavement cut joints at a maximum spacing of .foot intervals .
+.FINISHING Ensure that the finished surface of the RCC pavement when tested with a foot straightedge or crown surface template does not vary from the straightedge or template by more than inch at any one point and shall be within inch of the specified finished grade .
+.CURING Immediately after final rolling and compaction testing keep the surface of the RCC pavement continuously moist until an approved curing compound a suitable prime coat or a layer of asphalt concrete is applied or for hours after placement whichever comes first .
+Apply this moisture in a manner that will not erode or damage the surface of the finished RCC pavement .
+Do not place vehicular traffic except for curing equipment or sawcutting equipment on the RCC pavement until the RCC material achieves a minimum compressive strength of psi Mpa as demonstrated in Section .MAINTENANCE Maintain the RCC pavement in good condition until all work is completed and accepted .
+The width for measurement will be the width of the pavement or overlay shown on the typical cross section of the Plans and additional widening where called for or as otherwise directed in writing by the Engineer .
+Concrete produced by this method will not be permitted in bridge box culvert pavement or retaining wall construction .
+Variations in pavement surface in excess of inch mm above or below the proper finished elevation or surface irregularities of more than inch mm in feet m will not be accepted .
+The groove machines shall have depth control devices that detect variations in the pavement surface and adjust the cutting head height to maintain the specified depth of the groove .
+The mixture shall be applied in such a manner that smooth pavement will be formed in the invert filling the corrugations for at least percent of the circumference of a pipe or percent of the circumference of a pipe arch .
+When jacking under reinforced concrete pavement the cover may be reduced to the depth of the base course plus the pavement thickness with a minimum cover of the pavement thickness plus inches mm .
+Concrete inlets and manholes may be precast when shapes and dimensions conform to those shown on the Plans and when final installed top surfaces are flush with adjacent finish surfaces such as pavement gutters curbs and sidewalks .
+.PAY ITEMS ITEM DESCRIPTION UNIT Type A Manhole Each Type B Manhole Each Type A Inlet Each Type B Inlet Each Type C Inlet Each Type D Inlet Each Type E Inlet Each Type F Inlet Each Type G Inlet Each Type H Inlet Each Type J Inlet Each Adjusting Inlet Type type Each Adjusting Junction Box Each Adjusting Manhole Type type Each Junction Box Each size Perforated Slot Inlet Riser Each size Slot Inlet Riser Linear Foot Meter Adjust Concrete Headwall Each Type U Inlet Each Sequence number SECTION UNDERDRAINS .DESCRIPTION This work shall consist of constructing underdrains and free draining base trenches using pipe and granular material blind drains aggregate filled engineering fabric prefabricated pavement edge drain and underdrain pipe outlets in accordance with these Specifications and in reasonably close conformity with the lines grades dimensions and locations shown on the Plans or established by the Engineer .
+Any portion of the trench not filled with aggregate shall be backfilled in accordance with .. Prefabricated Pavement Edge Drain Trenches for prefabricated pavement edge drain shall be excavated to the dimensions and grade shown on the Plans .
+The edge drain shall be placed against the pavement side of the trench and held firmly in place while backfill is placed to a compacted height of not more than inches mm .
+For onesided drains the more open side shall be placed toward the pavement .
+Attention is directed to the fact that some posts may occur at or on existing roadway pavements on old concrete foundations or similar solid surfaces .
+The color shall contrast to the adjacent sidewalk sidewalk flares and pavement .
+Pending resolution of the matter additional lifts of base or pavement shall not be placed over the nonconforming material .
+In the construction of integral concrete curb or combination concrete curb and gutter abutting concrete pavement the sections shall be such that the contraction and expansion joints are located opposite the contraction and expansion joints respectively in the pavement .
+When the curb is constructed adjacent to or on concrete pavement expansion joints shall be located opposite or at expansion joint in the pavement .
+.. Curb Machine Where a concrete curb or curb and gutter is not required to be constructed integral with or tied to a concrete base and pavement it may be placed with a self propelled machine consisting of a hopper and having a power driven screw or screws .
+When curbing is to be constructed on a cured or aged Portland cement concrete base asphalt pavement or asphalt treated base the bed shall be thoroughly swept and cleaned by compressed air .
+When the traffic dividers are to be placed in Portland cement concrete openings into which the traffic dividers are to be set shall be formed by a method acceptable to the Engineer at the time the Portland cement concrete pavement is being placed .
+The opening remaining between the Portland cement concrete pavement and the traffic dividers shall be filled with joint mortar or joint sealer .
+After the traffic dividers are firmly set in the pavement the lifting holes shall be filled to within ¾ in of the surface with dry sand and either sealed with joint mortar or joint sealer .
+Steel reinforcing shall be epoxy coated per AASHTO M or galvanized per AASHTO M for structures installed at an elevation such that the top or crown of the structure is above the bottom of the subgrade in the pavement section .
+If adjacent to a pavement in which joints have been used expansion joints shall be placed opposite those in the pavement .
+Temporary Paint When aggregate for maintaining traffic is not to be part of any succeeding base or pavement course the appropriate aggregate size shall be determined by the Engineer .
+All conflicting pavement markings as determined by the Engineer shall be eradicated by the Contractor as soon as practicable .
+The remaining percent of the existing marking will appear to be as part of the texture of the pavement .
+The method used shall not materially damage the surface or texture of the pavement .
+.TEMPORARY PAVEMENT MARKINGS AND RAISED PAVEMENT MARKERS Temporary pavement markings and raised pavement markers shall be in accordance with .
+Temporary pavement markings to be used in delineating pavement lane and edge lines shall be either temporary reflectorized pavement marking tape or reflectorized paint as approved by the Engineer .
+When placing temporary pavement lane markings to separate traffic traveling in the opposite directions it should be noted that if there is no passing in both directions doubleyellow solid lines shall be placed i.e .
+In addition to temporary marking tape or paint temporary raised reflectorized pavement markers shall be placed when called for on the Plans for added delineation at approximately feet meter intervals along the lane lines that separate traffic traveling in the opposite directions with the markers centered transversely between doubleyellow lines or at the spacing required on the Plans .
+When temporary raised pavement markers are specified as an alternate to temporary paint or to temporary tape the configurations shall be as follows solid linemarkers shall be placed on five foot .
+Temporary pavement markings and raised markers shall be placed as soon as practicable after construction of a detour or other roadway requiring this type of delineation .
+Temporary raised pavement markers shall be shipped stored and placed in accordance with the recommendations of the marker manufacturer .
+If temporary raised pavement markers are to be placed on a newly placed asphalt final wearing course or a newly placed concrete surface markers with a manufacturer preapplied peel and stick adhesive pad as allowed for in the Materials Specifications shall be used .
+Shop drawing information shall include details for anchor removal and patching and or repair of pavement or bridge deck .
+.. Eradication of Pavement Marking The quantity of Eradication of Pavement Markings shall be the equivalent linear feet meters of inches mm solid line actually removed from the pavement .
+mm solid line actually placed on the pavement .
+mm solid line actually placed on the pavement .
+.. Temporary Raised Pavement Markers The quantity of Temporary Raised Pavement Markers shall be the actual number of markers placed on the pavement .
+Payment shall include the subsequent removal of the temporary pavement markers .
+Project markers shall be located at the maximum practical distance not to exceed feet meters from the edge of the pavement without obscuring or detracting from the effectiveness of other official signs .
+The Contractor shall provide field forces and shall set all additional stakes needed such as offset stakes reference point stakes slope stakes pavement and curb line and grade stakes stakes for bridges sewers roadway drainage pipe underdrains paved gutter fence culverts or other structures supplementary bench marks and any other horizontal or vertical controls necessary to secure a correct layout of the work .
+Stakes for line and grade of pavement and curb shall be set at station intervals of feet meters maximum distance on curves and at feet meters maximum distance on tangents .
+Dewatering Device shall meet the requirements of CONSTRUCTION METHODS .PRECONSTRUCTION CONFERENCE At the preconstruction conference the Contractor shall submit for approval their schedules and methods for accomplishing the required temporary and permanent pollution control work during the construction stages involving clearing and grubbing grading and drainage structures bases and pavement and others as applicable .
+m above the near pavement edge as shown on the Standard Drawings and faced toward approaching traffic .
+Overhead sign supports shall provide a vertical clearance between the bottom edge of the sign or luminaire support for the full width of the pavement and shoulders of not less than feet .
+.. Removing and Replacing Improvements Improvements such as sidewalks curbs gutters Portland cement and asphalt concrete pavement bituminous surfacing base material lawn and plants and any other improvements removed broken or damaged by the Contractors operations shall be replaced or reconstructed with materials of equal quality .
+The outline of all areas to be removed in Portland cement concrete pavements shall be cut to a minimum depth of inches mm with an abrasive type saw prior to removing the pavement material .
+Conduit shall be laid at a depth of not less than inches mm below the curb grade in the sidewalk area inches mm below the highway pavement grade in the road areas and inches mm below the finished grade an all other areas .
+Conduit shall be placed under existing pavement by jacking or drilling methods .
+m horizontal clearance from the edge of any type of pavement wherever possible .
+This price shall include all compensation for fabrication delivery erection and for any additional materials tools equipment incidentals and labor not shown on the Plans or called for which are necessary to complete the installation of the various systems and as directed by the Engineer including any necessary excavating and backfilling restoring sidewalk pavement and appurtenances damaged or destroyed during construction salvaging existing materials and making all required tests .
+.REMOVING AND REPLACING IMPROVEMENTS Existing improvements such as sidewalks curbs gutter Portland cement and asphalt concrete pavement underlying material lawns and plants and any other improvements removed broken or damaged by the Contractors operations shall be replaced or reconstructed with the same kind of material as found on the work or with materials of equal quality .
+The outline of all areas to be removed in Portland cement concrete sidewalks and driveways and in pavements shall be cut to a minimum depth of inches mm with an abrasive type saw prior to removing the sidewalk driveway and pavement material .
+Pavement cuts and excavations shall be no wider than necessary for the proper installation of the electrical appurtenances and foundations or as required for the proper replacement of pavements or other improvements .
+Slots cut in the pavement for the loop conductor shall be neat and true to the dimensions shown on the Plans .
+The loop slot cuts in the pavement shall be filled with a permanent flexible weatherproof sealant after the placement of the loop wire in the slots .
+The sealant shall be placed to within inch mm of the pavement surface and surplus sealant shall be removed from the adjacent road surfaces without the use of solvents .
+Conduit shall be laid to a depth of not less than inches mm below finished grade in all areas except that conduit may be laid on top of and secured to the existing pavement within new curbed medians being constructed on top of the pavement .
+Rigid metal conduit shall be placed under existing pavement by approved jacking or drilling methods .
+In the event obstructions are encountered upon approval of the Engineer small test holes may be cut in the pavement to locate obstructions .
+Jacking or drilling pits shall be kept feet mm clear of the edge of any type of pavement wherever possible .
+If it is determined by the Engineer that it is impractical to bore the conduit under concrete or asphaltic pavement due to unforeseeable obstructions the Contractor may with the Engineers permission cut the existing pavement .
+The pavement shall be cut along neat and true lines by means of a concrete saw .
+The Contractor may at his own expense and with the approval of the Engineer install additional junction boxes to facilitate his work The tops of junction boxes installed in the ground or in sidewalk areas shall be flush with the surrounding grade or pavement .
+.BASIS OF PAYMENT .. General When accepted as complete the quantities determined as provided above will be paid for at the contract unit price bid for the items listed below which prices and payments shall be full compensation for furnishing all materials and doing all the work prescribed in a workmanlike manner including excavating backfilling replacing sidewalks and pavements replacing curb and gutter disposal of waste and debris and for furnishing all labor equipment tools and incidentals necessary to complete the work .
+Multilane Roadways Signs on the thru roadway and on ramp entrances and exits at the thru roadway shall have the following clearance from the roadway In ground installations the signs shall be erected at a height measured from the edge of the pavement to the bottom of the sign as indicated in the following table unless otherwise specified on the Plans .
+m above the level of the pavement edge unless otherwise specified on the Plans .
+over the entire width of the pavement and shoulders .
+m measured between the grade of the pavement and the bottom of the sign panel .
+m above the level of the pavement edge .
+When signs are placed over the pavement a clearance of feet .
+shall be provided between the surface of the pavement and the bottom of the lowest part of the sign structure .
+m beyond the edge of the pavement or travelway except where conditions do not permit or where otherwise shown on the Plans .
+The required height of the top of the bracket shall be measured from the surface of the roadway at the edges of the traveled lane as projected from the adjacent fill sections or as indicated by the pavement edge markings .
+Conduit shall be placed under existing pavement by approved jacking or drilling methods .
+In the event obstructions are encountered upon approval of the Engineer small test holes may be cut in the pavement to locate obstructions .
+Jacking or drilling pits shall be kept feet mm clear of the edge of any type of pavement wherever possible .
+These publications shall collectively be referred to as the pavement marking standards throughout the remainder of this Section .
+.TYPES OF PAVEMENT MARKINGS .. Edge Lines Edge lines shall be continuous or dashed white or yellow beaded stripes six inches mm or eight inches mm in width as specified on the Plans or otherwise in the pavement marking standards .
+Center of stripe shall be located six inches mm from the edge of the pavement or as otherwise specified on the Plans .
+.. Lane Lines and Centerline Lane lines and centerlines shall be lines between contiguous lanes of pavement .
+They shall be continuous broken or dashed white or yellow beaded stripes six inches mm or eight inches mm in width as specified on the Plans or otherwise in the pavement marking standards .
+Lane lines and broken centerline lines shall be applied in lengths of ten ft. m separated by gaps of thirty ft. m. Dashed lane lines shall be applied in lengths of two ft. .m separated by gaps of thirteen ft. m or lengths of three ft. .m separated by gaps of nine ft. .m as specified on the Plans or otherwise in the pavement marking standards .
+When applied to Portland cement concrete pavement the near edge of single stripes shall be offset to the left and four inches mm from the longitudinal joint .
+.. Railroad Crossing Marking Railroad Crossing Markings shall be white beaded markings located as shown on the Plans or otherwise in the pavement marking standards .
+Dimensioning shall be in accordance with the pavement marking standards .
+.. Stop and Crosswalk Lines Stop lines shall be solid white beaded lines twelve inches mm or twentyfour inches mm wide as specified on the Plans or otherwise in the pavement marking standards .
+Location spacing and use of these stripes shall be shown on the Plans or otherwise in the pavement marking standards .
+.. Arrows Arrows shall be white beaded markings located as shown on the Plans or otherwise in the pavement marking standards .
+Dimensioning shall be in accordance with the pavement marking standards .
+Lane Drop Arrows .. Lane Letters Lane letters shall be white beaded markings located as shown on the Plans or otherwise in the pavement marking standards .
+Dimensioning shall be in accordance with the pavement marking standards .
+The type to be installed and general placement guidelines shall be as shown on the Plans or otherwise in the pavement marking standards .
+.. Yield Triangles Yield Triangles shall be white beaded markings located as shown on the Plans or otherwise in the pavement marking standards .
+Dimensioning shall be in accordance with the pavement marking standards .
+.. Handicapped Symbols Handicapped symbols shall be white beaded markings located as shown on the Plans or otherwise in the pavement marking standards .
+Dimensioning shall be in accordance with the pavement marking standards .
+.. Bicycle Symbols Bicycle symbols shall be white beaded markings located as shown on the Plans or otherwise in the pavement marking standards .
+Dimensioning shall be in accordance with the pavement marking standards .
+If pavement markings are included in the contract they shall be applied in a timely manner and in the patterns directed by the Plans or pavement marking standards .
+Interim Traffic Control Temporary Marking and Permanent Marking Placement Schedule The Contractor shall adhere to specific guidelines provided herein for scheduling the placement of interim traffic control temporary pavement markings and permanent pavement markings .
+All interim temporary and permanent pavement markings shall be in conformance with specifications herein the project Plans or otherwise the pavement marking standards .
+The Contractor shall be responsible for maintaining both interim traffic control signs and temporary pavement markings until such time as the permanent markings are placed or for the duration of the thirty calendar day warrantied performance period for the temporary markings whichever is less .
+If it becomes necessary to open the roadway to traffic prior to the completion of the final paving course for longer than fourteen calendar days the Contractor shall install full compliance temporary pavement markings in conformance with Section and the specifications herein .
+Interim Traffic Control Placement Schedule Interim Traffic Control includes interim pavement markings and may also include Do Not Pass regulatory signs .
+Temporary markings shall be applied as specified herein and in Section and shall meet the requirements of Materials Section .. Payment for Temporary pavement markings shall be made under the Temporary Pavement Marking Paint pay item .
+Permanent Pavement Marking Placement Schedule Permanent markings are the final pavement marking application within a project .
+The Contractor shall be required to place full compliance permanent pavement markings within sixty calendar days after the placement of temporary pavement markings .
+.. Temporary and Permanent White or Yellow Traffic Zone Paint Pavement marking lines shall be straight or of uniform curvature and shall conform to the tangents curves and transitions as specified in the Plans the pavement marking standards andor as directed by the Engineer .
+inch mm from the proposed location alignment as specified herein on the Plans in the pavement marking standards andor as directed by the Engineer .
+The Contractor shall be responsible for removing all pavement marking materials spilled upon the roadway surface or adjoining area .
+Any pavement marking which is crossed by a vehicle and tracked shall be replaced and any subsequent marking made by the vehicle shall be removed by methods acceptable to the Engineer and at no additional cost to the Department .
+Unless otherwise specified the Contractor shall be responsible for coding and spotting per the Plans or otherwise the pavement marking standards .
+In regards to ambient air temperature the Contractor shall utilize an appropriate pavement marking material such that the ambient air temperature at the time of application is within the recommended ambient air application temperatures specified by the material manufacturer .
+Glass beads applied to the surface of the completed marking material shall be applied by an automatic bead dispenser attached to the pavement marking equipment in such a manner that the beads are dispensed uniformly and almost instantly upon the marking as the marking is being applied to the road surface .
+The bead dispenser shall be equipped with an automatic cutoff control synchronized with the cutoff of the pavement marking equipment .
+Retroreflectivity and color may be checked after reapplication of the pavement marking to ensure that segment meets the minimum values specified in Section ..
+If the Contractor does not complete the replacement of all of the deficient pavement markings by the end of the twenty calendar day replacement period and the Contract has not been finalized the Contractor shall be subject to liquidated damages as described within Section .
+No direct payment shall be made for the replacement of any deficient pavement marking during the warranty period as such work shall be considered as incidental to the work as paid for by the various pavement marking items in the Contract .
+.. through .. BLANK .. Type V Preformed Intersection Traffic Markings Type V preformed intersection traffic markings shall be affixed to bituminous or Portland cement concrete pavements as specified in the Contract Plans or as otherwise specified on the pavement marking details .
+While in place Type VIIA pavement markings shall remain adhered to the pavement and shall meet the color and retroreflectivity requirements described in Materials Section Any material that fails to meet the above provisions shall be corrected by the Contractor in a manner acceptable to the Engineer at no additional cost to the Division .
+The pavement surface shall be dry at the time of pavement marking application .
+The Contractor shall remove all dirt debris loose particles and heavy oil residues from the road surface application areas immediately prior to installation of pavement markings .
+Type VIIB and VIIC temporary pavement marking film shall be applied with a mechanical applicator to provide pavement lines which are neat accurate and uniform .
+The pavement marking film shall be rolled or tamped to facilitate adhesion to road surface .
+While in place all temporary pavement markings shall remain adhered to the pavement and shall meet the color and retroreflectivity requirements described in Materials Section These provisions shall also apply to Type VIIC materials in wet conditions as described in the Materials Section .
+When temporary pavement markings are no longer required as approved or determined by the Engineer the plastic pavement marking film shall be neatly removed in its entirety .
+.. BLANK .. Raised Pavement Markers RPMs Unless otherwise directed by the Engineer RPMs shall be placed as specified in the Plans or as otherwise specified in the pavement marking details .
+The colors of the lenses and bodies Type R only of the markers shall be in accordance with the Plans or as otherwise specified in the pavement marking details .
+Unless otherwise specified in the Plans markers supplementing a broken line such as a lane line shall be placed in line with the pavement marking and within the gaps along the line at the appropriate spacing .
+If a Type R marker is to be installed in line with the normal location of a solid line pavement marking no painted or Type V pavement marking shall be installed at the locations where the R markers are to be installed .
+R markers shall not be placed on top of existing pavement markings .
+The Contractor shall also be responsible for the repair of any pavement surfaces damaged and requiring repair as determined to be necessary by the Engineer and by a method approved by the Engineer due to nonconformance with any portion of the specifications herein and shall incur all associated costs .
+If it is determined during preinstallation planning that a marker would be placed at a point with one of the aforementioned pavement surface defects or at a lateral construction joint or within the intersection of a public street or highway as a result of typical marker spacing the affected marker may be relocated longitudinally a sufficient distance to be approved by the Engineer .
+All recesses shall be dry at the time of installation of the markers and the pavement and ambient air temperature shall be a minimum of fifty degrees Fahrenheit degrees Celsius and rising .
+The epoxy adhesive requires that the mixing operation and placing of the pavement markers be done rapidly .
+The Contractor shall insure that each of the lugs on the sides of the casting are resting on the pavement and that the tips of the casting snowplow deflecting surfaces are below the pavement surface .
+The Contractor shall take reasonable steps to avoid buildup of epoxy on either the pavement surface or the casting lip in front of the lens as this buildup will affect the maximum visibility distance of the markers .
+In addition Type R markers shall not be installed spanning a longitudinal pavement joint .
+All applications shall be made on dry pavement surfaces free of extraneous materials such as but not limited to dirt dust grease oils existing pavement markings and excessive remnants of previous delineation or channelization device adhesives .
+When either the pavement or air temperature is F C or less when using rapid set epoxy F C or less when using standard set epoxy or F .C or less when using bitumen adhesive . .
+If the pavement is not surface dry or if there has been rainfall in the previous hours If the markers are to be applied using an epoxy adhesive this requires that the mixing operation and placing of the markers be done rapidly .
+When applying the markers with epoxy adhesive the adhesive shall be placed uniformly on the cleaned pavement surface or on the bottom of the marker in a quantity sufficient to result in complete coverage of the area of contact of the marker with no voids present and with a slight excess after the marker has been lightly pressed in place .
+in. . mm adhesive between the marker and the pavement .
+Excess adhesive around the edge of the marker excess adhesive on the pavement and adhesive on the exposed surfaces of the markers shall be immediately removed .
+Soft rags moistened with mineral spirits in accordance with Federal Specification TTT or kerosene may be used to remove adhesive from exposed faces of pavement markers .
+The payment for Temporary Pavement Markings includes removal of the pavement marking film .
+Each barrel location shall be painted on the pavement with a circle and the weight of sand in pounds kg .
+The strips shall be cut in accordance with the dimensions as detailed on the Plans and materials resulting from cutting the pavement shall be disposed of and the slots shall be properly cleaned .
+This distance shall be measured longitudinally along the centerline of pavement with deductions for bridge decks drainage structures raised pavement markers loop detector sawcut locations and any other sections where Rumble Strips were not installed .
+.PAY ITEMS ITEM DESCRIPTION UNIT Impact Attenuating Device Type type Each Edge Line Rumble Strip pavement Linear Foot Meter Centerline Rumble Strip pavement Linear Foot Meter Rumble Strip ADAB Linear Foot Meter Sequence number pavement Asphalt or Concrete SECTION PLUGGING GAS OIL AND DRILLED WATER WELLS .DESCRIPTION This work shall consist of plugging oil wells as designated on the Plans .
+Variations in pavement surface in excess of in .
+Silicone sealants shall be of the following types Type IA low modulus nonsag silicone for use in sealing horizontal and sloping joints in Portland cement concrete pavements .
+Type IIA very low modulus selfleveling silicone used to seal horizontal joints in Portland cement concrete pavements .
+Type IIIAn ultralow modulus selfleveling silicone used to seal horizontal joints in Portland cement concrete pavements .
+It can also be used to seal joints between Portland cement concrete pavement and asphalt concrete shoulders .
+Fabric reinforcement for pavement shall be not less than feet .
+Epoxy coated welded wire fabric for concrete reinforcement shall meet the requirements of ASTM A A M. .EXPANDED METAL PAVEMENT REINFORCEMENT Expanded metal pavement reinforcement shall be made from openhearth mild steel plates by a cutting and drawing process to form a uniform diamond shape mesh .
+The tie bolt assemblies shall be equipped with an approved fastener for installation of the assembly in the steel pavement form .
+The fastener shall hold the assembly in the designated position during the placing and finishing of the concrete and subsequent removal of the pavement forms without damage to the concrete or the tie bolt assembly .
+.WHITE OR YELLOW FASTDRY TRAFFIC PAINT TYPE II .. General The pavement marking material shall be formulated as a mediumlife pavement marking system capable of providing a minimum of one year of continuous performance .
+The composition of the paint shall be left to the discretion of the pavement marking manufacturer .
+The Contractor shall provide a pavement marking system to meet the performance requirements specified herein .
+During the pavement marking warranty period the pavement marking materials furnished and installed shall show no loss greater than five percent due to tracking chipping spalling poor adhesion to the pavement and damage from traffic and normal wear .
+Loss due to pavement failure unless caused by the marking material will not be considered as a material failure and will not be included in the loss calculations andor retroreflectivity readings .
+There shall be no materials testing associated with the application of warranted pavement marking .
+The pavement marking material shall be mixed uniformly throughout and shall have a homogeneous dispersement of color and beads when applied to the pavement .
+An appropriate pavement marking material shall be used such that the ambient air temperature at the time of application is within the recommended ambient air application temperatures specified by the material manufacturer .
+The color shall show no appreciable discoloration due to aging during the warranty period of this pavement marking .
+Pavement markings shall be visually checked by the Engineer at any time during the warranty period of this pavement marking .
+RETROREFLECTIVITY Markings installed on or after April th and prior to November st shall maintain a minimum retroreflectivity value of mcdmlx for white pavement markings and mcdmlx for yellow pavement markings through October st .
+.. Sampling and Testing Procedures for Performance Samples The Division may conduct periodic pavement marking reviews throughout the warranty period of the markings .
+These reviews will evaluate the pavement marking material within the project limits for either day and night acceptability considering all requirements listed above .
+The following method will be used to measure the retroreflectivity and color acceptance of the pavement marking material .
+Locate and identify the starting point for measuring retroreflectivity of pavement markings for a roadway .
+Bituminous coating shall be in accordance with the requirements for Type A the paving shall be in accordance with the requirements for Type B except that the pavement shall be formed on the inside for the entire circumference of the pipe .
+.. Soil Stabilization or Pavement Preservation Purposes The material used in for soil stabilization purposes or pavement preservation purposes shall conform to the requirements of ASTM C. .WATER FOR USE WITH HYDRAULIC CEMENT Water from sources other than treated public water systems shall conform to the requirements of MP .WATERPROOFING FABRIC The material shall conform to the requirements of ASTM D. .WARNING DEVICES .. General Warning devices shall include but shall not be limited to signs barricades auxiliary barriers channelizing devices hazard warning lights flares and reflectors .
+A list of approved products and their code numbers may be obtained by contacting West Virginia Division of Highways Material Controls Soil and Testing Division Dry Branch Road Charleston WV .PREFABRICATED DRAINAGE SYSTEMS .. Prefabricated Pavement Edge Drain General Prefabricated pavement edge drain shall be a flexible rectangular hollow mat consisting of a supporting polymeric drainage core encased in an engineering fabric envelope and having sufficient flexibility to withstand installation bending and handling without damage .
+at EC Decreased Tensile Strength maximum percent Decreased Elongation maximum percent Water Absorption by Weight maximum percent ASTM D .PAVEMENT MARKING MATERIAL This material includes all pavement marking material exclusive of White or Yellow Fast Dry Traffic Zone Paint Types II or IX .
+.. BLANK .. Preformed Intersection Traffic Markings Type V Material The markings described are preformed retroreflective pavement markings conforming in color size and shape to the WVDOH Standard Details Book Vol .
+Preformed pavement marking tapes applied as Type V material shall be fabricated such that no portion of the material profile is less than mils including adhesive and retroreflective beads .
+As a minimum preformed pavement marking tapes applied as Type V material shall be capable of being applied to clean road surfaces with a surface primer if necessary when the following conditions are met .
+Loss due to pavement failure unless caused by the marking material will not be considered as a material failure .
+A list of approved materials code numbers and approved Contractor personnel may be obtained by contacting Materials Control Soils Testing Division Dry Branch Drive Charleston West Virginia .. Interim Pavement Markings Type VIIA Interim Pavement Marking Tape Interim Pavement Markings Type VIIA This specification describes an interim pavement marking tape to be placed immediately after paving operations are completed and prior to the opening of the roadway to traffic as described in Section ..
+General The pavement marking material as supplied shall be of good appearance and free from cracks .
+A list of approved suppliers and their code numbers may be obtained by contacting West Virginia Division of Highways Material Controls Soil and Testing Division Dry Branch Drive Charleston WV .. Temporary Pavement Marking Tape Types VIIB and VIIC BLANK Temporary Pavement Markings Type VIIB This specification describes a removable pavement marking consisting of a film designed to be used as temporary lines .
+The temporary pavement markings shall be white or yellow as denoted on the Plans or required by the MUTCD .
+Composition The removable preformed plastic pavement marking film shall consist of a mixture of polymeric materials pigments nonmetallic reinforcing medium to facilitate removal and reflective beads or elements .
+Adhesive The removable preformed plastic pavement marking film shall be pre coated with a pressure sensitive adhesive capable of being affixed to bituminous concrete and Portland cement concrete pavement surfaces without the use of heat .
+The adhesive shall not require a protective liner when the preformed plastic pavement marking film is in rolled form for shipment .
+v. Skid Resistance The surface for the retroreflective preformed plastic pavement marking film shall provide a minimum skid resistance value of BPN when tested in accordance with ASTM E . vi .
+Removability While in place for any time period from April st to November st the preformed plastic pavement marking film shall be removable from bituminous concrete and Portland cement concrete in its entirety either manually or by a mechanical rollup device at temperatures above degrees Fahrenheit ambient and road surface temperature and without the use of heat solvents grinding or blasting .
+General The pavement marking material as supplied shall be of good appearance and free from cracks .
+A list of approved suppliers and their code numbers may be obtained by contacting West Virginia Division of Highways Material Controls Soil and Testing Division Dry Branch Drive Charleston WV Temporary Pavement Markings Type VIIC This specification describes a removable pavement marking consisting of a film designed to be used for temporary lines .
+Composition The removable preformed plastic pavement marking film shall consist of a mixture of polymeric materials pigments nonmetallic reinforcing medium to facilitate removal a thin flexible conformable backing and reflective beads or elements .
+Adhesive The removable preformed plastic pavement marking film shall be pre coated with a pressure sensitive adhesive capable of being affixed to bituminous concrete and Portland cement concrete pavement surfaces without the use of heat .
+The adhesive shall not require a protective liner when the preformed plastic pavement marking film is in rolled form for shipment .
+Removability While in place for any time period from April st to November st the preformed plastic pavement marking film shall be removable from bituminous concrete and Portland cement concrete in its entirety either manually or by a mechanical rollup device at temperatures above degrees Fahrenheit ambient and road surface temperature and without the use of heat solvents grinding or blasting .
+General The pavement marking material as supplied shall be of good appearance and free from cracks .
+h. The casting shall be designed to be partially recessed below the pavement surface to withstand plow impact .
+It shall have means for indexing the pavement surface such as tabs .
+Adhesive Requirements Epoxy adhesive shall be used for applying Type P markers to the pavement surface .
+Adhesive Requirements Standard set epoxy adhesive rapid set epoxy adhesive or bituminous adhesive may be used for applying Type R markers to the pavement surface .
+If cast in place in a paved area the interior shall be formed and the exterior wall and floor may be poured directly against a smooth welltrimmed hole in the pavement and ground .
+m above the pavement grade at the center of the highway .
+m clearance is maintained from the pavement to the bottom of the sign .
+m clearance is maintained from the pavement to the bottom of the sign .

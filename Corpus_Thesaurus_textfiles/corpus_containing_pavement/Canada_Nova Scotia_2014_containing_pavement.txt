@@ -1,0 +1,152 @@
+The Contractor is responsible for the supply layout and installation of Department approved reflective premarking tape paint andor reflective devices Temporary Overlay Markers TOMs in such a manner that the finished pavement surface can be correctly striped for the various lanes using the premarking .
+Temporary pavement marking shall be clearly visible both day and night .
+The Contractor is responsible for the removal of the Temporary Overlay Markers between successive pavement courses as The Work progresses and from the finish course of pavement after painting .
+The Contractor shall ensure that the amount of rock that may be blown onto the existing pavement is minimized and that the time of blasting is such to provide minimum delays to the travelling public .
+The Contractor shall have adequate and appropriate equipment available near the site of the blast to remove any rock that may be blown onto the roadway in such a manner to avoid damage to the pavement and in a timely fashion to minimize delays to traffic .
+Spreading or placing by end dumping of gravels on the pavement shall not be permitted .
+DESCRIPTION Fine Grading shall consist of preparing previously graded subgrade or subbase for immediate placement of granular materials or pavements .
+The thickness shall be the same as for the completed courses in the pavement section .
+The plates shall be placed beyond the extent of any horizontal voids beneath the existing pavement surface and remain in place .
+The full thickness of the appropriate lift of pavement shall be removed by cold milling .
+The asphalt concrete mix used to replace the rejected pavement shall meet the same requirements as those originally specified .
+For proper support on the pavement edge the back of the curb should be a minimum of mm from the edge unless otherwise specified by the Engineer. . Gutter .
+In areas where the gutter is to be placed subsequent to road surface paving tack coat conforming to the requirements of Division Section of these specifications shall be applied to the edge of the previously placed asphalt concrete pavement at a rate of to mlm before the asphalt concrete gutter is placed .
+On repaving projects before placing of new pavement the existing pavement shall be tacked as per Division Section Emulsified Asphalt .
+When the pavement has been left over the Winter it shall be cleaned and tacked before new pavement is placed .
+New pavement may be applied directly over a freshly placed mat without applying tack coat such as when multiple lifts are being placed within the same construction season .
+When overlaying existing asphalt concrete pavement keyed joints see Drawing HS.DWG shall be constructed at both ends of the Project repaved area at all intersecting roads ramps and at all bridge decks in the repaved area to avoid a feather joint .
+Keys will only be required between the final lift of pavement and the existing pavement unless otherwise directed by the Engineer .
+The existing asphalt concrete pavement shall be removed to expose a vertical surface of a depth equal to the thickness of the final lift against which new asphalt concrete may be placed .
+When existing pavement has been removed in advance of paving the joint area the Contractor shall construct a smooth taper at the joint area to a slope of at least horizontal to vertical HV .
+C On repaving contracts match blend existing pavement outside the normal edge of roadway to the grade of the new asphalt concrete surface .
+C On paving contracts match new asphalt concrete surface to the existing pavement outside the normal edge of roadway .
+matching the edge of pavement to new curb or to an additional lane or new ramp. . REFERENCES All reference standards shall be current issue or latest revision at the first date of tender advertisement .
+CONSTRUCTION METHODS Prior to placing the hot mix patching material the areas of the existing pavement shall be tack coated with RS conforming to Division Section .
+All new asphalt material shall be placed such that compacted material in place matches the grade of the adjoining existing asphalt pavement surface with a smooth transition within mm .
+DESCRIPTION The work shall consist of either filling or sealing of existing cracks in asphalt pavement including asphalt covered bridge decks as directed by the Engineer with an approved rubberized joint sealing compound .
+The equipment shall be sufficiently flexible and portable to follow random cracking in the pavement .
+A hot compressed air lance shall be coursed along the pavement crack at a slow walk to blow out debris and to heat and dry the crack .
+All debris shall be removed from the pavement surface immediately .
+Immediately after the crack has been filled it shall be struck off flush with the adjacent pavement surface with a squeegee or other approved device .
+Particular care shall be taken to ensure that material is not spilled or poured over the adjacent pavement .
+A hot compressed air lance shall be coursed along the pavement crack at a slow walk to blow out debris and to heat and dry the crack .
+All debris shall be removed from the pavement surface immediately .
+The surface of the sealing material shall be flush with the adjacent pavement surface on completion .
+Particular care shall be taken to ensure that the material is not spilled or poured over the adjacent pavement .
+Microsurfacing shall consist of the maintenance and application of a homogeneous mixture of cationic polymer modified emulsified asphalt mineral aggregate mineral filler water and other additives to the existing pavement surface. . REFERENCES All reference standards shall be current issue or latest revision at the first date of tender advertisement .
+The edges of the microsurfacing for surface application shall be uniform with neat appearance along the roadway centerline lane lines shoulder pavement edge and curb lines .
+The longitudinal joints in the surface course shall be placed on lane lines with less than mm overlap on adjacent passes except where pavement width varies ie .
+A front seal shall be provided to ensure no loss of the mixture at the pavement contact point .
+The spreader box shall have suitable means provided to maneuver the box to compensate for variations in the pavement geometry .
+A String line or other device must be provided to ensure the longitudinal edges are straight and meet the existing pavement edge or as directed by the Engineer. . Construction Sequence ..
+DESCRIPTION This section covers the requirements for materials and methods for the construction of Portland Cement concrete pavements .
+Granular subbase for concrete pavement shall conform to the gradation requirements in Table .. and the physical properties of Table The subbase shall have a compacted thickness of not less than mm .
+All utility trenches within the pavement area shall be backfilled to subgrade level to the requirements of the Engineer .
+The base shall extend beyond the pavement edge as shown on the drawings .
+Guide lines shall be provided at a constant height above and at a constant horizontal distance from the edge of the proposed pavement .
+Dowels shall be evenly spaced and placed parallel to each other and parallel to both the pavement centre line and the pavement surface .
+Placing Tolerance deviation of not more than one degree from alignment of the pavement and parallel to each other within a tolerance of degrees and minutes .
+Delivery equipment shall not operate from previously paved lanes until the pavement is at least days old or the concrete has achieved of its specified flexural or compressive strength .
+For slipform pavers the concrete shall be consolidated by internal vibrators of sufficient number spacing and frequency to provide uniform consolidation to the entire pavement width and depth .
+Following strikeoff and consolidation the concrete pavement shall be scraped with an aluminum or magnesium straightedge m long equipped with a handle to permit operation from the edge of the pavement .
+Any damage caused by rain shall be repaired or pavement replaced at the Contractors expense .
+The finished surface shall be tested for smoothness by use of a m long straightedge placed parallel to the centre line of the pavement in each wheel line andor by use of a mechanical multiple wheel profilograph to determine the Profile Index .
+Ordinates measured from the face of the straightedge to the surface of the pavement shall at no place exceed mm .
+In no case should the specified thickness of pavement be reduced due to grinding. . Curing and Protection .
+As soon as practical after the texturing operation is completed the entire pavement surface including exposed sides shall be cured by protecting it against loss of moisture rapid temperature change and mechanical injury in accordance with the requirements of Division Section .
+White liquid membraneforming curing compounds shall be applied to the exposed surface and edges of slipformed pavement or the surface of formed concrete pavement following the final texturing operation .
+It shall be applied to the pavement edges of formed pavement immediately following the removal of the forms .
+Curing compound shall to be removed by the Contractor if bond can not be achieved between the paint used for pavement markings and the concrete .
+Concrete pavement shall have a minimum day air drying period following final curing before the first application of deicing salts. . Jointing .
+Transverse and longitudinal control joints shall consist of planes of weakness created by cutting vertical grooves in the pavement surfaces or depending on construction methods the longitudinal joint may be formed .
+Sawed transverse control joints shall be located on the surface of the pavement by the Contractor with suitable markings in advance of sawing .
+Parting strips shall not be depressed below the pavement surface but shall be flush with the surface .
+Dowel alignment through the bulk head shall meet standards set in Subsection .. Longitudinal control joints shall consist of planes of weakness created by cutting or forming grooves in the surface of the pavement at the locations shown on the drawings .
+Sufficient compound shall be poured into the joint so that upon completion of the work the surface of the compound shall be mm to mm below that surface of the pavement .
+Any material spilled or excess material in the joint shall be removed immediately and the pavement surface cleaned .
+The pavement shall not be opened to traffic until specimen cylinders or beams conforming to the requirements of the specification have attained of the design strength of concrete either as flexural strength when tested by the thirdpoint loading method or as compressive strength .
+If such tests are not conducted the pavement shall not be opened to traffic until days after the concrete has been placed .
+Before opening to traffic the pavement shall be cleaned joints shall be sealed and all markings completed. . QUALITY CONTROL QUALITY ASSURANCE .
+The Contractor shall take all control measures required to construct the concrete pavement in accordance with the specification. . Quality Assurance .
+Cores shall be drilled from the pavement to determine insitu compressive strength and slab thickness .
+Core compressive strengths may be used to determine the length of time required prior to allowing the pavement to be put into service .
+One core shall be drilled for every m of pavement surface area .
+Cores shall be measured for slab thickness in accordance with ASTM C. Core holes in the pavement shall be filled immediately after coring with a concrete repair material approved by the Engineer .
+Cores shall be tested in compression according to CSA A.C at the age desired to put the pavement into service or at days .
+The quantity of fine grading to be paid for shall be the actual number of square meters of fine grading prepared in accordance with the plans or as directed by the Engineer on which the granular subbase for concrete pavement is to be placed .
+The quantity of granular subbase for concrete pavement placed in stockpiles shall be per tonne as determined by the Engineer. . Portland Cement Concrete Pavement .
+The quantity of portland cement concrete pavement shall be the area in square metres computed from the dimensions shown on the drawings or as revised by the Engineer . .
+Payment for portland cement concrete pavements shall be made at the contract unit price bid per square metre .
+The payment for portland cement concrete pavements shall be considered full compensation for the preparation of and furnishing all materials aggregates cement supplementary cementing materials water admixtures and other materials all joints and joint filler materials tools equipment falsework forms bracing labour surface finish curing and all other items of work required to complete the work as shown on the plans and as outlined in the specifications. . WARRANTY Division Pavements Section Roller Compacted Concrete WS March SECTION ROLLER COMPACTED CONCRETE WS .
+DESCRIPTION The work covered by this section consists of the provision of all plant materials labour and equipment for the production placing compacting and curing of Roller Compacted Concrete pavement RCC. . REFERENCES All reference standards shall be the current issue or latest revision at the first date of the tender advertisement .
+Each side of the paver shall be equipped with interchangeable side forms shoes which will form the edge of the pavement lane either vertically or degrees from vertical .
+Any rollers which pick up material from the surface of the pavement shall be adjusted modified or replaced .
+Straightedges shall have handles to facilitate movement on the pavement. . Placement ..
+Any planned or unplanned construction joints in the RCC pavement that do not qualify as fresh joints shall be considered cold joints .
+In these cases the edge of the previously placed RCC pavement shall be carefully cut back to expose an even compacted vertical surface of the full thickness of the course without disturbance of the RCC pavement that is to remain in place .
+When necessary the fresh RCC pavement mixture shall be hand finished at joints .
+Immediately prior to placing fresh RCC pavement mixture against the vertical cold joint the joint shall be prepared by first removing any loose or foreign material and then brushing on a thick layer of cement and water slurry mixed at a watercement ratio not exceeding ..
+The top layer shall be placed so that longitudinal joints in that layer will coincide with joints in the lower layers of the pavement .
+Transverse joints in the top layer shall coincide with transverse joints in the lower layers of the pavement. . Curing .. RCC without asphalt surfacing .
+The mist or spray shall not be applied in a channelized or pressurized manner that in any way erodes the surface of the RCC pavement .
+If trucks must leave the pavement the tires shall be washed free of dirt or other foreign material before returning to the pavement .
+The total weight of the trucks and design of the running gear shall be such that no cracking or other damage to the RCC pavement is caused .
+Commencing immediately after rolling is complete the surface of the RCC pavement shall be kept continuously moist by means approved by the Engineer until the RCC is at least hours old .
+After the required initial water curing the RCC pavement shall be cured using the asphalt emulsion RS .
+The Contractor shall take all control measures required to construct the concrete pavement in accordance with the specifications. . Quality Assurance .
+The owner may at his own expense extract cores to verify the thickness of the pavement .
+The quantity of RCC pavement shall be the area in square metres computed from the dimensions shown on the drawings or as revised by the Engineer . .
+A one year maintenace period will begin on the RCC pavement from this date . .
+All areas that have failed as a result of the RCC pavement shall be repaired at the Contractors expense at no cost to the Department .
+The Contractor shall not place asphalt concrete during rain or when the surface is frozen nor when the pavement surface shows signs of freestanding water or when the ambient temperature is below C. .. Placement .
+When overlaying existing asphalt concrete pavement keyed joints shall be constructed at both ends of the project at all intersecting roads ramps and at all bridge decks in the repaving area as per the latest edition of the Standard Specification Division Section also see Drawing HS.DWG Section .
+Keyed joints will only be required between the final lift of pavement and the existing pavement unless otherwise directed by the Engineer .
+When existing pavement has been removed in advance of paving the joint area the Contractor shall construct a temporary hot mix asphalt concrete ramp taper at the joint area to a slope of at least horizontal to vertical HV as per the latest edition of the Standard Specification Division Section also see Drawing HS.DWG Section .
+The finished surface of any pavement course shall have a uniform texture and be free of visible signs of defects .
+m of the pavement edge or longitudinal joint nor closer than m to a transverse joint .
+The pavement thickness shall be determined from the cores obtained in .. Asphalt Density .
+The smoothness of the finished surface top lift of the pavement shall be measured by the Department using a Class Inertial Laser Profiler in accordance with the latest edition of the Standard Specification Appendix H. Price adjustments for International Roughness Index IRI Localized Roughness and Mandatory Penalty will be as per Appendix H of the Standard Specification unless otherwise indicated in the contract documents .
+The asphalt concrete mix used to construct the overlay shall meet the same requirements as the pavement which is overlaid .
+The overlay shall extend the full width of the underlying pavement surface and have a finished compacted thickness of not less than mm for BHF and mm for CHF and mm for DHF .
+All damage to pavement shoulders ditches slopes lawns and any other surfaces and areas within or outside of the Departments rightofway arising from the Contractors work shall be repaired to the satisfaction of the Engineer within five working days at the expense of the Contractor .
+When asphalt concrete or Portland Cement concrete pavement is required to be removed to adjust a structure the edges of such pavement shall be neatly cut to the satisfaction of the Engineer .
+Adjustment of catch basins and manholes will be paid for at the contract unit bid price per each for Adjustment of Catch Basins and Manholes which shall be full compensation for locating the structures neatly saw cutting the asphalt concrete or Portland cement concrete pavement surface any removal of asphalt concrete or Portland cement concrete pavement foundation excavation the supply and placing of all materials used in the adjustment backfilling with suitable material including compaction pavement reinstatement disposal of all construction debris and surplus material and all equipment plant labour tools and incidentals necessary to complete the work to the satisfaction of the Engineer. . Additional Excavation .
+All prices shall be full compensation for locating these structures removal of asphalt concrete material foundation excavation supply and placement of all materials used in the adjustment and or repair backfilling with suitable material compaction grout reinstatement of pavement new frames and or covers where required and all labour tools equipment transportation and incidental necessary to complete the work described in this specification to the satisfaction of the Engineer . .
+All damaged pavement in the approaches of the bridge structure or as otherwise directed by the Engineer shall be removed .
+Other than the damaged pavement only the asphalt concrete required to provide a smooth finished riding surface shall be removed from the approaches .
+The transverse junction between new and old asphalt shall be at an angle approximately to the edge of the o pavement .
+This transverse junction may be achieved by staggered and overlapping passes of the cold planer to create a stepped junction diagonally across the pavement .
+The removal of the pavement and waterproofing membrane from the Portland cement concrete deck shall be undertaken in such a manner as to prevent damaging the bridge deck .
+For MSE Structures supporting roadways which are chemically deiced in the winter an impervious membrane shall be placed below the pavement and just above the first row of reinforcement to intercept any flows containing deicing materials .
+This specification refers to the following standards specifications or publications C ASTM D Test Method for Softening Point of Bitumen RinginBall Apparatus C ASTM D Test Methods for Ductility of Bituminous Materials C ASTM D Test Methods for Joint Sealants Hot Poured for Concrete and Asphalt pavements ASTM D Test Methods for Sealants and Fillers HotApplied for Joints and Cracks Asphaltic and Portland Cement Concrete Pavements .
+Upon completion of the asphalt pavement the Contractor shall install one of the following asphalt plug joints or approved equivalent in strict accordance with the manufacturers recommendations C Matrix C FirbreJoint ViscoElastic Expansion Joint C WABO Expandex C THORMA Joint System C Permajoint Bitumen Expansion Joint System A manufacturers representative shall be present during the installation of the joint seal unit and provide the Department upon completion of the work with a written report prior to the payment for this item. . Sidewalk Joint Sealant .
+The Contractor shall apply two coats of a silane penetrating sealer to all exposed concrete surfaces on the bridge excluding the bridge deck driving surface soffit approach slabs prestressed girders if applicable and surfaces covered with a waterproofing membrane or an asphalt concrete pavement wearing surface .
+DESCRIPTION NonConing Traffic Paint shall consist of the supply and application of paint to produce longitudinal pavement markings including road centerline lane divider and edge lines as required and the supply and application of overlaytype glass beads. . REFERENCES All reference standards shall be the current issue or latest revision at the earliest date of tender advertisement .
+The paint shall have the following properties C be homogeneous and the pigments well dispersed to a smooth uniform consistency C not skin thicken gel cake or show settlement for a minimum of six months from the time of delivery C be free of dirt and other foreign particles which may cause difficulty with spray gun or equipment at the elevated application temperatures C flow smoothly and evenly and completely obliterate in one coat when applied to the pavement at the intended wet film thickness C be flat in sheen and provide the maximum brightness and visibility with or without the overlay glass beads under daylight and artificial light C not darken or change in service so as to impair or change the colour and visibility of the stripes other than that caused by normal traffic wear .
+C be suitable for spray application to portland cement concrete and asphalt cement concrete pavement when heated to between oC and oC .
+See General Requirements nd paragraph Also field tests on a mil wet film thickness of hot spray E E. Wait one minute drive a passenger vehicle over the film and no visible from m deposition of paint is deposited onto the adjacent pavement at an air termperature of EC and a relative humidity of .
+Paint shall be nonskinning.See General Requirements nd paragraph Also field tests on a mil wet film thickness of hot spray E E. Wait one minute drive a passenger vehicle over the film and no visible from m deposition of paint is deposited onto the adjacent pavement at an air termperature of EC and a relative humidity of .
+Base Granular materials placed immediately below the pavement .
+Appendix E Glossary of Terms February E Isolation and Expansion Joints Joints placed to allow movement of the pavement without damaging adjacent pavements intersecting streets drainage structures or other fixed objects .
+Longitudinal Joints Portland Cement Concrete Pavements Joints parallel to the pavement centerline that control cracking .
+Reclaimed Asphalt Pavement RAP An asphalt pavement that has been scarified and pulverized or crushed .
+Tack Coat A spray application of asphalt emulsion to an existing asphalt or Portland Cement concrete surface prior to an asphalt overlay or patch to provide a bond between new and existing pavement layers .
+Typically transverse contraction joints are oriented at right angles to the centerline and edge of the pavement lanes .
+Profilograph Surface Test The smoothness of the finished surface of the pavement will be determined by using a Profilograph over each designated lane .
+The finished surface of the pavement shall be tested and corrected to a smoothness as specified or a price adjustment will apply .
+The profilograph will be moved longitudinally along the pavement at a speed no greater than km per hour to minimize bounce .
+The results of the profilograph test will be evaluated as outlined in the California Test as modified by NSTPW to metric units or as noted otherwise herein. . Price Adjustment Schedule Price adjustments will be applied based on the square metres of the final pavement surface as outlined in Table of this specification .
+Testing The profile will terminate m from the end of each bridge deck or from a joint between existing pavement and the new pavement .
+Testing and Evaluation Profilograph testing will be scheduled to be completed within one day after completion of the pavement whenever practicable .
+m. On those sections where corrections are made the pavement will be tested to determine the deviations .
+Testing Corrections to PRI On those sections where corrections are made the pavement will be tested to determine the final PRI .
+.. Portland Cement Concrete Pavement Where corrections are required they shall be made using an approved profiling device or by removing and replacing the pavement as approved by the Engineer .
+Where corrections are made the Contractor shall reestablish the surface texture to provide a uniform texture equal in roughness to the surrounding uncorrected pavement .
+DESCRIPTION This specification applies to the final lift surface course of all newly placed asphalt concrete pavement where the following conditions are met i .
+a single lift of asphalt concrete pavement over an existing asphalt surface the specification shall be applicable only if the section of roadway has a preconstruction IRI value less than .
+Roadway categories are determined solely at the Departments discretion based on a number of factors including but not necessarily limited to roadway classification geometry access points intersections driveways and the presence of other physical features that may impact the ability to achieve pavement smoothness. . International Roughness Index IRI .
+Opportunities for a Contractor to improve pavement smoothness shall include the following a new lift of asphalt concrete pavement with minimum thickness equal to or greater than x the nominal aggregate size exclusive of tolerances on EPS contracts an asphalt concrete levelling course cold planing pulverization gravelling gravel or RAP interlayer sandwich asphalt concrete recycling . .
+The point at skewed pavement locations where testing will start end will be the where the full pavement width occurs across all lanes including paved shoulders. . Exclusions .
+Corrective work shall consist of Removal and Replacement of the surface course of asphalt concrete pavement .
+On each of the metre segments affected the Contractor shall remove by cold planing and replace the full width of the lane and the full depth of the surface course of asphalt concrete pavement affected including paved shoulders .
+Corrective Work may result in additional incidental costs including but not limited to tack coat additional shoulder gravelling guardrail adjustments reapplication of pavement markings etc .

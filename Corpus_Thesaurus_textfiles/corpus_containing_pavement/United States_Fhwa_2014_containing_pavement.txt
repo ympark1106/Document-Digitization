@@ -1,0 +1,305 @@
+Lane Mile Lane Kilometer An area of pavement one mile kilometer long and one lane wide not including turn lanes turnouts parking area lanes or other auxiliary lanes .
+Lift Defined as follows a When placing and compacting soils aggregates or pavement a lift is a single continuous layer of material that receives the same compactive effort throughout during a single work operation .
+Section Roadbed The graded portion of a highway prepared as a foundation for the pavement structure and shoulders .
+Subgrade The top surface of a roadbed upon which the pavement structure shoulders and curbs are constructed .
+For conventional bridge and highway work the point at which bridge deck parapet pavement structure shoulder drainage sidewalk major demolition roadway obliteration permanent signing and markings traffic barrier safety appurtenance utility and lighting work is complete .
+Surface Course The top layer or layers of a pavement structure designed to accommodate the traffic load and resist skidding traffic abrasion and weathering .
+Unless otherwise permitted do not operate equipment or vehicles that exceed the legal load limits over new or existing structures or pavements within the project except those pavements to be removed during the same construction season .
+When asphalt binder for asphalt concrete pavement is stored in tanks devoted exclusively to the project base quantities on invoices .
+When asphalt binder for asphalt concrete pavement is not stored in tanks devoted exclusively to the project or when the validity of the quantity requested for payment is in question base quantities on the asphalt content determined by testing .
+Use barricades drums or other acceptable devices to delineate traffic lanes through areas where the edge of pavement or intended path has been obliterated by construction operations d Locate staging areas at least feet meters from the traveled way or behind acceptable traffic barriers .
+This work consists of salvaging removing and disposing of buildings fences structures pavements culverts utilities curbs sidewalks and other obstructions .
+Saw cut sidewalks curbs pavements and structures when partial removal is required .
+Handle material with lead paint contamination according to Subsection .. Raze and remove buildings foundations pavements culverts sidewalks curbs fences structures and other obstructions interfering with the work and not designated to remain .
+Scarify or pulverize asphalt and concrete roads to inches millimeters below the pavement .
+Saw cut existing pavements or concrete structures adjacent to the area to be excavated that are designated to remain .
+When applicable complete backfilling and compacting according to Subsection .. d Repair existing pavement areas .
+Break concrete pavements curbs gutters sidewalks and other nonasphalt rigid material into pieces with maximum dimension of inches millimeters when burying according to Subsection .c .
+This work consists of pulverizing an existing pavement and base inplace adding crushed aggregate if required mixing this material with water and shaping and compacting the mix to produce a base .
+This work consists of pulverizing an existing pavement and base inplace adding crushed aggregate if required mixing this material with cement and water and shaping and compacting the mix to produce a stabilized base .
+Collect representative samples of the pavement and base from the project .
+At day cure at F C according to ASTM D. Section Submit a mix design for approval days before production which includes the following a Optimum cement content conforming to the requirements of Table b Maximum density and moisture content at the optimum cement content according to AASHTO T minimum of points c Source of each component material d Results of all tests and applicable charts and graphs e Gradation and proportion of imported crushed aggregate f pound kilogram sample of the pavement base and imported crushed aggregate if requested and g pound kilogram sample of Portland cement if requested .
+This work consists of pulverizing an existing pavement and base inplace adding crushed aggregate if required mixing this material with emulsified asphalt or foamed asphalt and shaping and compacting the mix to produce a stabilized base .
+Collect representative samples of the pavement and aggregate base from the project .
+Replace removed pavement with asphalt concrete conforming to Subsection .b or approved cold patch material .
+Submit the mix design and the following for approval days before production a Optimum emulsified or foamed asphalt binder content based on total mass of mixture b Source and grade of emulsified or foamed asphalt binder c Optimum moisture content for compaction based on total mass of mixture d Recommended cement or fly ash content e Maximum wet and dry density for the mixture at the recommended proportions of binder water and cement or fly ash according to AASHTO T Method D f Gradation and proportion of imported crushed aggregate g Results of tests and applicable graphs Section h A representative pound kilogram sample of pavement base and imported crushed aggregate if requested i Three gallon liter samples of emulsified or asphalt binder if requested j pound kilogram sample of Portland cement or fly ash if requested and k Optimum percent of injection water for foaming based on total mass of asphalt binder when using foamed asphalt for the binder .
+This work consists of milling an existing asphalt pavement mixing the milled material with emulsified asphalt and lime relaying the material in a onepass operation and compacting the material to produce a recycled asphalt base .
+Collect representative samples of the existing pavement to be milled .
+Replace removed pavement with asphalt concrete conforming to Subsection .b or approved cold patch material .
+Submit the JMF and the following for approval days before production a Optimum emulsified asphalt binder content based on total mass of mixture b Source and grade of emulsified asphalt binder c Optimum moisture content for dispersion and compaction based on total mass of mixture d Lime content e Maximum density for the mixture f Bulk specific gravity for the mixture g Results of tests and applicable charts and graphs h A representative pound kilogram sample of pavement if requested i Three gallon liter samples of emulsified asphalt binder if requested and Section j pound kilogram sample of lime if requested .
+See Subsection .. Clear grub and remove vegetation and debris within inches millimeters of the pavement to be recycled according to Section .
+Clean the pavement and edge of pavement of loose material dirt vegetation and other deleterious material. . Equipment .
+Provide the following Automatic depth controls to maintain the cutting depth to within plus or minus ¼ inch millimeters Positive means cross slope elevation control Capability of milling the existing asphalt pavement material to the required depth in a single path and .
+Mill the existing pavement to the required depth and width .
+Measure pavement surface according to Subsection .
+Complete the adjoining pavement before placing an aggregatetopsoil course on the shoulder .
+This work consists of constructing one or more courses of asphalt concrete pavement using hot or warm mix asphalt HMA or WMA .
+Asphalt concrete pavement nominal maximum size aggregate size is designated according to Tables and .
+Provide asphalt concrete mixes of aggregate asphalt binder recycled asphalt pavement RAP and additives that meet the applicable material requirements and the appropriate design parameters in Table and are capable of being placed and compacted as specified .
+Design the cold feed bin conveyor system and special bin adjacent to the weigh hopper if used to avoid segregation and sticking of the recycled asphalt pavement material .
+Heat aggregate to a temperature that will transfer sufficient heat to the recycled asphalt pavement material to produce an asphalt concrete mix of uniform temperature within the range specified in the approved JMF .
+Apply an asphalt tack coat to contact surfaces of pavements curbs gutters manholes and other structures according to Section . .
+Accepted control strips may remain in place and will be accepted and measured as a part of the completed pavement .
+Complete pavement construction of adjacent traffic lanes to the same elevation within hours .
+Make transverse joints vertical to the depth of the new pavement at connections to existing pavements and previously placed lifts .
+Measure the profile of the pavement surface according to the designated pavement roughness type .
+In addition construct pavement surfaces to meet the requirements of Subsection .e .
+The MRI and areas of localized roughness will be used to determine payment for the designated pavement roughness type and pavement areas requiring surface corrections .
+Verification testing will consist of the CO profiling a section of pavement and comparing the results against the Contractors results for the same section of pavement .
+Equipment validation will consist of determining a cross correlation value on at least one section of pavement having a minimum length of feet meters .
+Measure the pavement profile in both wheel paths using a sensor path spacing of inches millimeters and centered in the traveled way of the lane .
+Export each profile elevation distance data header and marker information in pavement profile format ppf to a CD or DVD and submit after profiling .
+Section Use the following naming convention for electronic file submissions a For Type I and Type II pavement roughness Project Name or abbreviation _ beginning station_to_ending station _ Initial or Final Beaver_Cr_Rd__to__Initial.ppf .
+b For Type III pavement roughness Project Name or abbreviation _ beginning station_to_ending station Beaver_Cr_Rd__to_.ppf .
+meters for Type I and Type II pavement roughness or feet meters for Type III pavement roughness .
+b Type I pavement roughness .
+Measure the profile of the initial pavement surface before construction activities disturb the existing pavement surface .
+The initial pavement surface is defined as the existing pavement surface before construction actives begin .
+The localized roughness threshold computed to the nearest whole number for Type I pavement roughness is equal to the following Localized Roughness Threshold Initial Overall MRI .S where Initial Overall MRI MRI obtained before construction activities begin .
+Do not proceed with work that will disturb the initial pavement surface until the COs analysis is complete .
+Section Measure the profile of the final pavement surface before placing a surface treatment and within days of completing roadway paving .
+If a pavement has an overall negative percent improvement place a minimum inch millimeter overlay over the entire paved surface .
+Negative Improvement Negative Improvement Correct overlay Section c Type II pavement roughness .
+Measure the profile of the initial pavement surface before construction activities disturb the pavement surface .
+The initial pavement surface is defined as the original existing pavement surface before construction actives begin .
+The localized roughness threshold computed to the nearest whole number for Type II pavement roughness is equal to the following Localized Roughness Threshold Initial Overall MRI .S where Initial Overall MRI MRI obtained before construction activities begin .
+Do not proceed with work that will disturb the initial pavement surface until the COs analysis is complete .
+Measure the profile of the final pavement surface before placing a surface treatment and within days of completing roadway paving .
+If a pavement has less than a . percent improvement place a minimum inch millimeter overlay over the entire paved surface .
+Correct overlay d Type III pavement roughness .
+Measure the profile of the final pavement surface before placing a surface treatment and within days of completing roadway paving .
+Each area of localized roughness exceeding the threshold MRI specified for the designated pavement roughness type will receive a reduction in payment according to Table .
+Replace the defective area by milling at least onehalf the pavement depth and repaving with the approved asphalt concrete mix .
+percent of the design pavement thickness .
+Section After corrections are made remeasure the pavement profile according to Subsection .a .
+Construction of the HMA or WMA pavement course will be evaluated under Subsections .
+The accepted quantities will be paid at the contract price per unit of measurement for the Section pay items listed in the bid schedule except the asphalt concrete pavement contract price will be adjusted according to Subsections . . and Table .
+Section Payment for asphalt concrete pavement will be made at a price determined by multiplying the contract price by the material pay factor .
+PFVolumetric Pay factor for asphalt concrete pavement .
+If either the pay factor for the asphalt binder PFPG or the pay factor for asphalt concrete pavement PFVolumetric is below .
+the lot for asphalt concrete pavement is in reject .
+When the contract specifies a pavement roughness Type I Type II or Type III a separate pay adjustment will be made for pavement roughness calculated as follows Type I Type II or Type III Pay Adjustment RFPFrough .L LRPR where PFrough Pay factor from Tables or .
+Gradation AASHTO T T per submitted mix design Stockpiles Yes days before producing RAP asphalt binder content AASHTO T Bulk specific gravity of aggregate coarse and fine AASHTO T T VMA AASHTO R VFA Air voids Tensile strength ratio AASHTO T Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Production Startup control strip Asphalt concrete pavement Statistical .
+µm I Other specified sieves II Asphalt content I AASHTO T VMA I AASHTO R Density I AASHTO T minimum Inplace after compaction hours Deliver cores to CO after determining specific gravity and compaction Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Asphalt concrete pavement Measured and tested for conformance .
+Production Asphalt concrete pavement Statistical .
+Asphalt content I AASHTO T per tons metric tons Behind the paver before compaction Yes hours VMA I AASHTO R Density I AASHTO T Inplace after compacting hours Deliver cores to CO after testing is completed Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Production continued Asphalt concrete pavement Measured and tested for conformance .
+Quality See Table AASHTO M per tons metric tons of mix In line between tank and mixing plant Yes quart liter samples Test by Government Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Production continued Asphalt concrete pavement Process control .
+Gradation at plant AASHTO T T Contractor determined Cold feed or hot bins as applicable No hours Gradation at paver AASHTO T per tons metric tons of mix Behind the paver before compaction Moisture content of aggregates AASHTO T Contractor determined Stockpile Density ASTM D per feet meters Inplace after compacting Air voids AASHTO T T per tons metric tons of mix Behind the paver before compaction No hours VFA AASHTO R Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Finished Product Asphalt concrete pavement Measured and tested for conformance .
+This work consists of constructing one or more courses of asphalt concrete pavement using hot or warm mix asphalt HMA or WMA .
+HMA and WMA asphalt concrete pavement class is designated according to Table .
+Provide asphalt concrete mixes of aggregate asphalt binder recycled asphalt pavement RAP and additives that meet the applicable aggregate gradation in Table and design parameters a c and d or b c and d in Table for the class of mix listed in the bid schedule .
+Accepted control strips may remain in place and will be accepted and measured as a part of the completed pavement .
+Construction of the HMA or WMA pavement course will be evaluated under Subsections .
+The accepted quantities will be paid at the contract price per unit of measurement for the Section pay items listed in the bid schedule except for the asphalt concrete pavement contract price will be adjusted according to Subsections . . and Table .
+See Subsection .. Payment for asphalt concrete pavement will be made at a price determined by multiplying the contract price by the material pay factor .
+PFVolumetric Pay factor for asphalt concrete pavement .
+If either the pay factor for the asphalt binder PFPG or the pay factor for asphalt concrete pavement PFVolumetric is below .
+the lot for asphalt concrete pavement is in reject .
+When the contract specifies a pavement roughness Type I Type II or Type III a separate pay adjustment will be made for pavement roughness calculated as follows Type I Type II or Type III Pay Adjustment RFPFrough .L LRPR where PFrough Pay factor from Tables or .
+Gradation AASHTO T T per submitted mix design Stockpiles Yes days before paving RAP asphalt binder content AASHTO T RAP asphalt gradation AASHTO T Dry gradation no binder removed Bulk specific gravity of aggregate coarse fine AASHTO T T VMA AASHTO R VFA Air voids AASHTO T Hveem Svalue AASHTO T T Required only for Hveem mix Marshall stability flow AASHTO T Required only for Marshall mix Tensile strength ratio AASHTO T Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Production Startup control strip Asphalt concrete pavement Statistical .
+μm I Other specified sieves II Asphalt content I AASHTO T Density I AASHTO T minimum Inplace after compacting hours Deliver cores to CO after determining specific gravity and compaction Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Production Startup control strip Asphalt concrete pavement Measured and tested for conformance .
+Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Production Asphalt concrete pavement Statistical .
+μm I Other specified sieves II Asphalt content I AASHTO T Density I AASHTO T Inplace after compacting hours Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Production continued Asphalt concrete pavement Measured and tested for conformance .
+Quality See Table AASHTO M per tons metric tons of mix In line between tank mixing plan Yes quart liter samples Tested by Government Asphalt concrete pavement Process control .
+Gradation at plant AASHTO T T Contractor determined Cold feed or hot bins as applicable No hours Moisture content of aggregates AASHTO T Contractor determined Stockpile Density ASTM D per feet meters Inplace after compacting Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Finished Product Asphalt concrete pavement Measured and tested for conformance .
+Type I pavement roughness before construction Initial MRI AASHTO R R See Subsection .
+Left and right wheel paths No Within days of Notice to Proceed Original surface before construction Type I pavement roughness after construction Final MRI Within days after completing paving Type II pavement roughness before construction Initial MRI Within days of Notice to Proceed Original surface before construction Type II pavement roughness after construction Final MRI Within days after completing paving Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Finished Product continued Asphalt concrete pavement Measured and tested for conformance .
+Type III pavement roughness Final MRI AASHTO R R See Subsection .
+This work consists of constructing asphalt concrete pavement using a hot or warm mix asphalt HMA or WMA .
+Table Asphalt Concrete Mix Requirements Design Parameters Specification a Volumetric hot asphalt concrete pavement AASHTO M AASHTO R and AASHTO T Gyratory compaction level Volumetric properties at .
+Measure the pavement surface using a foot meter metal straightedge at right angles and parallel to the centerline .
+Continuously after compaction Finished pavement surface No Placement temperature First load and as determined by CO thereafter Hauling vehicle before dumping or windrow before pickup Upon completion of measurement Process control .
+Placement and compaction temperature First load and as determined by CO thereafter Hauling vehicle before dumping or windrow before pickup and pavement surface during rolling No Upon completion of measurement Asphalt binder .
+Continuously after compaction Finished pavement surface No hours Section Section .
+Remove or protect raised pavement markers pavement markings reflectorized tape and other material that interferes with the work .
+b Existing asphalt surfaces including recycled asphalt pavements .
+Calibrate asphalt distributors before the start of project and when directed by the CO. Calibrate the spray bar height check nozzle angle and verify longitudinal and transverse application rates according to ASTM D. Spread building paper on the pavement surface at the beginning and end of each asphalt application so distributor flow is started and stopped on the paper .
+This work consists of applying a polymermodified micro surfacing mix on an existing pavement surface .
+Provide power brooms air compressors water flushing equipment and hand brooms to clean the pavement surface .
+This work consists of applying an emulsified asphalt slurry seal mix on a pavement surface .
+Attaches to the mixer Flexible squeegee in contact with the pavement surface to prevent loss of material Adjustable to ensure a uniform spread over varying grades and crowns Adjustable in width with a flexible strikeoff and Augers for uniform flow to edges .
+This work consists of removing asphalt pavement by a cold milling process .
+Selfpropelled Sufficient power traction and stability to accurately maintain depth of cut Capable of removing the pavement thickness to provide profile and cross slope Automatic system to control grade elevations by referencing from the existing pavement by means of a ski matching shoe or from an independent grade control Automatic system to maintain cross slope System to effectively limit dust and other particulate matter from escaping removal operations Loading system or adequate support equipment to completely recover milled material at removal rate and Cutting width equal to at least onethird of the lane width .
+References may include a curb edge of pavement or string attached to the pavement surface .
+When the pavement remains open to traffic limit differences in elevation between adjacent lanes according to Subsection .. Mill the surface to conform to Subsection .. Use a sweeper immediately behind the milling operations to remove and completely recover loose material .
+Asphalt pavement milling will be evaluated under Subsections .
+and the following as applicable When measuring asphalt pavement milling by square yard square meter measure the length horizontally along the centerline of the roadway .
+This work consists of routing cleaning sealing and filling cracks in asphalt pavement surfaces .
+A power rotary impact router or vertical spindle router capable of creating a reservoir to the required depth and width without damaging adjacent pavement .
+Blow or brush dry material off the pavement surface. . Sealing and Filling .
+Do not seal or fill cracks when the pavement surface temperature is below F C and weather conditions are rainy or foggy .
+Warm and dry the crack surfaces using a hotcompressed air lance if the pavement temperature is lower than F C or moisture is present .
+Keep the lance moving to prevent burning the pavement surface .
+Place and finish the material within minutes after heating the pavement surface with the lance .
+Fill each crack flush with the pavement surface and compact the asphalt mixture .
+Material for asphalt pavement crack sealing or filling will be evaluated under Subsections .
+and .. Asphalt pavement crack sealing and filling will be evaluated under Subsections .
+This work consists of installing paving geotextile and asphalt binder between pavement layers to form a waterproofing and stressrelieving membrane within the pavement structure .
+Apply asphalt binder to the pavement surface according to Subsection .
+Broom and roll the paving geotextile to maximize fabric contact with the pavement surface .
+This work consists of repairing distressed areas of asphalt concrete pavement by removing and patching the pavement and underlying material as required .
+If patch limits are within inches millimeters of the pavement edge extend the patch limit to the pavement edge .
+Mill completely through the pavement or saw cut and remove the pavement .
+When saw cutting cut through the existing pavement and around the perimeter of the patch area .
+Remove the pavement base and subgrade to the depth shown in the plans .
+Place and compact asphalt concrete pavement to ensure the patched surface matches the same grade as the adjacent surface. . Asphalt Pavement Full Depth Patch Type FDP .
+If patch limits are within inches millimeters of the pavement edge extend the patch limit to the pavement edge .
+See Subsection .b except remove the pavement to expose subbase or subgrade as shown in the plans .
+Place and compact asphalt concrete pavement so the patched surface matches the same grade as the adjacent surface. . Asphalt Pavement Partial Depth Patch Type .
+Compact the asphalt concrete pavement patch to match the grade of the adjacent surface. . Disposing of Waste .
+Construction of asphalt concrete pavement patching will be evaluated under Subsections .
+This work consists of constructing minor concrete pavement on a prepared surface .
+Provide forms conforming to the following Height equal to the pavement thickness at the edge foot meter minimum length Stabilizing devices to secure form to the prepared surface and to withstand paving operations and pressure of concrete with no visible movement or settlement Joint locks to join form lengths tightly together and Clean and free of hardened concrete dirt distortion and rust .
+Conduct a preminor concrete pavement preparatory phase meeting according to Subsection .a . .
+Finish the concrete pavement to minus ¼ inch millimeters or plus ⅜ inch millimeters of the thickness required .
+When concrete is placed adjoining a previouslyconstructed lane of pavement do not operate mechanical equipment on the existing lane until the lane has attained A minimum flexural strength of pounds per square inch .
+When rain is threatening during paving operations stop paving operations and protect the concrete pavement from rain with plastic sheeting or other methods approved by the CO .
+Remove replace or repair pavement damaged by rain or hail as directed by the CO at no cost to the Government . .
+When curbs or medians are constructed integral with the pavement construct transverse joints continuous through the curb or median .
+Remove and replace newlyplaced concrete pavement where uncontrolled cracking occurs .
+Dowel and tie replacement pavement to adjacent pavement as specified .
+Align and hold dowels parallel to the surface and centerline of the slab by a metal assembly that remains in the pavement and is rigidly secured to the base or subgrade using stakes or nails .
+Section Use a metal or wooden bulkhead to form the joint shaped to the pavement crosssection and designed to permit the installation of dowel bars .
+Place a ½inch millimeter preformed joint filler continuously around or along each structure that extends into or through the pavement before concrete is placed .
+Before the concrete has initially set work the pavement edges on each side of isolation joints formed joints transverse and longitudinal construction joints and emergency construction joints to produce a ¼ inch millimeters or less continuous radius and a smooth dense mortar finish .
+Drag two layers of moistened burlap along the pavement in the direction of paving without tearing or marring the surface .
+Following the burlap drag use a tining comb to form grooves in the pavement surface .
+Broom transversely across the pavement .
+Pull the loosened semistiff mortar off the pavement .
+Remove the mortar from adjacent pavement .
+Cover the entire surface of the pavement and edges of the slab with water saturated mats .
+Extend the mats at least twice the thickness of the pavement beyond the edges of the slab .
+Prevent erosion of the base course beneath the exposed pavement edges until shoulders are constructed. . Sealing Joints .
+Saw cut and seal joints before the pavement is opened to construction or public traffic .
+Remove excess or spilled material and clean the pavement surface .
+Install the top of the seal about ¼ inch millimeters below the pavement surface .
+Measure the pavement surface after the concrete has cured .
+Do not allow traffic on new concrete pavement earlier than days after concrete placement unless concrete tests indicate one of the following conditions is obtained a Flexural strength of pounds per square inch megapascals according to AASHTO T or b Compressive strength of pounds per square inch megapascals according to AASHTO T . Do not allow traffic on the pavement when joint sealant is tacky and traffic debris would imbed into the sealant . .
+Material for minor concrete pavement will be evaluated under Section .
+and .. Construction of concrete pavement will be evaluated under Subsections .
+and the following as applicable When measuring concrete pavement by the square yard square meter measure the length horizontally along the centerline of the roadway .
+Concrete surface after floating While concrete is still workable Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Finished Roadway Concrete pavement Measured and tested for conformance .
+Successively after concrete has hardened Finished pavement surface No hours Pavement thickness AASHTO T When directed by the CO A single compressive strength test result is the average result from two by inch by millimeter or three by inch by millimeter cylinders cast from the same load and tested at days .
+This work consists of concrete pavement restoration .
+Concrete pavement restoration includes full depth patching partialdepth patching pavement jacking subsealing surface grinding crack and joint repair and cleaning .
+Minor concrete pavement Nonshrink grout .b Polymer concrete and mortar .
+Furnish drills that meet the following Drills for pavement jacking .
+Furnish an auger to open clogged holes and existing pavement jacking holes .
+Furnish power driven selfpropelled grinding equipment specifically designed to smooth and texture concrete pavement with diamond blades .
+Provide a milling machine with a micromilling head that does not exceed the bearing capacity of the concrete pavement and that conforms to Subsection .a .
+This work consists of patching spalls potholes corner breaks or other surface distresses in concrete pavement .
+Repair saw overcuts and nicks to adjacent pavement outside the perimeter of the repair area with noncorrosive nonshrink grout .
+to match the plane and texture of the contiguous pavement .
+When colored concrete is required begin concrete pavement restoration work after colored test panels submitted according to Subsection .
+Restore and compact shoulders with material similar to the existing shoulder. . Full Depth Patching welded wire reinforced jointed plain doweled or plain concrete pavement .
+This work consists of removing existing concrete pavement the full depth and replacing with new concrete .
+Begin pavement patch work after the concrete mix design has been approved according to Subsection .. a Concrete removal .
+Section Repair saw overcuts of repair areas and nicks to adjacent pavement outside the perimeter of the repair area with nonshrink grout .
+and the following Install dowels tie bars or both into existing concrete pavement slabs as shown in the plans .
+This work consists of repairing or resealing joints and cracks in existing concrete pavement .
+This work consists of raising and supporting the concrete pavement to the specified grade tolerances by drilling and injecting nonshrink hydraulic cement grout .
+Establish string lines from the pavement high points to monitor slab movement .
+Do not allow the discharge end of the packer or hose to extend below the bottom of the concrete pavement .
+Allow pumping to raise the pavement to within ⅛ inch millimeters of the string line grade when jacking continuouslyreinforced concrete pavement .
+Allow pumping to raise the pavement to within ¼ inch millimeters of the transverse and longitudinal grades when jacking jointed pavement and bridge approach slabs .
+If the pavement is bonded to the subbase brief pressure rises of seconds or less to pounds per square inch .
+Grind pavement raised above the specified tolerances to grade .
+Remove and replace the pavement according to Subsection .
+After completing the jacking and the hole plugs are removed fill drill holes flush with the pavement surface with a nonshrink grout or epoxy mortar. . Undersealing and Slab Stabilization .
+This work consists of pumping a nonshrink grout mixture through holes drilled in the pavement into voids underneath the slabs to stabilize and underseal concrete pavement .
+Test each designated slab using a static method as follows Position one set of gauges with one gauge referenced to the corner of each slab on both sides of the joint near the pavement edge Set the gauges to zero with no load on the slab on either side of the joint Move the test truck into position and stop with the center of the test axle inches millimeters behind the joint and the outside test wheel inches millimeters from the pavement edge .
+Monitor slab lift according to Subsection .. Limit upward movement of the pavement to ⅛ inch millimeters .
+Grind pavement raised more than the ⅛ inch millimeters .
+This work consists of grinding existing concrete pavement to eliminate joint or crack faults and providing positive lateral drainage .
+Produce a pavement surface that is true to grade smooth and consisting of a longitudinal corduroytype texture .
+Remove and dispose of solid residue from the pavement surfaces before it is blown by traffic action or wind .
+Test the ground pavement surfaces for pavement roughness according to Subsection .. Limit misalignment of surface planes on adjacent sides of the joints or cracks and between each grinding pass to less than inch .
+Produce a transverse slope of the pavement with no depressions or slope misalignment greater than ¼ inch in feet millimeters in meters tested perpendicular to the centerline .
+This work consists of cleaning the existing concrete pavement surface with a high pressure washing device approved by the CO .
+Vacuum the concrete surface to remove and collect water and debris after the pavement cleaning .
+Do not allow traffic on restored pavement until the concrete has a compressive strength of pounds per square inch megapascals when tested according to AASHTO T or until the grout used for jacking or undersealing the pavement has attained pounds per square inch megapascals when tested with a . square inch square millimeters probe according to AASHTO T . As an alternative method of determining the compressive strength of the restored pavement in situ compressive strength can be measured by developing a strengthmaturity relationship of the approved concrete mixture according to AASHTO T . Submit the strength maturity relationship for approval at least days before production .
+Material for concrete pavement restoration will be evaluated under Subsections .
+Concrete pavement restoration work including partialdepth patching pavement jacking subsealing surface grinding crack and joint repair cleaning and breaking and seating will be evaluated under Subsections .
+and the following as applicable When measuring grout for pavement jacking and undersealing by the cubic foot cubic meter measure by metering .
+Concrete surface after floating While concrete is still workable Section Table continued Sampling Testing and Acceptance Requirements Material or Product Subsection Type of Acceptance Subsection Characteristic Category Test Methods Specifications Sampling Frequency Point of Sampling Split Sample Reporting Time Remarks Finished Product Concrete pavement Measured and tested for conformance .
+Successively after concrete has hardened Finished pavement surface No hours A single compressive strength test result is the average result from two by inch by millimeter or three by inch by millimeter cylinders cast from the same load and tested at days .
+For bridge decks or top slabs of structures serving as finished pavements use an approved power driven finishing machine equipped with a screed that oscillates in a transverse direction .
+Use a float having a single row of fins or an approved machine designed specifically for sawing grooves in concrete pavements .
+Use an edging tool on transverse and longitudinal joints that are against forms or existing pavement .
+Broom transversely across the pavement .
+Pull the loosened semistiff mortar off the pavement .
+Remove the mortar from adjacent pavements .
+Then broom parallel to the pavement centerline .
+For roadway surfaces of bridge decks place a protective layer of asphalt concrete pavement as specified .
+This work consists of furnishing and installing underdrains sheet drains and pavement edge drains .
+Assemble the geocomposite pavement edge drain and outlet material according to the manufacturers recommendations and place it in the trench .
+Where a concrete pavement is constructed contiguous to the curb construct the joints in the curb directly in line with the pavement expansion joints .
+Make the curb joint ¾ inch millimeters wide and fill it with expansion joint filler of the same nominal thickness as the pavement joint .
+When the curb is constructed adjacent to or on concrete pavement match the contraction joints in the pavement .
+Where the curb is constructed adjacent to or on rigid pavement match the expansion joints in the pavement .
+Where curb is constructed on a pavement place a tack coat according to Section on the area under the curb .
+Match the joints in adjacent curb or pavement .
+When the pavement surface is within inches millimeter of the guardrail face install posts before placing the pavement surface .
+When a roadway is open to traffic during construction complete guardrail installations within days from the day the structure pavement shoulder or whichever is the controlling item of work is sufficiently completed to allow guardrail installation .
+Decrease the depth of the saw cut at the edge adjacent to the pavement to prevent pavement damage .
+Do not mark or deface structures pavements utilities or plant growth with tackifier or b Hydraulic method .
+This work consists of applying paint markings and markers on finished pavement .
+Pavement markings are designated as follows Type A Solventborne traffic paint with Type glass beads Type B Waterborne traffic paint with Type glass beads Type C Highbuild waterborne traffic paint with Type and Type glass beads Type D Epoxy markings with Type glass beads Type E Epoxy markings with Type and Type glass beads Type H Thermoplastic markings with Type glass beads Type I Thermoplastic markings with Type and Type glass beads Type J Preformed pavement marking tape or Type K Nonreflectorized markings .
+Preformed pavement marking tape .
+Where existing and final pavement marking locations are identical stake the limits of existing pavement markings before beginning pavement work .
+Submit manufacturers MSDS and product data sheets at least days before applying pavement markings .
+Where markings are placed on rigid pavement less than year old clean the pavement of laitance and curing compounds .
+Remove temporary pavement markings the same day permanent pavement markings are applied .
+Remove temporary and conflicting pavement makings according to Subsection .
+before applying permanent pavement markings .
+Current state approved pavement marking material may be used when approved by the CO .
+Apply paint when pavement and air temperatures are at F C and rising .
+On new asphalt pavements or new asphalt surface treatments apply two applications of paint and glass beads .
+Waterborne Traffic Paint Type B and Type C. Apply paint when pavement and air temperatures are F C and rising .
+On new asphalt pavements or new asphalt surface treatments apply two coats .
+kilograms per liter of paint. . Epoxy Markings Types D and Type E. Apply epoxy when pavement and air temperatures are F C and rising .
+Apply thermoplastic when pavement and air temperatures are F C and rising .
+Apply an epoxy resin primersealer according to the thermoplastic manufacturers recommendations when placing markings on rigid pavements or asphalt pavements more than years old oxidized or having exposed aggregates .
+Install to form a durable weather resistant bond to the pavement .
+Install raised or recessed pavement markers when the pavement and air temperatures are F C and rising .
+Apply pavement markers with an epoxy resin adhesive as recommended by the manufacturer when the pavement is dry .
+Material for permanent pavement markings will be evaluated under Subsections .
+Placing of permanent pavement markings will be evaluated under Subsections .
+and the following as applicable When pavement markings are measured by the linear foot meter measure the length of line applied along the centerline of each line applied regardless of color .
+Measure broken or dotted pavement lines from end to end of the line including gaps .
+Measure solid pavement lines from end to end of each continuous line .
+When pavement markings are measured by the square foot square meter measure the number of square feet square meter of line symbol or letter marking based on the marking area shown in the plans .
+Temporary pavement markings .
+Before opening a pavement surface to traffic remove conflicting pavement markings by sandblasting or other methods that do not damage the surface or texture of the pavement .
+Make the removal pattern uneven to not perpetuate the outline of the removed pavement markings .
+Section Place and maintain temporary pavement markings that are neat crack free true straight and unbroken .
+If temporary signs and pavement markers are substituted for temporary pavement markings install temporary signs and pavement markers according to the MUTCD and plans .
+For temporary pavement markings use preformed retroreflective tape traffic paint or pavement markers as follows a Preformed retroreflective tape .
+Remove loose preformed retroreflective tape before placing additional pavement layers .
+Do not use pavement markers during seasonal suspensions .
+Apply traffic paint as the temporary pavement marking if no work will be performed on the project for at least consecutive days .
+Remove temporary pavement markers before placing additional pavement layers or permanent pavement markings .
+Remove temporary markings after days and apply permanent pavement markings unless approved by the CO. . Vertical Panels .
+Secure the plates to the pavement to prevent movement . .
+When measuring temporary pavement markings measure only one application of pavement markings per lift .
+When temporary pavement markings are measured by the linear foot or mile meter or kilometer measure the number of linear feet or miles meters or kilometers of lines applied along the centerline of each inch millimeter wide line applied regardless of color .
+When temporary pavement markings are measured by the square foot square meter measure the number of square feet square meters of symbols or letter markings based on the marking area shown in the plans or if not shown the area of each marking measured in place to the nearest square foot square meter .
+When measuring temporary pavement markers measure only one application of pavement markings per lift even if replaced .
+Measure temporary pavement markers used at the option of the Contractor instead of temporary pavement markings as equivalent temporary pavement markings and not as temporary pavement markers .
+Section When measuring pavement marking removal measure the actual line removed .
+Do not install loops when the pavement is wet .
+Section Saw clean smooth welldefined inch millimeter wide and ¾inch millimeter deep cuts without damaging the adjacent pavement .
+Saw cut the leadin to the pull box as close as possible to the edge of pavement .
+Remove excess sealant and finish level with the pavement .
+Furnish dowel assemblies that hold dowel bars within ¼inch millimeter tolerance vertically and horizontally during concrete placement and permit unrestricted movement of the pavement slab .
+Joint and crack sealant hotapplied ASTM D Type II or Type III for concrete and asphalt concrete pavements Crack filler hotapplied for concrete ASTM D and asphalt concrete pavements Proprietary asphaltrubber products furnish the following a Source and grade of asphalt binder b Total quantity of granulated rubber and mass as a percent of asphaltrubber mixture c Granulated rubber types and quantity of each type if blend Mass as a percent of combined rubber and Gradation of granulated rubber .
+Preformed expansion joint filler AASHTO M for concrete bituminous type Preformed sponge rubber expansion AASHTO M Type I joint filler for concrete paving and structural construction Preformed cork expansion joint AASHTO M filler for concrete paving and structural construction Section Preformed expansion joint filler AASHTO M for concrete paving and structural construction nonextruding and resilient bituminous types c Preformed polychloroprene elastomeric joint seal for concrete pavements .
+d Coldapplied single component chemically curing silicone joint sealant for concrete pavement nonsag .
+e Coldapplied single component chemically curing silicone joint sealant for concrete pavement selfleveling .
+a Nonplowable extended life retroreflective pavement markers .
+Conform to ASTM D. b Plowable retroreflective pavement markers .
+Conform to ASTM D. c Nonreflective pavement markers .
+Furnish temporary pavement markers conforming to ASTM D or flexible pavement markers not exceeding approximately inches millimeters high with retroreflective tape on both faces of the vertical section capable of retroreflecting light from opposite directions and with an adhesive on the base .
+Furnish epoxy resin adhesives conforming to AASHTO M for bonding traffic markers to rigid and asphalt concrete pavements .
+c Water for earthwork pavement courses dust control and incidental construction .
+Deformed steel wire Direct indirect payment See Payment Direct costs Direct payment See Payment Disposal excess material material unsuitable material Disputes Dowel bars Drawings Asbuilt Earthwork geotextile Elastomeric bearings plain or laminated Embankment construction Environmental protection Epoxy mortar Epoxycoated reinforcing bars Excavation borrow subexcavation Excelsior fiber rolls Fabricated deformed steel bar or rod mats Fasteners MSE wall material Federal Lands Highway Field Materials Manual FMM Fillers crack preformed expansion joint Final acceptance See Acceptance Final payment Fly ash pozzolan material FP definition i Geotextile earthwork paving Geotextile silt fence Governmentprovided material stockpile See Material Sources sources See Material Sources Grading standards nursery stock Grass straw cellulose fiber mulch Gray iron castings Ground granulated blastfurnace slag pozzolan material Grounding and bonding equipment electrical material Grout posttensioned structures Grouted riprap Handling and storing material Hardware cloth MSE wall material Health High load rotational spherical bearings Highstrength lowalloy structural HSLA steel Highstrength quenched and tempered QT steel Hook bolts Indirect payment See Payment Industry standards Inspection at the plant Governments rights visual Inspection and Quarantine nursery stock Inspectors OSHA others Insurance automobile liability certificates of comprehensivegeneral workers compensation Invoices weighing Joint sealants Keyed riprap Laws Liquidated damages Load restrictions Lowmodulus silicone joint sealant Luminaries lighting material Maintaining roadways during nonwork periods during work Malleable iron castings Masonry cement Material disposal Handling and storing salvaging source management source restoration sources Material found in work Materials Manual See Federal Lands Highway Materials Manual Mature compost mulch Meaning of terms Measurement record format Meter cabinet electrical material Metric prefix symbols symbols Mineral filler Mineral slurry drilling fluids Mortar cement Neat hydraulic cement grout Nonnative plants Nonshrink grout Notice to Proceed Operations limitations on nighttime Overhead Painting steel Paleontological Partial acceptance See Acceptance Partnering Pavement markers temporary pavement markings Paving geotextile Pay factor concrete Payment final scope of Peat moss mulch Permits Placed riprap Plank floors Plant names Planting material antidesiccant Planting material braces and anchors Planting material hose Planting material tree wound dressing Planting material twine Planting material wire Planting material wrapping material Pole arms lighting material Poles lighting material Polyester resin grout Polymer concrete or mortar Polymer slurry drilling fluids Portland cement Posts silt fence Postwork pricing See Pricing Preconstruction conference Preformed expansion joint fillers joint seals sleeves Preformed polychloroprene elastomeric joint seal for bridges Preformed retroreflective tape temporary pavement markings Prework meeting Pricing adjustments direct costs overhead postwork profit unilateral determination Profit Progress payments Project weighing systems Protection archeological environmental See Environmental protection forests parks and public lands paleontological property railroad utilities workers Pull boxes frames and covers electrical material Quality of plant material Railroad Receiving procedures Recycled pulp fiber mulch Regulations blasting FAR i TAR i Reinforcing bars Reinforcing mesh MSE wall material Reinforcing strips MSE wall material Reset curb Restoration material source RightofWay furnishing Roadways maintaining during nonwork periods See Maintaining roadways maintaining during work See Maintaining roadways Safety audible alarms traffic and safety supervisor Safety disconnect switches electrical material Salvaging material Sample labeling Sand bags material Sanitation Scales See Weighing Schedules Scope of payment Secondary lightning arrester electrical material Service pole electrical material Sieve AASHTO M Silica fume pozzolan material Silicone joint sealer Silt fence reinforcement Slope notation Source of supply quality requirements Specifications format more strict Spill prevention control and countermeasure SPCC plan Steel castings Stop Order Straightedge measurement Straw mulch Straw fiber rolls Straw for hydroseeding mulch Structural carbon steel Structural steel bolts and nuts Structural steel highstrength bolts nuts and washers Subcontracting Substantial completion Surety Survey and staking tolerances Tackifier plant based Tackifier polmer stabilized fiber matrix Tackifier polymeric emulsion blend Tie bars Tie strips MSE wall material Time extensions Tolerances manufacturing Topsoil conserved Traffic and Safety Supervisor Traffic paint temporary pavement markings Trusses Tubular mesh for fiber rolls U.S .
