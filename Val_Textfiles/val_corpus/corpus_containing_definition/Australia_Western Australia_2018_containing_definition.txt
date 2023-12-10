@@ -1,0 +1,27 @@
+For terms and definitions refer to ASNZS ISO .
+The following particular definitions will apply Specification Traffic Issued Document No DXXXXXX Page of Contract No XXXXX Contract Name .
+The meaning of terms and definitions in this Specification shall be as defined in AS .
+The following particular definitions will apply .
+The meaning of terms and definitions in this Specification shall be as defined in ASNZS ISO .
+The following particular definitions will apply .
+Notwithstanding the definition in ASNZS ISO Environmental Aspect shall mean a component of all activities associated with the Contract that has the potential to cause changes to the environment .
+Notwithstanding the definition in ASNZS ISO Environmental Impact shall mean any change to the environment due to work under the Contract that can bring about either undesirable or desirable effects .
+The limits of clearing as nominated in the drawings or Table A. shall be in accordance with the definition of designated and other areas required to undertake works under the Contract and shall be pegged on site for the Superintendents inspection prior to the submission for a clearing Hold Point release .
+Figure C. Definition of Rock in Table Drain shows a diagrammatic definition for rock in table drains .
+Pits with rock bases shall be ripped and reinstated in accordance with this Specification unless the Contractor can demonstrate that the rock base meets the requirements for the definition for rock in accordance with Specification EARTHWORKS in which case reinstatement shall be in accordance with the Environmental Management Plan .
+Minimum cement content kgm Maximum cement content kgm For the purpose of this Annexure the following definition will apply .
+New definition on term binder .
+definitions .
+New definition for high stress seal .
+Update of definitions and Specification Asphalt Intermediate Course Issued Document No DXXXXXX Page of Contract No XXXXX Contract Name .
+The following definitions shall apply Specification Safety and Traffic Barrier Systems Issued Document No DXXXXXX Page of Contract No XXXXX Contract Name a .
+g. The meaning of terms and definitions in this specification shall be as defined in AS NZS .
+The following definitions shall apply a .
+Refer to Main Roads Glossary of terms for ITS for full list of terms and definitions .
+Applicable terms and definitions in addition to those in Main Roads Glossary of Terms are listed below ACMA Australian Communications Media Authority AMTS Asset Manager Traffic Systems ELV Extra Low Voltage As defined in ASNZS FIST Fibre Infrastructure System Technology FOBOT Fibre Optic Break Out Tray FRP Fibre Reinforced Plastic ITP Inspection and Test Procedure ITS Intelligent Transport Systems LSPM Light Source and Power Meter MBR Minimum Bend Radius NATA National Association of Testing Authorities OD Outside Diameter OTDR Optical Time Domain Reflectometer SMOF Single Mode Optical Fibre SZ Reversed Helical Stranding TCS Traffic Control System TOC Traffic Operations Centre MAIN ROADS Western Australia Specification Optical Fibre Installations Page of Contract xxxxx Document Issue Backbone Refers to the Optical Fibre Cable that provides communication connections between ITS Node Cabinets and or ITS Communications Cabins to TOC as well as communication connections via Branch Cables from ITS Field Cabinets to ITS Node Cabinets ITS Communications Cabins and TOC generally Fibre Cables and greater .
+DEFINITION OF TERMS All terms and definitions in addition to those provided in ASNZS .
+Applicable terms and definitions in addition to those provided in Main Roads Glossary of Terms and AS are listed below ACMA Australian Communications and Media Authority Group A collection of signs within an immediate area controlled by a single Group Controller .
+A section added for definition .
+For the purpose of this Specification the following definitions apply a .
+The following particular definitions will apply .
+The details shown on the shop drawings shall be consistent with the Drawings and shall comply with the following a. complete information regarding the member conforming to ASNZS Clause .. b. the marking plan shall show the location of each part in the structure c. shop drawings shall conform to the AS Series d. welding and cutting definitions shall conform to AS e. welding symbols shall conform to AS .

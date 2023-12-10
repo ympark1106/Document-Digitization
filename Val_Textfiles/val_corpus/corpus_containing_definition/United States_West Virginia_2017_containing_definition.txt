@@ -1,0 +1,11 @@
+See definition for Road in Section .
+TitlesThe titles or headings of the sections and subsections are intended for convenience of reference and shall not be considered as having any bearing on their interpretation except those titles and headings used in conjunction with the definition of terms .
+Working DayEvery day shown on the calendar exclusive of Saturdays Sundays and Holidays as set forth in definitions for Holidays in Section on which weather and other conditions not under the control of the Contractor will permit construction operations to proceed for a minimum of five hours with normal working forces engaged in performing the controlling item or items of work .
+The welding terms used in these specifications shall be interpreted in accordance with the definitions given in the latest edition of AWS DefinitionsWelding and Cutting AWS A. of the American Welding Society .
+.. Definitions Except as specifically defined otherwise the following definitions apply generally to the work of this section .
+.TRAFFIC SIGNAL MATERIALS AND EQUIPMENT .. Pretimed Fixed Cycle Traffic Signal Controllers Definition of Terms Following are definitions of terms used by the Division for pretimed fixed cycle traffic signal controllers Cabinet A dustproof and weatherproof enclosure for housing the controller and associated equipment .
+The above list of definitions may not be complete for all terms used .
+Where applicable and as approved by the Engineer definitions as published by the National Electrical Manufacturers Association Traffic Control Systems Standards may be applicable .
+For definition purposes traffic phases shall be considered as running in sequence such as ABCD etc .
+NOTE The above list of definitions may not be complete for all terms used .
+POSITION SIGNAL INDICATION Vertical Horizontal Red Yellow Green Straight Thru Arrow Left Turn Arrow Right Turn Arrow Dont Walk Symbol Walk Symbol Pedestrian signal indication shall be mounted separately below the conventional post mounted signal to allow for separate directional facing for these indications and to obtain definition of the signal by spacing .
